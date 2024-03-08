@@ -1,0 +1,201 @@
+"season","stateProvince","specRichness"
+"fall","Alabama",5525
+"fall","Alaska",1947
+"fall","Arizona",5066
+"fall","Arkansas",3741
+"fall","California",11058
+"fall","Colorado",3319
+"fall","Connecticut",3487
+"fall","Delaware",2198
+"fall","Florida",7562
+"fall","Georgia",4860
+"fall","Hawaii",2597
+"fall","Idaho",2065
+"fall","Illinois",4884
+"fall","Indiana",3960
+"fall","Iowa",2009
+"fall","Kansas",2388
+"fall","Kentucky",3408
+"fall","Louisiana",3472
+"fall","Maine",3024
+"fall","Maryland",5203
+"fall","Massachusetts",5262
+"fall","Michigan",4683
+"fall","Minnesota",3987
+"fall","Mississippi",3454
+"fall","Missouri",3838
+"fall","Montana",1559
+"fall","Nebraska",1836
+"fall","Nevada",1969
+"fall","New Hampshire",2660
+"fall","New Jersey",4842
+"fall","New Mexico",3701
+"fall","New York",6951
+"fall","North Carolina",6679
+"fall","North Dakota",775
+"fall","Ohio",5575
+"fall","Oklahoma",3510
+"fall","Oregon",4535
+"fall","Pennsylvania",5816
+"fall","Rhode Island",1902
+"fall","South Carolina",3875
+"fall","South Dakota",1199
+"fall","Tennessee",4520
+"fall","Texas",10782
+"fall","Utah",2442
+"fall","Vermont",3685
+"fall","Virginia",5731
+"fall","Washington",4877
+"fall","West Virginia",2762
+"fall","Wisconsin",4085
+"fall","Wyoming",1087
+"spring","Alabama",6298
+"spring","Alaska",1899
+"spring","Arizona",4560
+"spring","Arkansas",4128
+"spring","California",13335
+"spring","Colorado",3069
+"spring","Connecticut",2921
+"spring","Delaware",2146
+"spring","Florida",8799
+"spring","Georgia",5585
+"spring","Hawaii",2561
+"spring","Idaho",2036
+"spring","Illinois",4466
+"spring","Indiana",3057
+"spring","Iowa",1796
+"spring","Kansas",2220
+"spring","Kentucky",3735
+"spring","Louisiana",4398
+"spring","Maine",2130
+"spring","Maryland",5102
+"spring","Massachusetts",4532
+"spring","Michigan",3546
+"spring","Minnesota",3088
+"spring","Mississippi",3958
+"spring","Missouri",3760
+"spring","Montana",1512
+"spring","Nebraska",1782
+"spring","Nevada",2439
+"spring","New Hampshire",1946
+"spring","New Jersey",4310
+"spring","New Mexico",3290
+"spring","New York",5618
+"spring","North Carolina",7011
+"spring","North Dakota",645
+"spring","Ohio",4925
+"spring","Oklahoma",4234
+"spring","Oregon",4719
+"spring","Pennsylvania",5295
+"spring","Rhode Island",1518
+"spring","South Carolina",4488
+"spring","South Dakota",1110
+"spring","Tennessee",5107
+"spring","Texas",12179
+"spring","Utah",2693
+"spring","Vermont",2962
+"spring","Virginia",5906
+"spring","Washington",4699
+"spring","West Virginia",2641
+"spring","Wisconsin",3364
+"spring","Wyoming",903
+"summer","Alabama",6353
+"summer","Alaska",3598
+"summer","Arizona",6818
+"summer","Arkansas",4620
+"summer","California",13491
+"summer","Colorado",6262
+"summer","Connecticut",5283
+"summer","Delaware",2923
+"summer","Florida",7984
+"summer","Georgia",5711
+"summer","Hawaii",2503
+"summer","Idaho",3368
+"summer","Illinois",6662
+"summer","Indiana",5328
+"summer","Iowa",3305
+"summer","Kansas",3343
+"summer","Kentucky",4533
+"summer","Louisiana",4149
+"summer","Maine",5143
+"summer","Maryland",7304
+"summer","Massachusetts",7846
+"summer","Michigan",7104
+"summer","Minnesota",6209
+"summer","Mississippi",4162
+"summer","Missouri",4983
+"summer","Montana",3444
+"summer","Nebraska",3496
+"summer","Nevada",3280
+"summer","New Hampshire",4308
+"summer","New Jersey",6275
+"summer","New Mexico",5260
+"summer","New York",9840
+"summer","North Carolina",8333
+"summer","North Dakota",1540
+"summer","Ohio",7597
+"summer","Oklahoma",4594
+"summer","Oregon",6165
+"summer","Pennsylvania",8010
+"summer","Rhode Island",2906
+"summer","South Carolina",4831
+"summer","South Dakota",2322
+"summer","Tennessee",6012
+"summer","Texas",10881
+"summer","Utah",3884
+"summer","Vermont",5783
+"summer","Virginia",7410
+"summer","Washington",6315
+"summer","West Virginia",4537
+"summer","Wisconsin",6443
+"summer","Wyoming",2633
+"winter","Alabama",2806
+"winter","Alaska",929
+"winter","Arizona",2541
+"winter","Arkansas",1476
+"winter","California",9141
+"winter","Colorado",841
+"winter","Connecticut",1052
+"winter","Delaware",810
+"winter","Florida",6973
+"winter","Georgia",2576
+"winter","Hawaii",2619
+"winter","Idaho",494
+"winter","Illinois",1736
+"winter","Indiana",1053
+"winter","Iowa",447
+"winter","Kansas",656
+"winter","Kentucky",1350
+"winter","Louisiana",2250
+"winter","Maine",712
+"winter","Maryland",1865
+"winter","Massachusetts",1753
+"winter","Michigan",1278
+"winter","Minnesota",1082
+"winter","Mississippi",1975
+"winter","Missouri",1159
+"winter","Montana",394
+"winter","Nebraska",358
+"winter","Nevada",981
+"winter","New Hampshire",618
+"winter","New Jersey",1964
+"winter","New Mexico",1334
+"winter","New York",2490
+"winter","North Carolina",3014
+"winter","North Dakota",169
+"winter","Ohio",1911
+"winter","Oklahoma",1064
+"winter","Oregon",2415
+"winter","Pennsylvania",1972
+"winter","Rhode Island",587
+"winter","South Carolina",2142
+"winter","South Dakota",244
+"winter","Tennessee",1774
+"winter","Texas",7090
+"winter","Utah",779
+"winter","Vermont",921
+"winter","Virginia",2373
+"winter","Washington",2275
+"winter","West Virginia",1081
+"winter","Wisconsin",1068
+"winter","Wyoming",196

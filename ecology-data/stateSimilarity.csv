@@ -1,0 +1,2451 @@
+"state1","state2","jaccard"
+"Alaska","Alabama",0.0421190701741602
+"Arizona","Alabama",0.0950066539373951
+"Arkansas","Alabama",0.438408896492729
+"California","Alabama",0.0865225238498656
+"Colorado","Alabama",0.119347952648942
+"Connecticut","Alabama",0.303427031189834
+"Delaware","Alabama",0.305696144290052
+"Florida","Alabama",0.362259970457903
+"Georgia","Alabama",0.535244437225922
+"Hawaii","Alabama",0.0536063845806354
+"Idaho","Alabama",0.0774408228087423
+"Illinois","Alabama",0.358697250404352
+"Indiana","Alabama",0.328374483994081
+"Iowa","Alabama",0.233261710356682
+"Kansas","Alabama",0.262402659900254
+"Kentucky","Alabama",0.417059984553334
+"Louisiana","Alabama",0.450219876868953
+"Maine","Alabama",0.210091605346148
+"Maryland","Alabama",0.410888583616514
+"Massachusetts","Alabama",0.29576551455807
+"Michigan","Alabama",0.275041163556531
+"Minnesota","Alabama",0.227169918009613
+"Mississippi","Alabama",0.499125632765762
+"Missouri","Alabama",0.394260193532379
+"Montana","Alabama",0.0745441957073621
+"Nebraska","Alabama",0.207105064247921
+"Nevada","Alabama",0.0611177525403467
+"New Hampshire","Alabama",0.221299696631008
+"New Jersey","Alabama",0.364062729004837
+"New Mexico","Alabama",0.0982799369747899
+"New York","Alabama",0.30405013345712
+"North Carolina","Alabama",0.483972602739726
+"North Dakota","Alabama",0.0818324558972938
+"Ohio","Alabama",0.362360709863805
+"Oklahoma","Alabama",0.344743869871328
+"Oregon","Alabama",0.0948306384987608
+"Pennsylvania","Alabama",0.340652116749934
+"Rhode Island","Alabama",0.234692970763352
+"South Carolina","Alabama",0.50120960774149
+"South Dakota","Alabama",0.11939643828406
+"Tennessee","Alabama",0.481973281828424
+"Texas","Alabama",0.316321953650635
+"Utah","Alabama",0.0805204192265992
+"Vermont","Alabama",0.238559476173154
+"Virginia","Alabama",0.433245980593526
+"Washington","Alabama",0.0960895819897989
+"West Virginia","Alabama",0.323162620552045
+"Wisconsin","Alabama",0.270337833011928
+"Wyoming","Alabama",0.0541270881100557
+"Alabama","Alaska",0.0421190701741602
+"Arizona","Alaska",0.0585358157147365
+"Arkansas","Alaska",0.0485905044510386
+"California","Alaska",0.102122381477398
+"Colorado","Alaska",0.12717370533155
+"Connecticut","Alaska",0.0927361469997129
+"Delaware","Alaska",0.0660609037328094
+"Florida","Alaska",0.0327329192546584
+"Georgia","Alaska",0.0498354489891866
+"Hawaii","Alaska",0.0238870792616721
+"Idaho","Alaska",0.163316917343272
+"Illinois","Alaska",0.0780224345658496
+"Indiana","Alaska",0.0776409107876073
+"Iowa","Alaska",0.079345703125
+"Kansas","Alaska",0.056364712847839
+"Kentucky","Alaska",0.0634843946275002
+"Louisiana","Alaska",0.0382906306135955
+"Maine","Alaska",0.147291013301611
+"Maryland","Alaska",0.0721830985915493
+"Massachusetts","Alaska",0.10092789777913
+"Michigan","Alaska",0.128776109097186
+"Minnesota","Alaska",0.13531890442444
+"Mississippi","Alaska",0.0395333140487899
+"Missouri","Alaska",0.0595538131242416
+"Montana","Alaska",0.171072664359862
+"Nebraska","Alaska",0.0680640886640164
+"Nevada","Alaska",0.0762470602797376
+"New Hampshire","Alaska",0.134005096131573
+"New Jersey","Alaska",0.0824180361714427
+"New Mexico","Alaska",0.0741839762611276
+"New York","Alaska",0.100823979757348
+"North Carolina","Alaska",0.0650540469285526
+"North Dakota","Alaska",0.0866748380318683
+"Ohio","Alaska",0.0844077051418171
+"Oklahoma","Alaska",0.04358444486192
+"Oregon","Alaska",0.198530087276068
+"Pennsylvania","Alaska",0.0930249632892805
+"Rhode Island","Alaska",0.0917729757875553
+"South Carolina","Alaska",0.0451783355350066
+"South Dakota","Alaska",0.100273058252427
+"Tennessee","Alaska",0.0646651270207852
+"Texas","Alaska",0.0335706516365075
+"Utah","Alaska",0.109779031499765
+"Vermont","Alaska",0.124487404803749
+"Virginia","Alaska",0.0678605089538172
+"Washington","Alaska",0.234578301975101
+"West Virginia","Alaska",0.0875653082549634
+"Wisconsin","Alaska",0.121677171827898
+"Wyoming","Alaska",0.132533825338253
+"Alabama","Arizona",0.0950066539373951
+"Alaska","Arizona",0.0585358157147365
+"Arkansas","Arizona",0.106235245104847
+"California","Arizona",0.182731255683227
+"Colorado","Arizona",0.237639433222792
+"Connecticut","Arizona",0.089143865842895
+"Delaware","Arizona",0.0904769709883626
+"Florida","Arizona",0.0871745024811992
+"Georgia","Arizona",0.0954957145462282
+"Hawaii","Arizona",0.0436201544217146
+"Idaho","Arizona",0.154457498272287
+"Illinois","Arizona",0.110634269485642
+"Indiana","Arizona",0.103815439219166
+"Iowa","Arizona",0.103137544032113
+"Kansas","Arizona",0.129503002001334
+"Kentucky","Arizona",0.0947678083631015
+"Louisiana","Arizona",0.104380440167009
+"Maine","Arizona",0.0866742759309459
+"Maryland","Arizona",0.0969736222326896
+"Massachusetts","Arizona",0.090250028542071
+"Michigan","Arizona",0.102310231023102
+"Minnesota","Arizona",0.106864588930682
+"Mississippi","Arizona",0.0953498293515358
+"Missouri","Arizona",0.111845768374165
+"Montana","Arizona",0.132802354774478
+"Nebraska","Arizona",0.137820512820513
+"Nevada","Arizona",0.232099907493062
+"New Hampshire","Arizona",0.0836716283265674
+"New Jersey","Arizona",0.098983513077972
+"New Mexico","Arizona",0.390854033178267
+"New York","Arizona",0.0951004260499087
+"North Carolina","Arizona",0.0935543278084714
+"North Dakota","Arizona",0.0912938331318017
+"Ohio","Arizona",0.0993435194329867
+"Oklahoma","Arizona",0.148802570093458
+"Oregon","Arizona",0.14088326446281
+"Pennsylvania","Arizona",0.0976652601969058
+"Rhode Island","Arizona",0.0819058706136704
+"South Carolina","Arizona",0.0930540827147402
+"South Dakota","Arizona",0.121000471920717
+"Tennessee","Arizona",0.0990471414242728
+"Texas","Arizona",0.198994927672365
+"Utah","Arizona",0.244778761061947
+"Vermont","Arizona",0.0864970382337103
+"Virginia","Arizona",0.0981671679055779
+"Washington","Arizona",0.13134328358209
+"West Virginia","Arizona",0.085578103560338
+"Wisconsin","Arizona",0.103977532492979
+"Wyoming","Arizona",0.129959476015456
+"Alabama","Arkansas",0.438408896492729
+"Alaska","Arkansas",0.0485905044510386
+"Arizona","Arkansas",0.106235245104847
+"California","Arkansas",0.0811306901615272
+"Colorado","Arkansas",0.148739765612458
+"Connecticut","Arkansas",0.307187089510227
+"Delaware","Arkansas",0.347454567336623
+"Florida","Arkansas",0.251045751633987
+"Georgia","Arkansas",0.407269832846909
+"Hawaii","Arkansas",0.0467174119885823
+"Idaho","Arkansas",0.102144745862305
+"Illinois","Arkansas",0.431555596635549
+"Indiana","Arkansas",0.385145784081954
+"Iowa","Arkansas",0.316179879462216
+"Kansas","Arkansas",0.382708585247884
+"Kentucky","Arkansas",0.469724970105446
+"Louisiana","Arkansas",0.429358186824825
+"Maine","Arkansas",0.220517113095238
+"Maryland","Arkansas",0.384596044250754
+"Massachusetts","Arkansas",0.27669647553919
+"Michigan","Arkansas",0.30237220180421
+"Minnesota","Arkansas",0.26912206323971
+"Mississippi","Arkansas",0.449994546842622
+"Missouri","Arkansas",0.521619841966637
+"Montana","Arkansas",0.101244230383303
+"Nebraska","Arkansas",0.284424379232506
+"Nevada","Arkansas",0.0800732318365774
+"New Hampshire","Arkansas",0.242301867743564
+"New Jersey","Arkansas",0.353639514731369
+"New Mexico","Arkansas",0.127102650365143
+"New York","Arkansas",0.284094654274603
+"North Carolina","Arkansas",0.374227259346482
+"North Dakota","Arkansas",0.123856167031834
+"Ohio","Arkansas",0.370476035213564
+"Oklahoma","Arkansas",0.463372717508056
+"Oregon","Arkansas",0.106134925712661
+"Pennsylvania","Arkansas",0.3317771314863
+"Rhode Island","Arkansas",0.267558139534884
+"South Carolina","Arkansas",0.404629358335775
+"South Dakota","Arkansas",0.176605228285749
+"Tennessee","Arkansas",0.472829720179544
+"Texas","Arkansas",0.292154049878614
+"Utah","Arkansas",0.105910646563685
+"Vermont","Arkansas",0.244765791341377
+"Virginia","Arkansas",0.39281098546042
+"Washington","Arkansas",0.105767199492993
+"West Virginia","Arkansas",0.351673640167364
+"Wisconsin","Arkansas",0.299455375966268
+"Wyoming","Arkansas",0.0802536628034113
+"Alabama","California",0.0865225238498656
+"Alaska","California",0.102122381477398
+"Arizona","California",0.182731255683227
+"Arkansas","California",0.0811306901615272
+"Colorado","California",0.166501015513591
+"Connecticut","California",0.0892608660063845
+"Delaware","California",0.0705671374131361
+"Florida","California",0.0822281167108753
+"Georgia","California",0.0880070009892702
+"Hawaii","California",0.0419709634843819
+"Idaho","California",0.157103494948518
+"Illinois","California",0.104182181632893
+"Indiana","California",0.096735832034774
+"Iowa","California",0.0755223479933784
+"Kansas","California",0.0787672764682202
+"Kentucky","California",0.080046164626355
+"Louisiana","California",0.077768629065459
+"Maine","California",0.0952845804507449
+"Maryland","California",0.101746708416645
+"Massachusetts","California",0.107164179104478
+"Michigan","California",0.114681069147678
+"Minnesota","California",0.106828689497156
+"Mississippi","California",0.0723189961198712
+"Missouri","California",0.0870081480571592
+"Montana","California",0.123575227963526
+"Nebraska","California",0.0858754512635379
+"Nevada","California",0.18014324524574
+"New Hampshire","California",0.0828097239675868
+"New Jersey","California",0.106749041995777
+"New Mexico","California",0.144323645341534
+"New York","California",0.127453729669097
+"North Carolina","California",0.104240033807579
+"North Dakota","California",0.0519512434876634
+"Ohio","California",0.109247489752172
+"Oklahoma","California",0.0906716417910448
+"Oregon","California",0.301880704342214
+"Pennsylvania","California",0.115420266211857
+"Rhode Island","California",0.0709290709290709
+"South Carolina","California",0.0801803959131545
+"South Dakota","California",0.0709855929777693
+"Tennessee","California",0.091286790401491
+"Texas","California",0.133536374768439
+"Utah","California",0.161669024045262
+"Vermont","California",0.0921504497138185
+"Virginia","California",0.105994530268313
+"Washington","California",0.265762953714439
+"West Virginia","California",0.0811096098631988
+"Wisconsin","California",0.105140374869278
+"Wyoming","California",0.090263348634936
+"Alabama","Colorado",0.119347952648942
+"Alaska","Colorado",0.12717370533155
+"Arizona","Colorado",0.237639433222792
+"Arkansas","Colorado",0.148739765612458
+"California","Colorado",0.166501015513591
+"Connecticut","Colorado",0.168828011022856
+"Delaware","Colorado",0.146037661828168
+"Florida","Colorado",0.0870528297707387
+"Georgia","Colorado",0.122740963855422
+"Hawaii","Colorado",0.0329018338727077
+"Idaho","Colorado",0.299723298284449
+"Illinois","Colorado",0.202544031311155
+"Indiana","Colorado",0.175838383838384
+"Iowa","Colorado",0.199493670886076
+"Kansas","Colorado",0.217355793772333
+"Kentucky","Colorado",0.148749487494875
+"Louisiana","Colorado",0.118442098528471
+"Maine","Colorado",0.183343475615057
+"Maryland","Colorado",0.160220994475138
+"Massachusetts","Colorado",0.174517841542907
+"Michigan","Colorado",0.213568787261339
+"Minnesota","Colorado",0.239199332777314
+"Mississippi","Colorado",0.1136785973984
+"Missouri","Colorado",0.181301950456753
+"Montana","Colorado",0.319521178637201
+"Nebraska","Colorado",0.275276673471581
+"Nevada","Colorado",0.229039714225678
+"New Hampshire","Colorado",0.173976876491099
+"New Jersey","Colorado",0.16519600752206
+"New Mexico","Colorado",0.350902184235518
+"New York","Colorado",0.175397292525015
+"North Carolina","Colorado",0.137008247789711
+"North Dakota","Colorado",0.186421025508889
+"Ohio","Colorado",0.179011925042589
+"Oklahoma","Colorado",0.214962121212121
+"Oregon","Colorado",0.23084592376716
+"Pennsylvania","Colorado",0.173191684700636
+"Rhode Island","Colorado",0.150737522731865
+"South Carolina","Colorado",0.118961625282167
+"South Dakota","Colorado",0.247688564476886
+"Tennessee","Colorado",0.150802835237957
+"Texas","Colorado",0.165447986740762
+"Utah","Colorado",0.365481676541584
+"Vermont","Colorado",0.188021600392734
+"Virginia","Colorado",0.153525891230809
+"Washington","Colorado",0.236124895030155
+"West Virginia","Colorado",0.153435968005504
+"Wisconsin","Colorado",0.220412074748443
+"Wyoming","Colorado",0.310044219835755
+"Alabama","Connecticut",0.303427031189834
+"Alaska","Connecticut",0.0927361469997129
+"Arizona","Connecticut",0.089143865842895
+"Arkansas","Connecticut",0.307187089510227
+"California","Connecticut",0.0892608660063845
+"Colorado","Connecticut",0.168828011022856
+"Delaware","Connecticut",0.385878891885266
+"Florida","Connecticut",0.177647274729308
+"Georgia","Connecticut",0.32511785625672
+"Hawaii","Connecticut",0.0348328210859644
+"Idaho","Connecticut",0.133679169992019
+"Illinois","Connecticut",0.413886874546773
+"Indiana","Connecticut",0.410991636798088
+"Iowa","Connecticut",0.324630314232902
+"Kansas","Connecticut",0.271055818562149
+"Kentucky","Connecticut",0.388832280415733
+"Louisiana","Connecticut",0.247913418325232
+"Maine","Connecticut",0.441032342371774
+"Maryland","Connecticut",0.476998223801066
+"Massachusetts","Connecticut",0.531482310792656
+"Michigan","Connecticut",0.454966641957005
+"Minnesota","Connecticut",0.37450161382191
+"Mississippi","Connecticut",0.255267347129881
+"Missouri","Connecticut",0.370098039215686
+"Montana","Connecticut",0.133667416649622
+"Nebraska","Connecticut",0.271017699115044
+"Nevada","Connecticut",0.0769743101807802
+"New Hampshire","Connecticut",0.474815870753148
+"New Jersey","Connecticut",0.497477391718229
+"New Mexico","Connecticut",0.108921992631748
+"New York","Connecticut",0.462560656961553
+"North Carolina","Connecticut",0.377961998386032
+"North Dakota","Connecticut",0.136275897567881
+"Ohio","Connecticut",0.457999483070561
+"Oklahoma","Connecticut",0.264175257731959
+"Oregon","Connecticut",0.140465793304221
+"Pennsylvania","Connecticut",0.490044247787611
+"Rhode Island","Connecticut",0.447102115915363
+"South Carolina","Connecticut",0.311611910580143
+"South Dakota","Connecticut",0.178780284043442
+"Tennessee","Connecticut",0.382342470630118
+"Texas","Connecticut",0.181352613345383
+"Utah","Connecticut",0.118154017236586
+"Vermont","Connecticut",0.47918410041841
+"Virginia","Connecticut",0.434606481481481
+"Washington","Connecticut",0.157189901207464
+"West Virginia","Connecticut",0.451548229004233
+"Wisconsin","Connecticut",0.432705248990579
+"Wyoming","Connecticut",0.0950345281157514
+"Alabama","Delaware",0.305696144290052
+"Alaska","Delaware",0.0660609037328094
+"Arizona","Delaware",0.0904769709883626
+"Arkansas","Delaware",0.347454567336623
+"California","Delaware",0.0705671374131361
+"Colorado","Delaware",0.146037661828168
+"Connecticut","Delaware",0.385878891885266
+"Florida","Delaware",0.191988451822447
+"Georgia","Delaware",0.343241330502477
+"Hawaii","Delaware",0.0449157829070493
+"Idaho","Delaware",0.123730138056786
+"Illinois","Delaware",0.3446941975954
+"Indiana","Delaware",0.372704357220022
+"Iowa","Delaware",0.330995578594298
+"Kansas","Delaware",0.331066787549109
+"Kentucky","Delaware",0.402420185375901
+"Louisiana","Delaware",0.301640522093162
+"Maine","Delaware",0.294327990135635
+"Maryland","Delaware",0.403535353535354
+"Massachusetts","Delaware",0.315172603241461
+"Michigan","Delaware",0.303246557442959
+"Minnesota","Delaware",0.259302949061662
+"Mississippi","Delaware",0.327485380116959
+"Missouri","Delaware",0.371278672523182
+"Montana","Delaware",0.118269488347174
+"Nebraska","Delaware",0.291531425199174
+"Nevada","Delaware",0.0854938661945112
+"New Hampshire","Delaware",0.335402869757174
+"New Jersey","Delaware",0.416040100250627
+"New Mexico","Delaware",0.115125966074476
+"New York","Delaware",0.2914719178607
+"North Carolina","Delaware",0.320197449609214
+"North Dakota","Delaware",0.157235093049753
+"Ohio","Delaware",0.330114382148884
+"Oklahoma","Delaware",0.30447159293085
+"Oregon","Delaware",0.112793598898735
+"Pennsylvania","Delaware",0.328806547351381
+"Rhode Island","Delaware",0.419139084205111
+"South Carolina","Delaware",0.368090306063075
+"South Dakota","Delaware",0.198757763975155
+"Tennessee","Delaware",0.365489275424181
+"Texas","Delaware",0.171700664938578
+"Utah","Delaware",0.118570914758422
+"Vermont","Delaware",0.29558105191412
+"Virginia","Delaware",0.370814967645128
+"Washington","Delaware",0.11645180568599
+"West Virginia","Delaware",0.38966122283709
+"Wisconsin","Delaware",0.291750716636586
+"Wyoming","Delaware",0.0947781466948385
+"Alabama","Florida",0.362259970457903
+"Alaska","Florida",0.0327329192546584
+"Arizona","Florida",0.0871745024811992
+"Arkansas","Florida",0.251045751633987
+"California","Florida",0.0822281167108753
+"Colorado","Florida",0.0870528297707387
+"Connecticut","Florida",0.177647274729308
+"Delaware","Florida",0.191988451822447
+"Georgia","Florida",0.358697043389223
+"Hawaii","Florida",0.0820128621626997
+"Idaho","Florida",0.0544633199720048
+"Illinois","Florida",0.203064469499855
+"Indiana","Florida",0.186616053388845
+"Iowa","Florida",0.137371257076598
+"Kansas","Florida",0.164928382700598
+"Kentucky","Florida",0.211822976971568
+"Louisiana","Florida",0.345754953150705
+"Maine","Florida",0.126710654936461
+"Maryland","Florida",0.246077480458721
+"Massachusetts","Florida",0.183950748328203
+"Michigan","Florida",0.161141651396524
+"Minnesota","Florida",0.130779392338177
+"Mississippi","Florida",0.336348625170508
+"Missouri","Florida",0.218109086291193
+"Montana","Florida",0.0503448720428028
+"Nebraska","Florida",0.130908844643099
+"Nevada","Florida",0.0509983466870151
+"New Hampshire","Florida",0.131048645873444
+"New Jersey","Florida",0.234014968471919
+"New Mexico","Florida",0.0811960962324104
+"New York","Florida",0.191562965454283
+"North Carolina","Florida",0.313191023535851
+"North Dakota","Florida",0.0562786848243172
+"Ohio","Florida",0.198137721957557
+"Oklahoma","Florida",0.223154904113127
+"Oregon","Florida",0.0694565384418378
+"Pennsylvania","Florida",0.192650918635171
+"Rhode Island","Florida",0.150109905693824
+"South Carolina","Florida",0.359064569536424
+"South Dakota","Florida",0.0784958535887904
+"Tennessee","Florida",0.242050422180969
+"Texas","Florida",0.287833295989245
+"Utah","Florida",0.0601411475912857
+"Vermont","Florida",0.132307332202001
+"Virginia","Florida",0.25960250111657
+"Washington","Florida",0.0694409116345322
+"West Virginia","Florida",0.168545803971813
+"Wisconsin","Florida",0.150045745654163
+"Wyoming","Florida",0.0381830601092896
+"Alabama","Georgia",0.535244437225922
+"Alaska","Georgia",0.0498354489891866
+"Arizona","Georgia",0.0954957145462282
+"Arkansas","Georgia",0.407269832846909
+"California","Georgia",0.0880070009892702
+"Colorado","Georgia",0.122740963855422
+"Connecticut","Georgia",0.32511785625672
+"Delaware","Georgia",0.343241330502477
+"Florida","Georgia",0.358697043389223
+"Hawaii","Georgia",0.0543653350515464
+"Idaho","Georgia",0.0840848159883012
+"Illinois","Georgia",0.353507353507354
+"Indiana","Georgia",0.344991256557582
+"Iowa","Georgia",0.241665897128082
+"Kansas","Georgia",0.261072261072261
+"Kentucky","Georgia",0.414205472005798
+"Louisiana","Georgia",0.424810311728677
+"Maine","Georgia",0.230128567963128
+"Maryland","Georgia",0.424929178470255
+"Massachusetts","Georgia",0.308304189810053
+"Michigan","Georgia",0.290374370575786
+"Minnesota","Georgia",0.232237777944149
+"Mississippi","Georgia",0.455121535987894
+"Missouri","Georgia",0.380548585272995
+"Montana","Georgia",0.0801984291029351
+"Nebraska","Georgia",0.209156193895871
+"Nevada","Georgia",0.0652835629605896
+"New Hampshire","Georgia",0.249891464791178
+"New Jersey","Georgia",0.387683146595628
+"New Mexico","Georgia",0.0994858969014867
+"New York","Georgia",0.313702801461632
+"North Carolina","Georgia",0.505656272661349
+"North Dakota","Georgia",0.0880724710619024
+"Ohio","Georgia",0.363066051341217
+"Oklahoma","Georgia",0.322838622779695
+"Oregon","Georgia",0.101541534044811
+"Pennsylvania","Georgia",0.352790116601888
+"Rhode Island","Georgia",0.26126213592233
+"South Carolina","Georgia",0.54131187423973
+"South Dakota","Georgia",0.121971990915973
+"Tennessee","Georgia",0.474198164828689
+"Texas","Georgia",0.281408549756367
+"Utah","Georgia",0.0866470679251122
+"Vermont","Georgia",0.251144741948002
+"Virginia","Georgia",0.459094339622642
+"Washington","Georgia",0.1037841191067
+"West Virginia","Georgia",0.349878608038845
+"Wisconsin","Georgia",0.272364157057804
+"Wyoming","Georgia",0.0577942735949099
+"Alabama","Hawaii",0.0536063845806354
+"Alaska","Hawaii",0.0238870792616721
+"Arizona","Hawaii",0.0436201544217146
+"Arkansas","Hawaii",0.0467174119885823
+"California","Hawaii",0.0419709634843819
+"Colorado","Hawaii",0.0329018338727077
+"Connecticut","Hawaii",0.0348328210859644
+"Delaware","Hawaii",0.0449157829070493
+"Florida","Hawaii",0.0820128621626997
+"Georgia","Hawaii",0.0543653350515464
+"Idaho","Hawaii",0.0337092424613876
+"Illinois","Hawaii",0.0375982961992136
+"Indiana","Hawaii",0.0368013281682346
+"Iowa","Hawaii",0.033418089357065
+"Kansas","Hawaii",0.0397103198551599
+"Kentucky","Hawaii",0.0405563120015561
+"Louisiana","Hawaii",0.0671798460461861
+"Maine","Hawaii",0.0296851574212894
+"Maryland","Hawaii",0.0382720727548314
+"Massachusetts","Hawaii",0.0326530612244898
+"Michigan","Hawaii",0.0317498788172564
+"Minnesota","Hawaii",0.0285001781261133
+"Mississippi","Hawaii",0.0576592951630819
+"Missouri","Hawaii",0.0395331325301205
+"Montana","Hawaii",0.0264350453172205
+"Nebraska","Hawaii",0.0365750272496064
+"Nevada","Hawaii",0.0392764217569074
+"New Hampshire","Hawaii",0.0309816284378737
+"New Jersey","Hawaii",0.040565807657914
+"New Mexico","Hawaii",0.0378434914899686
+"New York","Hawaii",0.0342044819666025
+"North Carolina","Hawaii",0.0439936775553214
+"North Dakota","Hawaii",0.0266272189349112
+"Ohio","Hawaii",0.0343756930583278
+"Oklahoma","Hawaii",0.0427606177606178
+"Oregon","Hawaii",0.0383079305566876
+"Pennsylvania","Hawaii",0.0352172678216416
+"Rhode Island","Hawaii",0.0396294390118374
+"South Carolina","Hawaii",0.0581182500457624
+"South Dakota","Hawaii",0.033784789403185
+"Tennessee","Hawaii",0.0407168814007268
+"Texas","Hawaii",0.0527983644262714
+"Utah","Hawaii",0.0368898978433598
+"Vermont","Hawaii",0.0288179148311307
+"Virginia","Hawaii",0.0410741355663033
+"Washington","Hawaii",0.0353640893746986
+"West Virginia","Hawaii",0.0346205059920107
+"Wisconsin","Hawaii",0.0313576843556168
+"Wyoming","Hawaii",0.0240824024372552
+"Alabama","Idaho",0.0774408228087423
+"Alaska","Idaho",0.163316917343272
+"Arizona","Idaho",0.154457498272287
+"Arkansas","Idaho",0.102144745862305
+"California","Idaho",0.157103494948518
+"Colorado","Idaho",0.299723298284449
+"Connecticut","Idaho",0.133679169992019
+"Delaware","Idaho",0.123730138056786
+"Florida","Idaho",0.0544633199720048
+"Georgia","Idaho",0.0840848159883012
+"Hawaii","Idaho",0.0337092424613876
+"Illinois","Idaho",0.136423608056997
+"Indiana","Idaho",0.136219849742981
+"Iowa","Idaho",0.157686734290607
+"Kansas","Idaho",0.144867656552615
+"Kentucky","Idaho",0.117551020408163
+"Louisiana","Idaho",0.0761201378631216
+"Maine","Idaho",0.163854890285588
+"Maryland","Idaho",0.11508031647087
+"Massachusetts","Idaho",0.126200702850449
+"Michigan","Idaho",0.165354330708661
+"Minnesota","Idaho",0.179746076177147
+"Mississippi","Idaho",0.0793922318373918
+"Missouri","Idaho",0.123073864201213
+"Montana","Idaho",0.429275756545393
+"Nebraska","Idaho",0.190006752194463
+"Nevada","Idaho",0.284525048312769
+"New Hampshire","Idaho",0.159442724458204
+"New Jersey","Idaho",0.12370867768595
+"New Mexico","Idaho",0.199441520781871
+"New York","Idaho",0.125807095786461
+"North Carolina","Idaho",0.0934953829440521
+"North Dakota","Idaho",0.191786129407207
+"Ohio","Idaho",0.128138116733983
+"Oklahoma","Idaho",0.116767676767677
+"Oregon","Idaho",0.341317365269461
+"Pennsylvania","Idaho",0.12824218452879
+"Rhode Island","Idaho",0.141819676623733
+"South Carolina","Idaho",0.0827605169095408
+"South Dakota","Idaho",0.227660300136426
+"Tennessee","Idaho",0.10819898267092
+"Texas","Idaho",0.0764584408879711
+"Utah","Idaho",0.363345919256462
+"Vermont","Idaho",0.15333534560821
+"Virginia","Idaho",0.107045866022933
+"Washington","Idaho",0.340032646398694
+"West Virginia","Idaho",0.130596200043678
+"Wisconsin","Idaho",0.164396609200876
+"Wyoming","Idaho",0.360372093023256
+"Alabama","Illinois",0.358697250404352
+"Alaska","Illinois",0.0780224345658496
+"Arizona","Illinois",0.110634269485642
+"Arkansas","Illinois",0.431555596635549
+"California","Illinois",0.104182181632893
+"Colorado","Illinois",0.202544031311155
+"Connecticut","Illinois",0.413886874546773
+"Delaware","Illinois",0.3446941975954
+"Florida","Illinois",0.203064469499855
+"Georgia","Illinois",0.353507353507354
+"Hawaii","Illinois",0.0375982961992136
+"Idaho","Illinois",0.136423608056997
+"Indiana","Illinois",0.523292978208232
+"Iowa","Illinois",0.408240510435817
+"Kansas","Illinois",0.373270440251572
+"Kentucky","Illinois",0.481994730164926
+"Louisiana","Illinois",0.307745385544247
+"Maine","Illinois",0.315864400747397
+"Maryland","Illinois",0.473228027541515
+"Massachusetts","Illinois",0.41079936474325
+"Michigan","Illinois",0.480864939076712
+"Minnesota","Illinois",0.4323358642251
+"Mississippi","Illinois",0.31873071837814
+"Missouri","Illinois",0.525788387857353
+"Montana","Illinois",0.138828828828829
+"Nebraska","Illinois",0.335448868870918
+"Nevada","Illinois",0.0861312637084528
+"New Hampshire","Illinois",0.330951700485853
+"New Jersey","Illinois",0.439623584277149
+"New Mexico","Illinois",0.135170990566038
+"New York","Illinois",0.438865074505001
+"North Carolina","Illinois",0.386529415774763
+"North Dakota","Illinois",0.150293498726326
+"Ohio","Illinois",0.545842395850761
+"Oklahoma","Illinois",0.363960749330955
+"Oregon","Illinois",0.144508670520231
+"Pennsylvania","Illinois",0.474746693479774
+"Rhode Island","Illinois",0.306884359400998
+"South Carolina","Illinois",0.321475625823452
+"South Dakota","Illinois",0.212793041264453
+"Tennessee","Illinois",0.463640256959315
+"Texas","Illinois",0.25
+"Utah","Illinois",0.134032634032634
+"Vermont","Illinois",0.381778169014085
+"Virginia","Illinois",0.450076687116564
+"Washington","Illinois",0.157470345195255
+"West Virginia","Illinois",0.410968178740691
+"Wisconsin","Illinois",0.49600072714052
+"Wyoming","Illinois",0.103507598203192
+"Alabama","Indiana",0.328374483994081
+"Alaska","Indiana",0.0776409107876073
+"Arizona","Indiana",0.103815439219166
+"Arkansas","Indiana",0.385145784081954
+"California","Indiana",0.096735832034774
+"Colorado","Indiana",0.175838383838384
+"Connecticut","Indiana",0.410991636798088
+"Delaware","Indiana",0.372704357220022
+"Florida","Indiana",0.186616053388845
+"Georgia","Indiana",0.344991256557582
+"Hawaii","Indiana",0.0368013281682346
+"Idaho","Indiana",0.136219849742981
+"Illinois","Indiana",0.523292978208232
+"Iowa","Indiana",0.403534253207456
+"Kansas","Indiana",0.350647848218417
+"Kentucky","Indiana",0.47766323024055
+"Louisiana","Indiana",0.277767441860465
+"Maine","Indiana",0.320324078648355
+"Maryland","Indiana",0.43784850304538
+"Massachusetts","Indiana",0.366188248354611
+"Michigan","Indiana",0.455414598271741
+"Minnesota","Indiana",0.376389674015451
+"Mississippi","Indiana",0.302068302068302
+"Missouri","Indiana",0.479131711409396
+"Montana","Indiana",0.133057183269347
+"Nebraska","Indiana",0.313885119855269
+"Nevada","Indiana",0.0820338342311691
+"New Hampshire","Indiana",0.339991454817347
+"New Jersey","Indiana",0.436034404708013
+"New Mexico","Indiana",0.120590121872996
+"New York","Indiana",0.400241408690713
+"North Carolina","Indiana",0.352958008441233
+"North Dakota","Indiana",0.150783457487799
+"Ohio","Indiana",0.508847991505928
+"Oklahoma","Indiana",0.315245232900104
+"Oregon","Indiana",0.144098479362781
+"Pennsylvania","Indiana",0.461799801126947
+"Rhode Island","Indiana",0.326625386996904
+"South Carolina","Indiana",0.311272531611515
+"South Dakota","Indiana",0.203777216408036
+"Tennessee","Indiana",0.439389761970407
+"Texas","Indiana",0.202979610515076
+"Utah","Indiana",0.125819255977107
+"Vermont","Indiana",0.360308836145267
+"Virginia","Indiana",0.421382113821138
+"Washington","Indiana",0.155876169071268
+"West Virginia","Indiana",0.444944560324953
+"Wisconsin","Indiana",0.436502627806976
+"Wyoming","Indiana",0.0967811856508074
+"Alabama","Iowa",0.233261710356682
+"Alaska","Iowa",0.079345703125
+"Arizona","Iowa",0.103137544032113
+"Arkansas","Iowa",0.316179879462216
+"California","Iowa",0.0755223479933784
+"Colorado","Iowa",0.199493670886076
+"Connecticut","Iowa",0.324630314232902
+"Delaware","Iowa",0.330995578594298
+"Florida","Iowa",0.137371257076598
+"Georgia","Iowa",0.241665897128082
+"Hawaii","Iowa",0.033418089357065
+"Idaho","Iowa",0.157686734290607
+"Illinois","Iowa",0.408240510435817
+"Indiana","Iowa",0.403534253207456
+"Kansas","Iowa",0.422521808088818
+"Kentucky","Iowa",0.362504622211266
+"Louisiana","Iowa",0.229791504069573
+"Maine","Iowa",0.27582904345744
+"Maryland","Iowa",0.30452942268424
+"Massachusetts","Iowa",0.278095573352108
+"Michigan","Iowa",0.35124562487132
+"Minnesota","Iowa",0.387943097014925
+"Mississippi","Iowa",0.239583333333333
+"Missouri","Iowa",0.398650306748466
+"Montana","Iowa",0.173493311267411
+"Nebraska","Iowa",0.421917371191578
+"Nevada","Iowa",0.102939321306926
+"New Hampshire","Iowa",0.304388174466393
+"New Jersey","Iowa",0.3072642353175
+"New Mexico","Iowa",0.145092460881935
+"New York","Iowa",0.268640023859231
+"North Carolina","Iowa",0.238972555615014
+"North Dakota","Iowa",0.246561690253139
+"Ohio","Iowa",0.341593416869272
+"Oklahoma","Iowa",0.302135605088108
+"Oregon","Iowa",0.128598517496983
+"Pennsylvania","Iowa",0.30733543417367
+"Rhode Island","Iowa",0.31284046692607
+"South Carolina","Iowa",0.231882559702264
+"South Dakota","Iowa",0.318107961725943
+"Tennessee","Iowa",0.308951303293595
+"Texas","Iowa",0.158584462261543
+"Utah","Iowa",0.151279873832343
+"Vermont","Iowa",0.314802182810368
+"Virginia","Iowa",0.28719512195122
+"Washington","Iowa",0.136028149673876
+"West Virginia","Iowa",0.347249065842031
+"Wisconsin","Iowa",0.400954653937947
+"Wyoming","Iowa",0.143782783091638
+"Alabama","Kansas",0.262402659900254
+"Alaska","Kansas",0.056364712847839
+"Arizona","Kansas",0.129503002001334
+"Arkansas","Kansas",0.382708585247884
+"California","Kansas",0.0787672764682202
+"Colorado","Kansas",0.217355793772333
+"Connecticut","Kansas",0.271055818562149
+"Delaware","Kansas",0.331066787549109
+"Florida","Kansas",0.164928382700598
+"Georgia","Kansas",0.261072261072261
+"Hawaii","Kansas",0.0397103198551599
+"Idaho","Kansas",0.144867656552615
+"Illinois","Kansas",0.373270440251572
+"Indiana","Kansas",0.350647848218417
+"Iowa","Kansas",0.422521808088818
+"Kentucky","Kansas",0.36033724340176
+"Louisiana","Kansas",0.287253765932793
+"Maine","Kansas",0.20996280852023
+"Maryland","Kansas",0.287015115643781
+"Massachusetts","Kansas",0.22871087176035
+"Michigan","Kansas",0.277202824257665
+"Minnesota","Kansas",0.294371826725721
+"Mississippi","Kansas",0.28875236294896
+"Missouri","Kansas",0.443047523258738
+"Montana","Kansas",0.157100511991377
+"Nebraska","Kansas",0.452357881136951
+"Nevada","Kansas",0.115297092288243
+"New Hampshire","Kansas",0.230063251891356
+"New Jersey","Kansas",0.2751975332434
+"New Mexico","Kansas",0.1821875
+"New York","Kansas",0.226255380200861
+"North Carolina","Kansas",0.236880078985342
+"North Dakota","Kansas",0.22305909617613
+"Ohio","Kansas",0.300811541929666
+"Oklahoma","Kansas",0.452559462254395
+"Oregon","Kansas",0.11512740201473
+"Pennsylvania","Kansas",0.26327303323517
+"Rhode Island","Kansas",0.266964285714286
+"South Carolina","Kansas",0.262232979059244
+"South Dakota","Kansas",0.300440528634361
+"Tennessee","Kansas",0.316932713679531
+"Texas","Kansas",0.21523083145548
+"Utah","Kansas",0.156794003868472
+"Vermont","Kansas",0.232821598729486
+"Virginia","Kansas",0.277495915383954
+"Washington","Kansas",0.117020384195957
+"West Virginia","Kansas",0.295977364989544
+"Wisconsin","Kansas",0.307408578353883
+"Wyoming","Kansas",0.136853284782279
+"Alabama","Kentucky",0.417059984553334
+"Alaska","Kentucky",0.0634843946275002
+"Arizona","Kentucky",0.0947678083631015
+"Arkansas","Kentucky",0.469724970105446
+"California","Kentucky",0.080046164626355
+"Colorado","Kentucky",0.148749487494875
+"Connecticut","Kentucky",0.388832280415733
+"Delaware","Kentucky",0.402420185375901
+"Florida","Kentucky",0.211822976971568
+"Georgia","Kentucky",0.414205472005798
+"Hawaii","Kentucky",0.0405563120015561
+"Idaho","Kentucky",0.117551020408163
+"Illinois","Kentucky",0.481994730164926
+"Indiana","Kentucky",0.47766323024055
+"Iowa","Kentucky",0.362504622211266
+"Kansas","Kentucky",0.36033724340176
+"Louisiana","Kentucky",0.339764419171405
+"Maine","Kentucky",0.28441194149469
+"Maryland","Kentucky",0.454357962697274
+"Massachusetts","Kentucky",0.340967534554806
+"Michigan","Kentucky",0.373271061613077
+"Minnesota","Kentucky",0.320597070972587
+"Mississippi","Kentucky",0.378128977513789
+"Missouri","Kentucky",0.513558754603281
+"Montana","Kentucky",0.113394533694972
+"Nebraska","Kentucky",0.295672514619883
+"Nevada","Kentucky",0.0761716822890972
+"New Hampshire","Kentucky",0.320026393929396
+"New Jersey","Kentucky",0.418820042604427
+"New Mexico","Kentucky",0.113653320069634
+"New York","Kentucky",0.349683321604504
+"North Carolina","Kentucky",0.405262755297177
+"North Dakota","Kentucky",0.134195634599838
+"Ohio","Kentucky",0.479878103432822
+"Oklahoma","Kentucky",0.363282848956201
+"Oregon","Kentucky",0.117884094072826
+"Pennsylvania","Kentucky",0.426938162396729
+"Rhode Island","Kentucky",0.324709411323585
+"South Carolina","Kentucky",0.38432799134795
+"South Dakota","Kentucky",0.185495991983968
+"Tennessee","Kentucky",0.551564905079528
+"Texas","Kentucky",0.221183306920232
+"Utah","Kentucky",0.110221968181385
+"Vermont","Kentucky",0.329685230024213
+"Virginia","Kentucky",0.462574462574463
+"Washington","Kentucky",0.122276470159586
+"West Virginia","Kentucky",0.485230081205131
+"Wisconsin","Kentucky",0.367204453250307
+"Wyoming","Kentucky",0.0849569551427277
+"Alabama","Louisiana",0.450219876868953
+"Alaska","Louisiana",0.0382906306135955
+"Arizona","Louisiana",0.104380440167009
+"Arkansas","Louisiana",0.429358186824825
+"California","Louisiana",0.077768629065459
+"Colorado","Louisiana",0.118442098528471
+"Connecticut","Louisiana",0.247913418325232
+"Delaware","Louisiana",0.301640522093162
+"Florida","Louisiana",0.345754953150705
+"Georgia","Louisiana",0.424810311728677
+"Hawaii","Louisiana",0.0671798460461861
+"Idaho","Louisiana",0.0761201378631216
+"Illinois","Louisiana",0.307745385544247
+"Indiana","Louisiana",0.277767441860465
+"Iowa","Louisiana",0.229791504069573
+"Kansas","Louisiana",0.287253765932793
+"Kentucky","Louisiana",0.339764419171405
+"Maine","Louisiana",0.173175650898423
+"Maryland","Louisiana",0.32322902197892
+"Massachusetts","Louisiana",0.227567408280536
+"Michigan","Louisiana",0.218745010378413
+"Minnesota","Louisiana",0.192206469139995
+"Mississippi","Louisiana",0.52882235058352
+"Missouri","Louisiana",0.351737220447284
+"Montana","Louisiana",0.0747880500605571
+"Nebraska","Louisiana",0.22076200993926
+"Nevada","Louisiana",0.0728509463722398
+"New Hampshire","Louisiana",0.188864628820961
+"New Jersey","Louisiana",0.299490229396771
+"New Mexico","Louisiana",0.109731876861966
+"New York","Louisiana",0.228042056673933
+"North Carolina","Louisiana",0.357729593724562
+"North Dakota","Louisiana",0.0986910994764398
+"Ohio","Louisiana",0.279450566506286
+"Oklahoma","Louisiana",0.375750051727705
+"Oregon","Louisiana",0.0838847385272145
+"Pennsylvania","Louisiana",0.2538551916581
+"Rhode Island","Louisiana",0.22325043377675
+"South Carolina","Louisiana",0.443121149897331
+"South Dakota","Louisiana",0.135827718960539
+"Tennessee","Louisiana",0.361717481508209
+"Texas","Louisiana",0.321336613835326
+"Utah","Louisiana",0.08640822045773
+"Vermont","Louisiana",0.188123103597746
+"Virginia","Louisiana",0.329952830188679
+"Washington","Louisiana",0.0827348260808337
+"West Virginia","Louisiana",0.257085828343313
+"Wisconsin","Louisiana",0.212962186635365
+"Wyoming","Louisiana",0.0600244091867303
+"Alabama","Maine",0.210091605346148
+"Alaska","Maine",0.147291013301611
+"Arizona","Maine",0.0866742759309459
+"Arkansas","Maine",0.220517113095238
+"California","Maine",0.0952845804507449
+"Colorado","Maine",0.183343475615057
+"Connecticut","Maine",0.441032342371774
+"Delaware","Maine",0.294327990135635
+"Florida","Maine",0.126710654936461
+"Georgia","Maine",0.230128567963128
+"Hawaii","Maine",0.0296851574212894
+"Idaho","Maine",0.163854890285588
+"Illinois","Maine",0.315864400747397
+"Indiana","Maine",0.320324078648355
+"Iowa","Maine",0.27582904345744
+"Kansas","Maine",0.20996280852023
+"Kentucky","Maine",0.28441194149469
+"Louisiana","Maine",0.173175650898423
+"Maryland","Maine",0.335189873417721
+"Massachusetts","Maine",0.44735673034207
+"Michigan","Maine",0.443679720822024
+"Minnesota","Maine",0.414381789963787
+"Mississippi","Maine",0.185059742214696
+"Missouri","Maine",0.264381062133871
+"Montana","Maine",0.174937114109307
+"Nebraska","Maine",0.226855042499426
+"Nevada","Maine",0.0835051546391753
+"New Hampshire","Maine",0.548705631171604
+"New Jersey","Maine",0.371381306865178
+"New Mexico","Maine",0.111328957463132
+"New York","Maine",0.394772018416753
+"North Carolina","Maine",0.27756059421423
+"North Dakota","Maine",0.155763688760807
+"Ohio","Maine",0.353094298429759
+"Oklahoma","Maine",0.184258750229064
+"Oregon","Maine",0.16969696969697
+"Pennsylvania","Maine",0.384793964016251
+"Rhode Island","Maine",0.38991825613079
+"South Carolina","Maine",0.221042298768517
+"South Dakota","Maine",0.190651260504202
+"Tennessee","Maine",0.284169210641082
+"Texas","Maine",0.125142376070916
+"Utah","Maine",0.132039420756235
+"Vermont","Maine",0.517586795674445
+"Virginia","Maine",0.308032890575585
+"Washington","Maine",0.19430072434928
+"West Virginia","Maine",0.382535912227124
+"Wisconsin","Maine",0.426229508196721
+"Wyoming","Maine",0.123058103975535
+"Alabama","Maryland",0.410888583616514
+"Alaska","Maryland",0.0721830985915493
+"Arizona","Maryland",0.0969736222326896
+"Arkansas","Maryland",0.384596044250754
+"California","Maryland",0.101746708416645
+"Colorado","Maryland",0.160220994475138
+"Connecticut","Maryland",0.476998223801066
+"Delaware","Maryland",0.403535353535354
+"Florida","Maryland",0.246077480458721
+"Georgia","Maryland",0.424929178470255
+"Hawaii","Maryland",0.0382720727548314
+"Idaho","Maryland",0.11508031647087
+"Illinois","Maryland",0.473228027541515
+"Indiana","Maryland",0.43784850304538
+"Iowa","Maryland",0.30452942268424
+"Kansas","Maryland",0.287015115643781
+"Kentucky","Maryland",0.454357962697274
+"Louisiana","Maryland",0.32322902197892
+"Maine","Maryland",0.335189873417721
+"Massachusetts","Maryland",0.485662541503169
+"Michigan","Maryland",0.427200374531835
+"Minnesota","Maryland",0.341823899371069
+"Mississippi","Maryland",0.329620084795079
+"Missouri","Maryland",0.434609388532825
+"Montana","Maryland",0.110894467462832
+"Nebraska","Maryland",0.259527643585615
+"Nevada","Maryland",0.0712470153277363
+"New Hampshire","Maryland",0.357091172214182
+"New Jersey","Maryland",0.553463919274146
+"New Mexico","Maryland",0.108226567768038
+"New York","Maryland",0.492095526404305
+"North Carolina","Maryland",0.513597733711048
+"North Dakota","Maryland",0.107995342518921
+"Ohio","Maryland",0.522590714007023
+"Oklahoma","Maryland",0.32159339324751
+"Oregon","Maryland",0.136782467936745
+"Pennsylvania","Maryland",0.554524361948956
+"Rhode Island","Maryland",0.339505564857678
+"South Carolina","Maryland",0.40261126621777
+"South Dakota","Maryland",0.152871543512439
+"Tennessee","Maryland",0.48642441145107
+"Texas","Maryland",0.253082569687665
+"Utah","Maryland",0.109051006508249
+"Vermont","Maryland",0.393934344275954
+"Virginia","Maryland",0.607707191228636
+"Washington","Maryland",0.146327789198281
+"West Virginia","Maryland",0.453657174762702
+"Wisconsin","Maryland",0.397682780663204
+"Wyoming","Maryland",0.0763241208180029
+"Alabama","Massachusetts",0.29576551455807
+"Alaska","Massachusetts",0.10092789777913
+"Arizona","Massachusetts",0.090250028542071
+"Arkansas","Massachusetts",0.27669647553919
+"California","Massachusetts",0.107164179104478
+"Colorado","Massachusetts",0.174517841542907
+"Connecticut","Massachusetts",0.531482310792656
+"Delaware","Massachusetts",0.315172603241461
+"Florida","Massachusetts",0.183950748328203
+"Georgia","Massachusetts",0.308304189810053
+"Hawaii","Massachusetts",0.0326530612244898
+"Idaho","Massachusetts",0.126200702850449
+"Illinois","Massachusetts",0.41079936474325
+"Indiana","Massachusetts",0.366188248354611
+"Iowa","Massachusetts",0.278095573352108
+"Kansas","Massachusetts",0.22871087176035
+"Kentucky","Massachusetts",0.340967534554806
+"Louisiana","Massachusetts",0.227567408280536
+"Maine","Massachusetts",0.44735673034207
+"Maryland","Massachusetts",0.485662541503169
+"Michigan","Massachusetts",0.472333411820108
+"Minnesota","Massachusetts",0.395844941494866
+"Mississippi","Massachusetts",0.228324130726757
+"Missouri","Massachusetts",0.335633626097867
+"Montana","Massachusetts",0.129282120897549
+"Nebraska","Massachusetts",0.234365719134493
+"Nevada","Massachusetts",0.0717960187877432
+"New Hampshire","Massachusetts",0.436849925705795
+"New Jersey","Massachusetts",0.494313210848644
+"New Mexico","Massachusetts",0.105783069475337
+"New York","Massachusetts",0.545305676855895
+"North Carolina","Massachusetts",0.397938936183832
+"North Dakota","Massachusetts",0.112598277798577
+"Ohio","Massachusetts",0.467068066671562
+"Oklahoma","Massachusetts",0.239005312868949
+"Oregon","Massachusetts",0.151367968029511
+"Pennsylvania","Massachusetts",0.508028447833419
+"Rhode Island","Massachusetts",0.363971301144076
+"South Carolina","Massachusetts",0.285641025641026
+"South Dakota","Massachusetts",0.15266019071384
+"Tennessee","Massachusetts",0.360436182669789
+"Texas","Massachusetts",0.195198705268837
+"Utah","Massachusetts",0.112967324109508
+"Vermont","Massachusetts",0.491199167606
+"Virginia","Massachusetts",0.442708701491482
+"Washington","Massachusetts",0.173142679515076
+"West Virginia","Massachusetts",0.388538879779063
+"Wisconsin","Massachusetts",0.441181190820093
+"Wyoming","Massachusetts",0.0865256495669554
+"Alabama","Michigan",0.275041163556531
+"Alaska","Michigan",0.128776109097186
+"Arizona","Michigan",0.102310231023102
+"Arkansas","Michigan",0.30237220180421
+"California","Michigan",0.114681069147678
+"Colorado","Michigan",0.213568787261339
+"Connecticut","Michigan",0.454966641957005
+"Delaware","Michigan",0.303246557442959
+"Florida","Michigan",0.161141651396524
+"Georgia","Michigan",0.290374370575786
+"Hawaii","Michigan",0.0317498788172564
+"Idaho","Michigan",0.165354330708661
+"Illinois","Michigan",0.480864939076712
+"Indiana","Michigan",0.455414598271741
+"Iowa","Michigan",0.35124562487132
+"Kansas","Michigan",0.277202824257665
+"Kentucky","Michigan",0.373271061613077
+"Louisiana","Michigan",0.218745010378413
+"Maine","Michigan",0.443679720822024
+"Maryland","Michigan",0.427200374531835
+"Massachusetts","Michigan",0.472333411820108
+"Minnesota","Michigan",0.512275112443778
+"Mississippi","Michigan",0.231303637106661
+"Missouri","Michigan",0.37972114366396
+"Montana","Michigan",0.177258451875115
+"Nebraska","Michigan",0.282801677885084
+"Nevada","Michigan",0.0891163883527733
+"New Hampshire","Michigan",0.428064123376623
+"New Jersey","Michigan",0.427598095550813
+"New Mexico","Michigan",0.125744155655583
+"New York","Michigan",0.503537568982595
+"North Carolina","Michigan",0.348038245961095
+"North Dakota","Michigan",0.148204903677758
+"Ohio","Michigan",0.508972797401543
+"Oklahoma","Michigan",0.255628058727569
+"Oregon","Michigan",0.179152207933592
+"Pennsylvania","Michigan",0.501488095238095
+"Rhode Island","Michigan",0.325279782449535
+"South Carolina","Michigan",0.260594708499181
+"South Dakota","Michigan",0.202647763994579
+"Tennessee","Michigan",0.372724369211115
+"Texas","Michigan",0.183137623297323
+"Utah","Michigan",0.144214738246082
+"Vermont","Michigan",0.498435277382646
+"Virginia","Michigan",0.39750091877986
+"Washington","Michigan",0.201636751255072
+"West Virginia","Michigan",0.418831482375664
+"Wisconsin","Michigan",0.577128166063607
+"Wyoming","Michigan",0.120515533326921
+"Alabama","Minnesota",0.227169918009613
+"Alaska","Minnesota",0.13531890442444
+"Arizona","Minnesota",0.106864588930682
+"Arkansas","Minnesota",0.26912206323971
+"California","Minnesota",0.106828689497156
+"Colorado","Minnesota",0.239199332777314
+"Connecticut","Minnesota",0.37450161382191
+"Delaware","Minnesota",0.259302949061662
+"Florida","Minnesota",0.130779392338177
+"Georgia","Minnesota",0.232237777944149
+"Hawaii","Minnesota",0.0285001781261133
+"Idaho","Minnesota",0.179746076177147
+"Illinois","Minnesota",0.4323358642251
+"Indiana","Minnesota",0.376389674015451
+"Iowa","Minnesota",0.387943097014925
+"Kansas","Minnesota",0.294371826725721
+"Kentucky","Minnesota",0.320597070972587
+"Louisiana","Minnesota",0.192206469139995
+"Maine","Minnesota",0.414381789963787
+"Maryland","Minnesota",0.341823899371069
+"Massachusetts","Minnesota",0.395844941494866
+"Michigan","Minnesota",0.512275112443778
+"Mississippi","Minnesota",0.197715670156615
+"Missouri","Minnesota",0.345909600298842
+"Montana","Minnesota",0.208390141583639
+"Nebraska","Minnesota",0.320527015057573
+"Nevada","Minnesota",0.0999251497005988
+"New Hampshire","Minnesota",0.395591269410359
+"New Jersey","Minnesota",0.340741355004561
+"New Mexico","Minnesota",0.143371757925072
+"New York","Minnesota",0.398310409830343
+"North Carolina","Minnesota",0.278350515463918
+"North Dakota","Minnesota",0.196822936846184
+"Ohio","Minnesota",0.412415588642096
+"Oklahoma","Minnesota",0.246459671035271
+"Oregon","Minnesota",0.173209993444533
+"Pennsylvania","Minnesota",0.39466936047867
+"Rhode Island","Minnesota",0.292099322799097
+"South Carolina","Minnesota",0.212359915543284
+"South Dakota","Minnesota",0.263041880969875
+"Tennessee","Minnesota",0.308398197460057
+"Texas","Minnesota",0.162946428571429
+"Utah","Minnesota",0.155331731657734
+"Vermont","Minnesota",0.468816120906801
+"Virginia","Minnesota",0.316899844548079
+"Washington","Minnesota",0.195996172812247
+"West Virginia","Minnesota",0.352716681731445
+"Wisconsin","Minnesota",0.573010664479081
+"Wyoming","Minnesota",0.150502041266689
+"Alabama","Mississippi",0.499125632765762
+"Alaska","Mississippi",0.0395333140487899
+"Arizona","Mississippi",0.0953498293515358
+"Arkansas","Mississippi",0.449994546842622
+"California","Mississippi",0.0723189961198712
+"Colorado","Mississippi",0.1136785973984
+"Connecticut","Mississippi",0.255267347129881
+"Delaware","Mississippi",0.327485380116959
+"Florida","Mississippi",0.336348625170508
+"Georgia","Mississippi",0.455121535987894
+"Hawaii","Mississippi",0.0576592951630819
+"Idaho","Mississippi",0.0793922318373918
+"Illinois","Mississippi",0.31873071837814
+"Indiana","Mississippi",0.302068302068302
+"Iowa","Mississippi",0.239583333333333
+"Kansas","Mississippi",0.28875236294896
+"Kentucky","Mississippi",0.378128977513789
+"Louisiana","Mississippi",0.52882235058352
+"Maine","Mississippi",0.185059742214696
+"Maryland","Mississippi",0.329620084795079
+"Massachusetts","Mississippi",0.228324130726757
+"Michigan","Mississippi",0.231303637106661
+"Minnesota","Mississippi",0.197715670156615
+"Missouri","Mississippi",0.36408263448558
+"Montana","Mississippi",0.0766694146743611
+"Nebraska","Mississippi",0.218206308227635
+"Nevada","Mississippi",0.0687343671835918
+"New Hampshire","Mississippi",0.205403745778324
+"New Jersey","Mississippi",0.311495351464072
+"New Mexico","Mississippi",0.102035708326381
+"New York","Mississippi",0.232379713914174
+"North Carolina","Mississippi",0.375634902585096
+"North Dakota","Mississippi",0.101802044109736
+"Ohio","Mississippi",0.286210709208656
+"Oklahoma","Mississippi",0.350763201320132
+"Oregon","Mississippi",0.0854935374395263
+"Pennsylvania","Mississippi",0.263023952095808
+"Rhode Island","Mississippi",0.239426523297491
+"South Carolina","Mississippi",0.4719005630511
+"South Dakota","Mississippi",0.138071191033379
+"Tennessee","Mississippi",0.392967361825493
+"Texas","Mississippi",0.277170274492301
+"Utah","Mississippi",0.082906954709115
+"Vermont","Mississippi",0.195679121657517
+"Virginia","Mississippi",0.341573033707865
+"Washington","Mississippi",0.0842323355004644
+"West Virginia","Mississippi",0.287390943082676
+"Wisconsin","Mississippi",0.221090473337328
+"Wyoming","Mississippi",0.0612731192556451
+"Alabama","Missouri",0.394260193532379
+"Alaska","Missouri",0.0595538131242416
+"Arizona","Missouri",0.111845768374165
+"Arkansas","Missouri",0.521619841966637
+"California","Missouri",0.0870081480571592
+"Colorado","Missouri",0.181301950456753
+"Connecticut","Missouri",0.370098039215686
+"Delaware","Missouri",0.371278672523182
+"Florida","Missouri",0.218109086291193
+"Georgia","Missouri",0.380548585272995
+"Hawaii","Missouri",0.0395331325301205
+"Idaho","Missouri",0.123073864201213
+"Illinois","Missouri",0.525788387857353
+"Indiana","Missouri",0.479131711409396
+"Iowa","Missouri",0.398650306748466
+"Kansas","Missouri",0.443047523258738
+"Kentucky","Missouri",0.513558754603281
+"Louisiana","Missouri",0.351737220447284
+"Maine","Missouri",0.264381062133871
+"Maryland","Missouri",0.434609388532825
+"Massachusetts","Missouri",0.335633626097867
+"Michigan","Missouri",0.37972114366396
+"Minnesota","Missouri",0.345909600298842
+"Mississippi","Missouri",0.36408263448558
+"Montana","Missouri",0.126354528726232
+"Nebraska","Missouri",0.353436018957346
+"Nevada","Missouri",0.0865198918501352
+"New Hampshire","Missouri",0.289473684210526
+"New Jersey","Missouri",0.400948036848225
+"New Mexico","Missouri",0.138101924506484
+"New York","Missouri",0.34592582379705
+"North Carolina","Missouri",0.376581347455134
+"North Dakota","Missouri",0.149396642182581
+"Ohio","Missouri",0.458762440501947
+"Oklahoma","Missouri",0.448849782677833
+"Oregon","Missouri",0.122841105354059
+"Pennsylvania","Missouri",0.403040295986488
+"Rhode Island","Missouri",0.300071275837491
+"South Carolina","Missouri",0.36329269445232
+"South Dakota","Missouri",0.211559836976658
+"Tennessee","Missouri",0.481463741737714
+"Texas","Missouri",0.261397849462366
+"Utah","Missouri",0.123291518442239
+"Vermont","Missouri",0.314712751050911
+"Virginia","Missouri",0.425649484536082
+"Washington","Missouri",0.126806927150422
+"West Virginia","Missouri",0.406029714781477
+"Wisconsin","Missouri",0.391875410451262
+"Wyoming","Missouri",0.098041385415514
+"Alabama","Montana",0.0745441957073621
+"Alaska","Montana",0.171072664359862
+"Arizona","Montana",0.132802354774478
+"Arkansas","Montana",0.101244230383303
+"California","Montana",0.123575227963526
+"Colorado","Montana",0.319521178637201
+"Connecticut","Montana",0.133667416649622
+"Delaware","Montana",0.118269488347174
+"Florida","Montana",0.0503448720428028
+"Georgia","Montana",0.0801984291029351
+"Hawaii","Montana",0.0264350453172205
+"Idaho","Montana",0.429275756545393
+"Illinois","Montana",0.138828828828829
+"Indiana","Montana",0.133057183269347
+"Iowa","Montana",0.173493311267411
+"Kansas","Montana",0.157100511991377
+"Kentucky","Montana",0.113394533694972
+"Louisiana","Montana",0.0747880500605571
+"Maine","Montana",0.174937114109307
+"Maryland","Montana",0.110894467462832
+"Massachusetts","Montana",0.129282120897549
+"Michigan","Montana",0.177258451875115
+"Minnesota","Montana",0.208390141583639
+"Mississippi","Montana",0.0766694146743611
+"Missouri","Montana",0.126354528726232
+"Nebraska","Montana",0.220045753503003
+"Nevada","Montana",0.223767013025026
+"New Hampshire","Montana",0.168375540457072
+"New Jersey","Montana",0.116803636999475
+"New Mexico","Montana",0.201478539115083
+"New York","Montana",0.126506840037925
+"North Carolina","Montana",0.0896447259708069
+"North Dakota","Montana",0.253307725138711
+"Ohio","Montana",0.126472011614777
+"Oklahoma","Montana",0.126358695652174
+"Oregon","Montana",0.257343487291069
+"Pennsylvania","Montana",0.125599381283836
+"Rhode Island","Montana",0.142087351106069
+"South Carolina","Montana",0.0776345291479821
+"South Dakota","Montana",0.283858998144712
+"Tennessee","Montana",0.105591700369263
+"Texas","Montana",0.0749294597136587
+"Utah","Montana",0.303706884213539
+"Vermont","Montana",0.167432150313152
+"Virginia","Montana",0.102128311131527
+"Washington","Montana",0.271612265084075
+"West Virginia","Montana",0.134188900146347
+"Wisconsin","Montana",0.181485510829789
+"Wyoming","Montana",0.422532362459547
+"Alabama","Nebraska",0.207105064247921
+"Alaska","Nebraska",0.0680640886640164
+"Arizona","Nebraska",0.137820512820513
+"Arkansas","Nebraska",0.284424379232506
+"California","Nebraska",0.0858754512635379
+"Colorado","Nebraska",0.275276673471581
+"Connecticut","Nebraska",0.271017699115044
+"Delaware","Nebraska",0.291531425199174
+"Florida","Nebraska",0.130908844643099
+"Georgia","Nebraska",0.209156193895871
+"Hawaii","Nebraska",0.0365750272496064
+"Idaho","Nebraska",0.190006752194463
+"Illinois","Nebraska",0.335448868870918
+"Indiana","Nebraska",0.313885119855269
+"Iowa","Nebraska",0.421917371191578
+"Kansas","Nebraska",0.452357881136951
+"Kentucky","Nebraska",0.295672514619883
+"Louisiana","Nebraska",0.22076200993926
+"Maine","Nebraska",0.226855042499426
+"Maryland","Nebraska",0.259527643585615
+"Massachusetts","Nebraska",0.234365719134493
+"Michigan","Nebraska",0.282801677885084
+"Minnesota","Nebraska",0.320527015057573
+"Mississippi","Nebraska",0.218206308227635
+"Missouri","Nebraska",0.353436018957346
+"Montana","Nebraska",0.220045753503003
+"Nevada","Nebraska",0.141090719770923
+"New Hampshire","Nebraska",0.24469964664311
+"New Jersey","Nebraska",0.2537100456621
+"New Mexico","Nebraska",0.203281483059876
+"New York","Nebraska",0.221521256004015
+"North Carolina","Nebraska",0.203812207965586
+"North Dakota","Nebraska",0.281224489795918
+"Ohio","Nebraska",0.274929027679205
+"Oklahoma","Nebraska",0.351135814403093
+"Oregon","Nebraska",0.13822125813449
+"Pennsylvania","Nebraska",0.248977206312098
+"Rhode Island","Nebraska",0.264046622833234
+"South Carolina","Nebraska",0.211076174054164
+"South Dakota","Nebraska",0.374812312312312
+"Tennessee","Nebraska",0.258971871968962
+"Texas","Nebraska",0.176764276898912
+"Utah","Nebraska",0.193726474278545
+"Vermont","Nebraska",0.254220779220779
+"Virginia","Nebraska",0.239407134483336
+"Washington","Nebraska",0.14328821450125
+"West Virginia","Nebraska",0.273235329850565
+"Wisconsin","Nebraska",0.319128484460109
+"Wyoming","Nebraska",0.198710717163578
+"Alabama","Nevada",0.0611177525403467
+"Alaska","Nevada",0.0762470602797376
+"Arizona","Nevada",0.232099907493062
+"Arkansas","Nevada",0.0800732318365774
+"California","Nevada",0.18014324524574
+"Colorado","Nevada",0.229039714225678
+"Connecticut","Nevada",0.0769743101807802
+"Delaware","Nevada",0.0854938661945112
+"Florida","Nevada",0.0509983466870151
+"Georgia","Nevada",0.0652835629605896
+"Hawaii","Nevada",0.0392764217569074
+"Idaho","Nevada",0.284525048312769
+"Illinois","Nevada",0.0861312637084528
+"Indiana","Nevada",0.0820338342311691
+"Iowa","Nevada",0.102939321306926
+"Kansas","Nevada",0.115297092288243
+"Kentucky","Nevada",0.0761716822890972
+"Louisiana","Nevada",0.0728509463722398
+"Maine","Nevada",0.0835051546391753
+"Maryland","Nevada",0.0712470153277363
+"Massachusetts","Nevada",0.0717960187877432
+"Michigan","Nevada",0.0891163883527733
+"Minnesota","Nevada",0.0999251497005988
+"Mississippi","Nevada",0.0687343671835918
+"Missouri","Nevada",0.0865198918501352
+"Montana","Nevada",0.223767013025026
+"Nebraska","Nevada",0.141090719770923
+"New Hampshire","Nevada",0.083268134570247
+"New Jersey","Nevada",0.0761975676346488
+"New Mexico","Nevada",0.242654452016534
+"New York","Nevada",0.0692868462757528
+"North Carolina","Nevada",0.0625206748263315
+"North Dakota","Nevada",0.140003733432892
+"Ohio","Nevada",0.0760836617156714
+"Oklahoma","Nevada",0.107300884955752
+"Oregon","Nevada",0.202805648457822
+"Pennsylvania","Nevada",0.0719826023921711
+"Rhode Island","Nevada",0.0899526564965807
+"South Carolina","Nevada",0.0682581465008623
+"South Dakota","Nevada",0.16742819843342
+"Tennessee","Nevada",0.0733199262611027
+"Texas","Nevada",0.087383714853141
+"Utah","Nevada",0.374779281930547
+"Vermont","Nevada",0.0787981859410431
+"Virginia","Nevada",0.069835466179159
+"Washington","Nevada",0.166458741757263
+"West Virginia","Nevada",0.0760960334029228
+"Wisconsin","Nevada",0.090420769919427
+"Wyoming","Nevada",0.24031404676566
+"Alabama","New Hampshire",0.221299696631008
+"Alaska","New Hampshire",0.134005096131573
+"Arizona","New Hampshire",0.0836716283265674
+"Arkansas","New Hampshire",0.242301867743564
+"California","New Hampshire",0.0828097239675868
+"Colorado","New Hampshire",0.173976876491099
+"Connecticut","New Hampshire",0.474815870753148
+"Delaware","New Hampshire",0.335402869757174
+"Florida","New Hampshire",0.131048645873444
+"Georgia","New Hampshire",0.249891464791178
+"Hawaii","New Hampshire",0.0309816284378737
+"Idaho","New Hampshire",0.159442724458204
+"Illinois","New Hampshire",0.330951700485853
+"Indiana","New Hampshire",0.339991454817347
+"Iowa","New Hampshire",0.304388174466393
+"Kansas","New Hampshire",0.230063251891356
+"Kentucky","New Hampshire",0.320026393929396
+"Louisiana","New Hampshire",0.188864628820961
+"Maine","New Hampshire",0.548705631171604
+"Maryland","New Hampshire",0.357091172214182
+"Massachusetts","New Hampshire",0.436849925705795
+"Michigan","New Hampshire",0.428064123376623
+"Minnesota","New Hampshire",0.395591269410359
+"Mississippi","New Hampshire",0.205403745778324
+"Missouri","New Hampshire",0.289473684210526
+"Montana","New Hampshire",0.168375540457072
+"Nebraska","New Hampshire",0.24469964664311
+"Nevada","New Hampshire",0.083268134570247
+"New Jersey","New Hampshire",0.37976912541577
+"New Mexico","New Hampshire",0.110010901162791
+"New York","New Hampshire",0.373919694072658
+"North Carolina","New Hampshire",0.28702175543886
+"North Dakota","New Hampshire",0.164027149321267
+"Ohio","New Hampshire",0.358075113202522
+"Oklahoma","New Hampshire",0.206958428870501
+"Oregon","New Hampshire",0.151348692301386
+"Pennsylvania","New Hampshire",0.383141762452107
+"Rhode Island","New Hampshire",0.433766233766234
+"South Carolina","New Hampshire",0.243716163959783
+"South Dakota","New Hampshire",0.200698588269539
+"Tennessee","New Hampshire",0.306492530301607
+"Texas","New Hampshire",0.127167927538469
+"Utah","New Hampshire",0.130251190991771
+"Vermont","New Hampshire",0.515562552985346
+"Virginia","New Hampshire",0.324629380053908
+"Washington","New Hampshire",0.171622068054179
+"West Virginia","New Hampshire",0.409068445762293
+"Wisconsin","New Hampshire",0.414597762386787
+"Wyoming","New Hampshire",0.124210243312273
+"Alabama","New Jersey",0.364062729004837
+"Alaska","New Jersey",0.0824180361714427
+"Arizona","New Jersey",0.098983513077972
+"Arkansas","New Jersey",0.353639514731369
+"California","New Jersey",0.106749041995777
+"Colorado","New Jersey",0.16519600752206
+"Connecticut","New Jersey",0.497477391718229
+"Delaware","New Jersey",0.416040100250627
+"Florida","New Jersey",0.234014968471919
+"Georgia","New Jersey",0.387683146595628
+"Hawaii","New Jersey",0.040565807657914
+"Idaho","New Jersey",0.12370867768595
+"Illinois","New Jersey",0.439623584277149
+"Indiana","New Jersey",0.436034404708013
+"Iowa","New Jersey",0.3072642353175
+"Kansas","New Jersey",0.2751975332434
+"Kentucky","New Jersey",0.418820042604427
+"Louisiana","New Jersey",0.299490229396771
+"Maine","New Jersey",0.371381306865178
+"Maryland","New Jersey",0.553463919274146
+"Massachusetts","New Jersey",0.494313210848644
+"Michigan","New Jersey",0.427598095550813
+"Minnesota","New Jersey",0.340741355004561
+"Mississippi","New Jersey",0.311495351464072
+"Missouri","New Jersey",0.400948036848225
+"Montana","New Jersey",0.116803636999475
+"Nebraska","New Jersey",0.2537100456621
+"Nevada","New Jersey",0.0761975676346488
+"New Hampshire","New Jersey",0.37976912541577
+"New Mexico","New Jersey",0.11170745670531
+"New York","New Jersey",0.497220854147611
+"North Carolina","New Jersey",0.450783077032103
+"North Dakota","New Jersey",0.118090986394558
+"Ohio","New Jersey",0.484802552852014
+"Oklahoma","New Jersey",0.294418799832144
+"Oregon","New Jersey",0.147323198942498
+"Pennsylvania","New Jersey",0.512883145536207
+"Rhode Island","New Jersey",0.381485913194822
+"South Carolina","New Jersey",0.376403538618578
+"South Dakota","New Jersey",0.158453525641026
+"Tennessee","New Jersey",0.431623576357137
+"Texas","New Jersey",0.22607934655776
+"Utah","New Jersey",0.11665854846566
+"Vermont","New Jersey",0.396189804198271
+"Virginia","New Jersey",0.514756184869939
+"Washington","New Jersey",0.158842614050189
+"West Virginia","New Jersey",0.431586113002042
+"Wisconsin","New Jersey",0.394051419929424
+"Wyoming","New Jersey",0.0843004363568842
+"Alabama","New Mexico",0.0982799369747899
+"Alaska","New Mexico",0.0741839762611276
+"Arizona","New Mexico",0.390854033178267
+"Arkansas","New Mexico",0.127102650365143
+"California","New Mexico",0.144323645341534
+"Colorado","New Mexico",0.350902184235518
+"Connecticut","New Mexico",0.108921992631748
+"Delaware","New Mexico",0.115125966074476
+"Florida","New Mexico",0.0811960962324104
+"Georgia","New Mexico",0.0994858969014867
+"Hawaii","New Mexico",0.0378434914899686
+"Idaho","New Mexico",0.199441520781871
+"Illinois","New Mexico",0.135170990566038
+"Indiana","New Mexico",0.120590121872996
+"Iowa","New Mexico",0.145092460881935
+"Kansas","New Mexico",0.1821875
+"Kentucky","New Mexico",0.113653320069634
+"Louisiana","New Mexico",0.109731876861966
+"Maine","New Mexico",0.111328957463132
+"Maryland","New Mexico",0.108226567768038
+"Massachusetts","New Mexico",0.105783069475337
+"Michigan","New Mexico",0.125744155655583
+"Minnesota","New Mexico",0.143371757925072
+"Mississippi","New Mexico",0.102035708326381
+"Missouri","New Mexico",0.138101924506484
+"Montana","New Mexico",0.201478539115083
+"Nebraska","New Mexico",0.203281483059876
+"Nevada","New Mexico",0.242654452016534
+"New Hampshire","New Mexico",0.110010901162791
+"New Jersey","New Mexico",0.11170745670531
+"New York","New Mexico",0.104435966061158
+"North Carolina","New Mexico",0.098133049745953
+"North Dakota","New Mexico",0.149208039398376
+"Ohio","New Mexico",0.114613180515759
+"Oklahoma","New Mexico",0.199751861042184
+"Oregon","New Mexico",0.152969227330303
+"Pennsylvania","New Mexico",0.109082756853702
+"Rhode Island","New Mexico",0.110483622548516
+"South Carolina","New Mexico",0.101471607982125
+"South Dakota","New Mexico",0.19385867554569
+"Tennessee","New Mexico",0.112998040496408
+"Texas","New Mexico",0.215387019481196
+"Utah","New Mexico",0.298971328518275
+"Vermont","New Mexico",0.110005571917536
+"Virginia","New Mexico",0.107117506614183
+"Washington","New Mexico",0.147043701799486
+"West Virginia","New Mexico",0.108367153095588
+"Wisconsin","New Mexico",0.132614555256065
+"Wyoming","New Mexico",0.208240809277079
+"Alabama","New York",0.30405013345712
+"Alaska","New York",0.100823979757348
+"Arizona","New York",0.0951004260499087
+"Arkansas","New York",0.284094654274603
+"California","New York",0.127453729669097
+"Colorado","New York",0.175397292525015
+"Connecticut","New York",0.462560656961553
+"Delaware","New York",0.2914719178607
+"Florida","New York",0.191562965454283
+"Georgia","New York",0.313702801461632
+"Hawaii","New York",0.0342044819666025
+"Idaho","New York",0.125807095786461
+"Illinois","New York",0.438865074505001
+"Indiana","New York",0.400241408690713
+"Iowa","New York",0.268640023859231
+"Kansas","New York",0.226255380200861
+"Kentucky","New York",0.349683321604504
+"Louisiana","New York",0.228042056673933
+"Maine","New York",0.394772018416753
+"Maryland","New York",0.492095526404305
+"Massachusetts","New York",0.545305676855895
+"Michigan","New York",0.503537568982595
+"Minnesota","New York",0.398310409830343
+"Mississippi","New York",0.232379713914174
+"Missouri","New York",0.34592582379705
+"Montana","New York",0.126506840037925
+"Nebraska","New York",0.221521256004015
+"Nevada","New York",0.0692868462757528
+"New Hampshire","New York",0.373919694072658
+"New Jersey","New York",0.497220854147611
+"New Mexico","New York",0.104435966061158
+"North Carolina","New York",0.410632500434808
+"North Dakota","New York",0.102007970570202
+"Ohio","New York",0.511637293152159
+"Oklahoma","New York",0.237358829568789
+"Oregon","New York",0.163896659535955
+"Pennsylvania","New York",0.567214897376648
+"Rhode Island","New York",0.294862772695285
+"South Carolina","New York",0.282295732292533
+"South Dakota","New York",0.143683274021352
+"Tennessee","New York",0.375326200417537
+"Texas","New York",0.212593828190158
+"Utah","New York",0.113745574102175
+"Vermont","New York",0.455714919414461
+"Virginia","New York",0.466009473818973
+"Washington","New York",0.184606000110908
+"West Virginia","New York",0.377799199169509
+"Wisconsin","New York",0.452763176587583
+"Wyoming","New York",0.0841414916625968
+"Alabama","North Carolina",0.483972602739726
+"Alaska","North Carolina",0.0650540469285526
+"Arizona","North Carolina",0.0935543278084714
+"Arkansas","North Carolina",0.374227259346482
+"California","North Carolina",0.104240033807579
+"Colorado","North Carolina",0.137008247789711
+"Connecticut","North Carolina",0.377961998386032
+"Delaware","North Carolina",0.320197449609214
+"Florida","North Carolina",0.313191023535851
+"Georgia","North Carolina",0.505656272661349
+"Hawaii","North Carolina",0.0439936775553214
+"Idaho","North Carolina",0.0934953829440521
+"Illinois","North Carolina",0.386529415774763
+"Indiana","North Carolina",0.352958008441233
+"Iowa","North Carolina",0.238972555615014
+"Kansas","North Carolina",0.236880078985342
+"Kentucky","North Carolina",0.405262755297177
+"Louisiana","North Carolina",0.357729593724562
+"Maine","North Carolina",0.27756059421423
+"Maryland","North Carolina",0.513597733711048
+"Massachusetts","North Carolina",0.397938936183832
+"Michigan","North Carolina",0.348038245961095
+"Minnesota","North Carolina",0.278350515463918
+"Mississippi","North Carolina",0.375634902585096
+"Missouri","North Carolina",0.376581347455134
+"Montana","North Carolina",0.0896447259708069
+"Nebraska","North Carolina",0.203812207965586
+"Nevada","North Carolina",0.0625206748263315
+"New Hampshire","North Carolina",0.28702175543886
+"New Jersey","North Carolina",0.450783077032103
+"New Mexico","North Carolina",0.098133049745953
+"New York","North Carolina",0.410632500434808
+"North Dakota","North Carolina",0.0830806065442937
+"Ohio","North Carolina",0.43489203868062
+"Oklahoma","North Carolina",0.298130972456436
+"Oregon","North Carolina",0.12222344402903
+"Pennsylvania","North Carolina",0.445780001299461
+"Rhode Island","North Carolina",0.266339737921055
+"South Carolina","North Carolina",0.48311227637261
+"South Dakota","North Carolina",0.119981612013485
+"Tennessee","North Carolina",0.496383229997048
+"Texas","North Carolina",0.28646188850967
+"Utah","North Carolina",0.0903723887375114
+"Vermont","North Carolina",0.313987473903967
+"Virginia","North Carolina",0.542984845310427
+"Washington","North Carolina",0.12822483258316
+"West Virginia","North Carolina",0.379784178247031
+"Wisconsin","North Carolina",0.323362974939369
+"Wyoming","North Carolina",0.0608526573527294
+"Alabama","North Dakota",0.0818324558972938
+"Alaska","North Dakota",0.0866748380318683
+"Arizona","North Dakota",0.0912938331318017
+"Arkansas","North Dakota",0.123856167031834
+"California","North Dakota",0.0519512434876634
+"Colorado","North Dakota",0.186421025508889
+"Connecticut","North Dakota",0.136275897567881
+"Delaware","North Dakota",0.157235093049753
+"Florida","North Dakota",0.0562786848243172
+"Georgia","North Dakota",0.0880724710619024
+"Hawaii","North Dakota",0.0266272189349112
+"Idaho","North Dakota",0.191786129407207
+"Illinois","North Dakota",0.150293498726326
+"Indiana","North Dakota",0.150783457487799
+"Iowa","North Dakota",0.246561690253139
+"Kansas","North Dakota",0.22305909617613
+"Kentucky","North Dakota",0.134195634599838
+"Louisiana","North Dakota",0.0986910994764398
+"Maine","North Dakota",0.155763688760807
+"Maryland","North Dakota",0.107995342518921
+"Massachusetts","North Dakota",0.112598277798577
+"Michigan","North Dakota",0.148204903677758
+"Minnesota","North Dakota",0.196822936846184
+"Mississippi","North Dakota",0.101802044109736
+"Missouri","North Dakota",0.149396642182581
+"Montana","North Dakota",0.253307725138711
+"Nebraska","North Dakota",0.281224489795918
+"Nevada","North Dakota",0.140003733432892
+"New Hampshire","North Dakota",0.164027149321267
+"New Jersey","North Dakota",0.118090986394558
+"New Mexico","North Dakota",0.149208039398376
+"New York","North Dakota",0.102007970570202
+"North Carolina","North Dakota",0.0830806065442937
+"Ohio","North Dakota",0.121528442827045
+"Oklahoma","North Dakota",0.148982068221653
+"Oregon","North Dakota",0.106783786644089
+"Pennsylvania","North Dakota",0.110719768807008
+"Rhode Island","North Dakota",0.179857578840285
+"South Carolina","North Dakota",0.0915078804987062
+"South Dakota","North Dakota",0.415351941747573
+"Tennessee","North Dakota",0.111709576645481
+"Texas","North Dakota",0.0679221082089552
+"Utah","North Dakota",0.173831135468402
+"Vermont","North Dakota",0.148867730313948
+"Virginia","North Dakota",0.099628656824563
+"Washington","North Dakota",0.111448941077794
+"West Virginia","North Dakota",0.14110608492631
+"Wisconsin","North Dakota",0.170976317061382
+"Wyoming","North Dakota",0.26636628677445
+"Alabama","Ohio",0.362360709863805
+"Alaska","Ohio",0.0844077051418171
+"Arizona","Ohio",0.0993435194329867
+"Arkansas","Ohio",0.370476035213564
+"California","Ohio",0.109247489752172
+"Colorado","Ohio",0.179011925042589
+"Connecticut","Ohio",0.457999483070561
+"Delaware","Ohio",0.330114382148884
+"Florida","Ohio",0.198137721957557
+"Georgia","Ohio",0.363066051341217
+"Hawaii","Ohio",0.0343756930583278
+"Idaho","Ohio",0.128138116733983
+"Illinois","Ohio",0.545842395850761
+"Indiana","Ohio",0.508847991505928
+"Iowa","Ohio",0.341593416869272
+"Kansas","Ohio",0.300811541929666
+"Kentucky","Ohio",0.479878103432822
+"Louisiana","Ohio",0.279450566506286
+"Maine","Ohio",0.353094298429759
+"Maryland","Ohio",0.522590714007023
+"Massachusetts","Ohio",0.467068066671562
+"Michigan","Ohio",0.508972797401543
+"Minnesota","Ohio",0.412415588642096
+"Mississippi","Ohio",0.286210709208656
+"Missouri","Ohio",0.458762440501947
+"Montana","Ohio",0.126472011614777
+"Nebraska","Ohio",0.274929027679205
+"Nevada","Ohio",0.0760836617156714
+"New Hampshire","Ohio",0.358075113202522
+"New Jersey","Ohio",0.484802552852014
+"New Mexico","Ohio",0.114613180515759
+"New York","Ohio",0.511637293152159
+"North Carolina","Ohio",0.43489203868062
+"North Dakota","Ohio",0.121528442827045
+"Oklahoma","Ohio",0.306108010376543
+"Oregon","Ohio",0.15037827111497
+"Pennsylvania","Ohio",0.578816971198513
+"Rhode Island","Ohio",0.310813361011512
+"South Carolina","Ohio",0.319234566026274
+"South Dakota","Ohio",0.171425948030484
+"Tennessee","Ohio",0.471744864519223
+"Texas","Ohio",0.229859364813263
+"Utah","Ohio",0.120464767616192
+"Vermont","Ohio",0.427421383647799
+"Virginia","Ohio",0.500259509156966
+"Washington","Ohio",0.164952950707297
+"West Virginia","Ohio",0.46758277229549
+"Wisconsin","Ohio",0.479657209418421
+"Wyoming","Ohio",0.0880885958238228
+"Alabama","Oklahoma",0.344743869871328
+"Alaska","Oklahoma",0.04358444486192
+"Arizona","Oklahoma",0.148802570093458
+"Arkansas","Oklahoma",0.463372717508056
+"California","Oklahoma",0.0906716417910448
+"Colorado","Oklahoma",0.214962121212121
+"Connecticut","Oklahoma",0.264175257731959
+"Delaware","Oklahoma",0.30447159293085
+"Florida","Oklahoma",0.223154904113127
+"Georgia","Oklahoma",0.322838622779695
+"Hawaii","Oklahoma",0.0427606177606178
+"Idaho","Oklahoma",0.116767676767677
+"Illinois","Oklahoma",0.363960749330955
+"Indiana","Oklahoma",0.315245232900104
+"Iowa","Oklahoma",0.302135605088108
+"Kansas","Oklahoma",0.452559462254395
+"Kentucky","Oklahoma",0.363282848956201
+"Louisiana","Oklahoma",0.375750051727705
+"Maine","Oklahoma",0.184258750229064
+"Maryland","Oklahoma",0.32159339324751
+"Massachusetts","Oklahoma",0.239005312868949
+"Michigan","Oklahoma",0.255628058727569
+"Minnesota","Oklahoma",0.246459671035271
+"Mississippi","Oklahoma",0.350763201320132
+"Missouri","Oklahoma",0.448849782677833
+"Montana","Oklahoma",0.126358695652174
+"Nebraska","Oklahoma",0.351135814403093
+"Nevada","Oklahoma",0.107300884955752
+"New Hampshire","Oklahoma",0.206958428870501
+"New Jersey","Oklahoma",0.294418799832144
+"New Mexico","Oklahoma",0.199751861042184
+"New York","Oklahoma",0.237358829568789
+"North Carolina","Oklahoma",0.298130972456436
+"North Dakota","Oklahoma",0.148982068221653
+"Ohio","Oklahoma",0.306108010376543
+"Oregon","Oklahoma",0.106533170064107
+"Pennsylvania","Oklahoma",0.27354160497483
+"Rhode Island","Oklahoma",0.230229885057471
+"South Carolina","Oklahoma",0.334713465700574
+"South Dakota","Oklahoma",0.212340048143925
+"Tennessee","Oklahoma",0.361717352415027
+"Texas","Oklahoma",0.33300803673938
+"Utah","Oklahoma",0.139561930606707
+"Vermont","Oklahoma",0.215340010542963
+"Virginia","Oklahoma",0.317335188190741
+"Washington","Oklahoma",0.104738154613466
+"West Virginia","Oklahoma",0.281627719580983
+"Wisconsin","Oklahoma",0.268137978972978
+"Wyoming","Oklahoma",0.105503539620918
+"Alabama","Oregon",0.0948306384987608
+"Alaska","Oregon",0.198530087276068
+"Arizona","Oregon",0.14088326446281
+"Arkansas","Oregon",0.106134925712661
+"California","Oregon",0.301880704342214
+"Colorado","Oregon",0.23084592376716
+"Connecticut","Oregon",0.140465793304221
+"Delaware","Oregon",0.112793598898735
+"Florida","Oregon",0.0694565384418378
+"Georgia","Oregon",0.101541534044811
+"Hawaii","Oregon",0.0383079305566876
+"Idaho","Oregon",0.341317365269461
+"Illinois","Oregon",0.144508670520231
+"Indiana","Oregon",0.144098479362781
+"Iowa","Oregon",0.128598517496983
+"Kansas","Oregon",0.11512740201473
+"Kentucky","Oregon",0.117884094072826
+"Louisiana","Oregon",0.0838847385272145
+"Maine","Oregon",0.16969696969697
+"Maryland","Oregon",0.136782467936745
+"Massachusetts","Oregon",0.151367968029511
+"Michigan","Oregon",0.179152207933592
+"Minnesota","Oregon",0.173209993444533
+"Mississippi","Oregon",0.0854935374395263
+"Missouri","Oregon",0.122841105354059
+"Montana","Oregon",0.257343487291069
+"Nebraska","Oregon",0.13822125813449
+"Nevada","Oregon",0.202805648457822
+"New Hampshire","Oregon",0.151348692301386
+"New Jersey","Oregon",0.147323198942498
+"New Mexico","Oregon",0.152969227330303
+"New York","Oregon",0.163896659535955
+"North Carolina","Oregon",0.12222344402903
+"North Dakota","Oregon",0.106783786644089
+"Ohio","Oregon",0.15037827111497
+"Oklahoma","Oregon",0.106533170064107
+"Pennsylvania","Oregon",0.159096414728682
+"Rhode Island","Oregon",0.127777282055858
+"South Carolina","Oregon",0.0946625016976776
+"South Dakota","Oregon",0.137982195845697
+"Tennessee","Oregon",0.123257184002095
+"Texas","Oregon",0.0941631871955463
+"Utah","Oregon",0.235251668771423
+"Vermont","Oregon",0.156678647399692
+"Virginia","Oregon",0.133667801469271
+"Washington","Oregon",0.528035745575609
+"West Virginia","Oregon",0.132221192462156
+"Wisconsin","Oregon",0.166125846501129
+"Wyoming","Oregon",0.190978985135828
+"Alabama","Pennsylvania",0.340652116749934
+"Alaska","Pennsylvania",0.0930249632892805
+"Arizona","Pennsylvania",0.0976652601969058
+"Arkansas","Pennsylvania",0.3317771314863
+"California","Pennsylvania",0.115420266211857
+"Colorado","Pennsylvania",0.173191684700636
+"Connecticut","Pennsylvania",0.490044247787611
+"Delaware","Pennsylvania",0.328806547351381
+"Florida","Pennsylvania",0.192650918635171
+"Georgia","Pennsylvania",0.352790116601888
+"Hawaii","Pennsylvania",0.0352172678216416
+"Idaho","Pennsylvania",0.12824218452879
+"Illinois","Pennsylvania",0.474746693479774
+"Indiana","Pennsylvania",0.461799801126947
+"Iowa","Pennsylvania",0.30733543417367
+"Kansas","Pennsylvania",0.26327303323517
+"Kentucky","Pennsylvania",0.426938162396729
+"Louisiana","Pennsylvania",0.2538551916581
+"Maine","Pennsylvania",0.384793964016251
+"Maryland","Pennsylvania",0.554524361948956
+"Massachusetts","Pennsylvania",0.508028447833419
+"Michigan","Pennsylvania",0.501488095238095
+"Minnesota","Pennsylvania",0.39466936047867
+"Mississippi","Pennsylvania",0.263023952095808
+"Missouri","Pennsylvania",0.403040295986488
+"Montana","Pennsylvania",0.125599381283836
+"Nebraska","Pennsylvania",0.248977206312098
+"Nevada","Pennsylvania",0.0719826023921711
+"New Hampshire","Pennsylvania",0.383141762452107
+"New Jersey","Pennsylvania",0.512883145536207
+"New Mexico","Pennsylvania",0.109082756853702
+"New York","Pennsylvania",0.567214897376648
+"North Carolina","Pennsylvania",0.445780001299461
+"North Dakota","Pennsylvania",0.110719768807008
+"Ohio","Pennsylvania",0.578816971198513
+"Oklahoma","Pennsylvania",0.27354160497483
+"Oregon","Pennsylvania",0.159096414728682
+"Rhode Island","Pennsylvania",0.311950711243997
+"South Carolina","Pennsylvania",0.312554808535516
+"South Dakota","Pennsylvania",0.154997836434444
+"Tennessee","Pennsylvania",0.447805547089302
+"Texas","Pennsylvania",0.214703500404931
+"Utah","Pennsylvania",0.116100294561391
+"Vermont","Pennsylvania",0.455612497933543
+"Virginia","Pennsylvania",0.521408738857226
+"Washington","Pennsylvania",0.175373361779945
+"West Virginia","Pennsylvania",0.471989295272079
+"Wisconsin","Pennsylvania",0.459949141767324
+"Wyoming","Pennsylvania",0.0848782847009512
+"Alabama","Rhode Island",0.234692970763352
+"Alaska","Rhode Island",0.0917729757875553
+"Arizona","Rhode Island",0.0819058706136704
+"Arkansas","Rhode Island",0.267558139534884
+"California","Rhode Island",0.0709290709290709
+"Colorado","Rhode Island",0.150737522731865
+"Connecticut","Rhode Island",0.447102115915363
+"Delaware","Rhode Island",0.419139084205111
+"Florida","Rhode Island",0.150109905693824
+"Georgia","Rhode Island",0.26126213592233
+"Hawaii","Rhode Island",0.0396294390118374
+"Idaho","Rhode Island",0.141819676623733
+"Illinois","Rhode Island",0.306884359400998
+"Indiana","Rhode Island",0.326625386996904
+"Iowa","Rhode Island",0.31284046692607
+"Kansas","Rhode Island",0.266964285714286
+"Kentucky","Rhode Island",0.324709411323585
+"Louisiana","Rhode Island",0.22325043377675
+"Maine","Rhode Island",0.38991825613079
+"Maryland","Rhode Island",0.339505564857678
+"Massachusetts","Rhode Island",0.363971301144076
+"Michigan","Rhode Island",0.325279782449535
+"Minnesota","Rhode Island",0.292099322799097
+"Mississippi","Rhode Island",0.239426523297491
+"Missouri","Rhode Island",0.300071275837491
+"Montana","Rhode Island",0.142087351106069
+"Nebraska","Rhode Island",0.264046622833234
+"Nevada","Rhode Island",0.0899526564965807
+"New Hampshire","Rhode Island",0.433766233766234
+"New Jersey","Rhode Island",0.381485913194822
+"New Mexico","Rhode Island",0.110483622548516
+"New York","Rhode Island",0.294862772695285
+"North Carolina","Rhode Island",0.266339737921055
+"North Dakota","Rhode Island",0.179857578840285
+"Ohio","Rhode Island",0.310813361011512
+"Oklahoma","Rhode Island",0.230229885057471
+"Oregon","Rhode Island",0.127777282055858
+"Pennsylvania","Rhode Island",0.311950711243997
+"South Carolina","Rhode Island",0.278986720232117
+"South Dakota","Rhode Island",0.208899876390606
+"Tennessee","Rhode Island",0.296649725132248
+"Texas","Rhode Island",0.133112216694306
+"Utah","Rhode Island",0.126418152350081
+"Vermont","Rhode Island",0.353722432070184
+"Virginia","Rhode Island",0.309380142622052
+"Washington","Rhode Island",0.137998575498575
+"West Virginia","Rhode Island",0.373575058371103
+"Wisconsin","Rhode Island",0.316916250693289
+"Wyoming","Rhode Island",0.113796414852753
+"Alabama","South Carolina",0.50120960774149
+"Alaska","South Carolina",0.0451783355350066
+"Arizona","South Carolina",0.0930540827147402
+"Arkansas","South Carolina",0.404629358335775
+"California","South Carolina",0.0801803959131545
+"Colorado","South Carolina",0.118961625282167
+"Connecticut","South Carolina",0.311611910580143
+"Delaware","South Carolina",0.368090306063075
+"Florida","South Carolina",0.359064569536424
+"Georgia","South Carolina",0.54131187423973
+"Hawaii","South Carolina",0.0581182500457624
+"Idaho","South Carolina",0.0827605169095408
+"Illinois","South Carolina",0.321475625823452
+"Indiana","South Carolina",0.311272531611515
+"Iowa","South Carolina",0.231882559702264
+"Kansas","South Carolina",0.262232979059244
+"Kentucky","South Carolina",0.38432799134795
+"Louisiana","South Carolina",0.443121149897331
+"Maine","South Carolina",0.221042298768517
+"Maryland","South Carolina",0.40261126621777
+"Massachusetts","South Carolina",0.285641025641026
+"Michigan","South Carolina",0.260594708499181
+"Minnesota","South Carolina",0.212359915543284
+"Mississippi","South Carolina",0.4719005630511
+"Missouri","South Carolina",0.36329269445232
+"Montana","South Carolina",0.0776345291479821
+"Nebraska","South Carolina",0.211076174054164
+"Nevada","South Carolina",0.0682581465008623
+"New Hampshire","South Carolina",0.243716163959783
+"New Jersey","South Carolina",0.376403538618578
+"New Mexico","South Carolina",0.101471607982125
+"New York","South Carolina",0.282295732292533
+"North Carolina","South Carolina",0.48311227637261
+"North Dakota","South Carolina",0.0915078804987062
+"Ohio","South Carolina",0.319234566026274
+"Oklahoma","South Carolina",0.334713465700574
+"Oregon","South Carolina",0.0946625016976776
+"Pennsylvania","South Carolina",0.312554808535516
+"Rhode Island","South Carolina",0.278986720232117
+"South Dakota","South Carolina",0.128880629645824
+"Tennessee","South Carolina",0.422518914107699
+"Texas","South Carolina",0.274665107378269
+"Utah","South Carolina",0.0861754751366832
+"Vermont","South Carolina",0.234851049424509
+"Virginia","South Carolina",0.425380304243395
+"Washington","South Carolina",0.095520377231391
+"West Virginia","South Carolina",0.324491600353669
+"Wisconsin","South Carolina",0.243661401377076
+"Wyoming","South Carolina",0.0594682362492389
+"Alabama","South Dakota",0.11939643828406
+"Alaska","South Dakota",0.100273058252427
+"Arizona","South Dakota",0.121000471920717
+"Arkansas","South Dakota",0.176605228285749
+"California","South Dakota",0.0709855929777693
+"Colorado","South Dakota",0.247688564476886
+"Connecticut","South Dakota",0.178780284043442
+"Delaware","South Dakota",0.198757763975155
+"Florida","South Dakota",0.0784958535887904
+"Georgia","South Dakota",0.121971990915973
+"Hawaii","South Dakota",0.033784789403185
+"Idaho","South Dakota",0.227660300136426
+"Illinois","South Dakota",0.212793041264453
+"Indiana","South Dakota",0.203777216408036
+"Iowa","South Dakota",0.318107961725943
+"Kansas","South Dakota",0.300440528634361
+"Kentucky","South Dakota",0.185495991983968
+"Louisiana","South Dakota",0.135827718960539
+"Maine","South Dakota",0.190651260504202
+"Maryland","South Dakota",0.152871543512439
+"Massachusetts","South Dakota",0.15266019071384
+"Michigan","South Dakota",0.202647763994579
+"Minnesota","South Dakota",0.263041880969875
+"Mississippi","South Dakota",0.138071191033379
+"Missouri","South Dakota",0.211559836976658
+"Montana","South Dakota",0.283858998144712
+"Nebraska","South Dakota",0.374812312312312
+"Nevada","South Dakota",0.16742819843342
+"New Hampshire","South Dakota",0.200698588269539
+"New Jersey","South Dakota",0.158453525641026
+"New Mexico","South Dakota",0.19385867554569
+"New York","South Dakota",0.143683274021352
+"North Carolina","South Dakota",0.119981612013485
+"North Dakota","South Dakota",0.415351941747573
+"Ohio","South Dakota",0.171425948030484
+"Oklahoma","South Dakota",0.212340048143925
+"Oregon","South Dakota",0.137982195845697
+"Pennsylvania","South Dakota",0.154997836434444
+"Rhode Island","South Dakota",0.208899876390606
+"South Carolina","South Dakota",0.128880629645824
+"Tennessee","South Dakota",0.157653528872594
+"Texas","South Dakota",0.103802086302229
+"Utah","South Dakota",0.215912588488766
+"Vermont","South Dakota",0.193016024874432
+"Virginia","South Dakota",0.144195731389901
+"Washington","South Dakota",0.141513132105057
+"West Virginia","South Dakota",0.18479422768573
+"Wisconsin","South Dakota",0.235673187571922
+"Wyoming","South Dakota",0.291287962757703
+"Alabama","Tennessee",0.481973281828424
+"Alaska","Tennessee",0.0646651270207852
+"Arizona","Tennessee",0.0990471414242728
+"Arkansas","Tennessee",0.472829720179544
+"California","Tennessee",0.091286790401491
+"Colorado","Tennessee",0.150802835237957
+"Connecticut","Tennessee",0.382342470630118
+"Delaware","Tennessee",0.365489275424181
+"Florida","Tennessee",0.242050422180969
+"Georgia","Tennessee",0.474198164828689
+"Hawaii","Tennessee",0.0407168814007268
+"Idaho","Tennessee",0.10819898267092
+"Illinois","Tennessee",0.463640256959315
+"Indiana","Tennessee",0.439389761970407
+"Iowa","Tennessee",0.308951303293595
+"Kansas","Tennessee",0.316932713679531
+"Kentucky","Tennessee",0.551564905079528
+"Louisiana","Tennessee",0.361717481508209
+"Maine","Tennessee",0.284169210641082
+"Maryland","Tennessee",0.48642441145107
+"Massachusetts","Tennessee",0.360436182669789
+"Michigan","Tennessee",0.372724369211115
+"Minnesota","Tennessee",0.308398197460057
+"Mississippi","Tennessee",0.392967361825493
+"Missouri","Tennessee",0.481463741737714
+"Montana","Tennessee",0.105591700369263
+"Nebraska","Tennessee",0.258971871968962
+"Nevada","Tennessee",0.0733199262611027
+"New Hampshire","Tennessee",0.306492530301607
+"New Jersey","Tennessee",0.431623576357137
+"New Mexico","Tennessee",0.112998040496408
+"New York","Tennessee",0.375326200417537
+"North Carolina","Tennessee",0.496383229997048
+"North Dakota","Tennessee",0.111709576645481
+"Ohio","Tennessee",0.471744864519223
+"Oklahoma","Tennessee",0.361717352415027
+"Oregon","Tennessee",0.123257184002095
+"Pennsylvania","Tennessee",0.447805547089302
+"Rhode Island","Tennessee",0.296649725132248
+"South Carolina","Tennessee",0.422518914107699
+"South Dakota","Tennessee",0.157653528872594
+"Texas","Tennessee",0.253896657144289
+"Utah","Tennessee",0.105980256180142
+"Vermont","Tennessee",0.32803738317757
+"Virginia","Tennessee",0.514467127471468
+"Washington","Tennessee",0.126350735581305
+"West Virginia","Tennessee",0.449880191693291
+"Wisconsin","Tennessee",0.359737889847379
+"Wyoming","Tennessee",0.075712143928036
+"Alabama","Texas",0.316321953650635
+"Alaska","Texas",0.0335706516365075
+"Arizona","Texas",0.198994927672365
+"Arkansas","Texas",0.292154049878614
+"California","Texas",0.133536374768439
+"Colorado","Texas",0.165447986740762
+"Connecticut","Texas",0.181352613345383
+"Delaware","Texas",0.171700664938578
+"Florida","Texas",0.287833295989245
+"Georgia","Texas",0.281408549756367
+"Hawaii","Texas",0.0527983644262714
+"Idaho","Texas",0.0764584408879711
+"Illinois","Texas",0.25
+"Indiana","Texas",0.202979610515076
+"Iowa","Texas",0.158584462261543
+"Kansas","Texas",0.21523083145548
+"Kentucky","Texas",0.221183306920232
+"Louisiana","Texas",0.321336613835326
+"Maine","Texas",0.125142376070916
+"Maryland","Texas",0.253082569687665
+"Massachusetts","Texas",0.195198705268837
+"Michigan","Texas",0.183137623297323
+"Minnesota","Texas",0.162946428571429
+"Mississippi","Texas",0.277170274492301
+"Missouri","Texas",0.261397849462366
+"Montana","Texas",0.0749294597136587
+"Nebraska","Texas",0.176764276898912
+"Nevada","Texas",0.087383714853141
+"New Hampshire","Texas",0.127167927538469
+"New Jersey","Texas",0.22607934655776
+"New Mexico","Texas",0.215387019481196
+"New York","Texas",0.212593828190158
+"North Carolina","Texas",0.28646188850967
+"North Dakota","Texas",0.0679221082089552
+"Ohio","Texas",0.229859364813263
+"Oklahoma","Texas",0.33300803673938
+"Oregon","Texas",0.0941631871955463
+"Pennsylvania","Texas",0.214703500404931
+"Rhode Island","Texas",0.133112216694306
+"South Carolina","Texas",0.274665107378269
+"South Dakota","Texas",0.103802086302229
+"Tennessee","Texas",0.253896657144289
+"Utah","Texas",0.107440139759531
+"Vermont","Texas",0.142497944973647
+"Virginia","Texas",0.261930509191781
+"Washington","Texas",0.0916465308940283
+"West Virginia","Texas",0.16702943615257
+"Wisconsin","Texas",0.18145708196086
+"Wyoming","Texas",0.0602612955906369
+"Alabama","Utah",0.0805204192265992
+"Alaska","Utah",0.109779031499765
+"Arizona","Utah",0.244778761061947
+"Arkansas","Utah",0.105910646563685
+"California","Utah",0.161669024045262
+"Colorado","Utah",0.365481676541584
+"Connecticut","Utah",0.118154017236586
+"Delaware","Utah",0.118570914758422
+"Florida","Utah",0.0601411475912857
+"Georgia","Utah",0.0866470679251122
+"Hawaii","Utah",0.0368898978433598
+"Idaho","Utah",0.363345919256462
+"Illinois","Utah",0.134032634032634
+"Indiana","Utah",0.125819255977107
+"Iowa","Utah",0.151279873832343
+"Kansas","Utah",0.156794003868472
+"Kentucky","Utah",0.110221968181385
+"Louisiana","Utah",0.08640822045773
+"Maine","Utah",0.132039420756235
+"Maryland","Utah",0.109051006508249
+"Massachusetts","Utah",0.112967324109508
+"Michigan","Utah",0.144214738246082
+"Minnesota","Utah",0.155331731657734
+"Mississippi","Utah",0.082906954709115
+"Missouri","Utah",0.123291518442239
+"Montana","Utah",0.303706884213539
+"Nebraska","Utah",0.193726474278545
+"Nevada","Utah",0.374779281930547
+"New Hampshire","Utah",0.130251190991771
+"New Jersey","Utah",0.11665854846566
+"New Mexico","Utah",0.298971328518275
+"New York","Utah",0.113745574102175
+"North Carolina","Utah",0.0903723887375114
+"North Dakota","Utah",0.173831135468402
+"Ohio","Utah",0.120464767616192
+"Oklahoma","Utah",0.139561930606707
+"Oregon","Utah",0.235251668771423
+"Pennsylvania","Utah",0.116100294561391
+"Rhode Island","Utah",0.126418152350081
+"South Carolina","Utah",0.0861754751366832
+"South Dakota","Utah",0.215912588488766
+"Tennessee","Utah",0.105980256180142
+"Texas","Utah",0.107440139759531
+"Vermont","Utah",0.124306839186691
+"Virginia","Utah",0.105145896219635
+"Washington","Utah",0.224946883852691
+"West Virginia","Utah",0.112721417069243
+"Wisconsin","Utah",0.145807480943095
+"Wyoming","Utah",0.32331571994716
+"Alabama","Vermont",0.238559476173154
+"Alaska","Vermont",0.124487404803749
+"Arizona","Vermont",0.0864970382337103
+"Arkansas","Vermont",0.244765791341377
+"California","Vermont",0.0921504497138185
+"Colorado","Vermont",0.188021600392734
+"Connecticut","Vermont",0.47918410041841
+"Delaware","Vermont",0.29558105191412
+"Florida","Vermont",0.132307332202001
+"Georgia","Vermont",0.251144741948002
+"Hawaii","Vermont",0.0288179148311307
+"Idaho","Vermont",0.15333534560821
+"Illinois","Vermont",0.381778169014085
+"Indiana","Vermont",0.360308836145267
+"Iowa","Vermont",0.314802182810368
+"Kansas","Vermont",0.232821598729486
+"Kentucky","Vermont",0.329685230024213
+"Louisiana","Vermont",0.188123103597746
+"Maine","Vermont",0.517586795674445
+"Maryland","Vermont",0.393934344275954
+"Massachusetts","Vermont",0.491199167606
+"Michigan","Vermont",0.498435277382646
+"Minnesota","Vermont",0.468816120906801
+"Mississippi","Vermont",0.195679121657517
+"Missouri","Vermont",0.314712751050911
+"Montana","Vermont",0.167432150313152
+"Nebraska","Vermont",0.254220779220779
+"Nevada","Vermont",0.0787981859410431
+"New Hampshire","Vermont",0.515562552985346
+"New Jersey","Vermont",0.396189804198271
+"New Mexico","Vermont",0.110005571917536
+"New York","Vermont",0.455714919414461
+"North Carolina","Vermont",0.313987473903967
+"North Dakota","Vermont",0.148867730313948
+"Ohio","Vermont",0.427421383647799
+"Oklahoma","Vermont",0.215340010542963
+"Oregon","Vermont",0.156678647399692
+"Pennsylvania","Vermont",0.455612497933543
+"Rhode Island","Vermont",0.353722432070184
+"South Carolina","Vermont",0.234851049424509
+"South Dakota","Vermont",0.193016024874432
+"Tennessee","Vermont",0.32803738317757
+"Texas","Vermont",0.142497944973647
+"Utah","Vermont",0.124306839186691
+"Virginia","Vermont",0.354022810148188
+"Washington","Vermont",0.180152784988504
+"West Virginia","Vermont",0.417116339304986
+"Wisconsin","Vermont",0.494520820880654
+"Wyoming","Vermont",0.111980601785517
+"Alabama","Virginia",0.433245980593526
+"Alaska","Virginia",0.0678605089538172
+"Arizona","Virginia",0.0981671679055779
+"Arkansas","Virginia",0.39281098546042
+"California","Virginia",0.105994530268313
+"Colorado","Virginia",0.153525891230809
+"Connecticut","Virginia",0.434606481481481
+"Delaware","Virginia",0.370814967645128
+"Florida","Virginia",0.25960250111657
+"Georgia","Virginia",0.459094339622642
+"Hawaii","Virginia",0.0410741355663033
+"Idaho","Virginia",0.107045866022933
+"Illinois","Virginia",0.450076687116564
+"Indiana","Virginia",0.421382113821138
+"Iowa","Virginia",0.28719512195122
+"Kansas","Virginia",0.277495915383954
+"Kentucky","Virginia",0.462574462574463
+"Louisiana","Virginia",0.329952830188679
+"Maine","Virginia",0.308032890575585
+"Maryland","Virginia",0.607707191228636
+"Massachusetts","Virginia",0.442708701491482
+"Michigan","Virginia",0.39750091877986
+"Minnesota","Virginia",0.316899844548079
+"Mississippi","Virginia",0.341573033707865
+"Missouri","Virginia",0.425649484536082
+"Montana","Virginia",0.102128311131527
+"Nebraska","Virginia",0.239407134483336
+"Nevada","Virginia",0.069835466179159
+"New Hampshire","Virginia",0.324629380053908
+"New Jersey","Virginia",0.514756184869939
+"New Mexico","Virginia",0.107117506614183
+"New York","Virginia",0.466009473818973
+"North Carolina","Virginia",0.542984845310427
+"North Dakota","Virginia",0.099628656824563
+"Ohio","Virginia",0.500259509156966
+"Oklahoma","Virginia",0.317335188190741
+"Oregon","Virginia",0.133667801469271
+"Pennsylvania","Virginia",0.521408738857226
+"Rhode Island","Virginia",0.309380142622052
+"South Carolina","Virginia",0.425380304243395
+"South Dakota","Virginia",0.144195731389901
+"Tennessee","Virginia",0.514467127471468
+"Texas","Virginia",0.261930509191781
+"Utah","Virginia",0.105145896219635
+"Vermont","Virginia",0.354022810148188
+"Washington","Virginia",0.142754705706603
+"West Virginia","Virginia",0.441054580724804
+"Wisconsin","Virginia",0.367930904994367
+"Wyoming","Virginia",0.0711927196585327
+"Alabama","Washington",0.0960895819897989
+"Alaska","Washington",0.234578301975101
+"Arizona","Washington",0.13134328358209
+"Arkansas","Washington",0.105767199492993
+"California","Washington",0.265762953714439
+"Colorado","Washington",0.236124895030155
+"Connecticut","Washington",0.157189901207464
+"Delaware","Washington",0.11645180568599
+"Florida","Washington",0.0694409116345322
+"Georgia","Washington",0.1037841191067
+"Hawaii","Washington",0.0353640893746986
+"Idaho","Washington",0.340032646398694
+"Illinois","Washington",0.157470345195255
+"Indiana","Washington",0.155876169071268
+"Iowa","Washington",0.136028149673876
+"Kansas","Washington",0.117020384195957
+"Kentucky","Washington",0.122276470159586
+"Louisiana","Washington",0.0827348260808337
+"Maine","Washington",0.19430072434928
+"Maryland","Washington",0.146327789198281
+"Massachusetts","Washington",0.173142679515076
+"Michigan","Washington",0.201636751255072
+"Minnesota","Washington",0.195996172812247
+"Mississippi","Washington",0.0842323355004644
+"Missouri","Washington",0.126806927150422
+"Montana","Washington",0.271612265084075
+"Nebraska","Washington",0.14328821450125
+"Nevada","Washington",0.166458741757263
+"New Hampshire","Washington",0.171622068054179
+"New Jersey","Washington",0.158842614050189
+"New Mexico","Washington",0.147043701799486
+"New York","Washington",0.184606000110908
+"North Carolina","Washington",0.12822483258316
+"North Dakota","Washington",0.111448941077794
+"Ohio","Washington",0.164952950707297
+"Oklahoma","Washington",0.104738154613466
+"Oregon","Washington",0.528035745575609
+"Pennsylvania","Washington",0.175373361779945
+"Rhode Island","Washington",0.137998575498575
+"South Carolina","Washington",0.095520377231391
+"South Dakota","Washington",0.141513132105057
+"Tennessee","Washington",0.126350735581305
+"Texas","Washington",0.0916465308940283
+"Utah","Washington",0.224946883852691
+"Vermont","Washington",0.180152784988504
+"Virginia","Washington",0.142754705706603
+"West Virginia","Washington",0.142559431923433
+"Wisconsin","Washington",0.186001849349171
+"Wyoming","Washington",0.189782498735458
+"Alabama","West Virginia",0.323162620552045
+"Alaska","West Virginia",0.0875653082549634
+"Arizona","West Virginia",0.085578103560338
+"Arkansas","West Virginia",0.351673640167364
+"California","West Virginia",0.0811096098631988
+"Colorado","West Virginia",0.153435968005504
+"Connecticut","West Virginia",0.451548229004233
+"Delaware","West Virginia",0.38966122283709
+"Florida","West Virginia",0.168545803971813
+"Georgia","West Virginia",0.349878608038845
+"Hawaii","West Virginia",0.0346205059920107
+"Idaho","West Virginia",0.130596200043678
+"Illinois","West Virginia",0.410968178740691
+"Indiana","West Virginia",0.444944560324953
+"Iowa","West Virginia",0.347249065842031
+"Kansas","West Virginia",0.295977364989544
+"Kentucky","West Virginia",0.485230081205131
+"Louisiana","West Virginia",0.257085828343313
+"Maine","West Virginia",0.382535912227124
+"Maryland","West Virginia",0.453657174762702
+"Massachusetts","West Virginia",0.388538879779063
+"Michigan","West Virginia",0.418831482375664
+"Minnesota","West Virginia",0.352716681731445
+"Mississippi","West Virginia",0.287390943082676
+"Missouri","West Virginia",0.406029714781477
+"Montana","West Virginia",0.134188900146347
+"Nebraska","West Virginia",0.273235329850565
+"Nevada","West Virginia",0.0760960334029228
+"New Hampshire","West Virginia",0.409068445762293
+"New Jersey","West Virginia",0.431586113002042
+"New Mexico","West Virginia",0.108367153095588
+"New York","West Virginia",0.377799199169509
+"North Carolina","West Virginia",0.379784178247031
+"North Dakota","West Virginia",0.14110608492631
+"Ohio","West Virginia",0.46758277229549
+"Oklahoma","West Virginia",0.281627719580983
+"Oregon","West Virginia",0.132221192462156
+"Pennsylvania","West Virginia",0.471989295272079
+"Rhode Island","West Virginia",0.373575058371103
+"South Carolina","West Virginia",0.324491600353669
+"South Dakota","West Virginia",0.18479422768573
+"Tennessee","West Virginia",0.449880191693291
+"Texas","West Virginia",0.16702943615257
+"Utah","West Virginia",0.112721417069243
+"Vermont","West Virginia",0.417116339304986
+"Virginia","West Virginia",0.441054580724804
+"Washington","West Virginia",0.142559431923433
+"Wisconsin","West Virginia",0.398389531957725
+"Wyoming","West Virginia",0.0959238467171101
+"Alabama","Wisconsin",0.270337833011928
+"Alaska","Wisconsin",0.121677171827898
+"Arizona","Wisconsin",0.103977532492979
+"Arkansas","Wisconsin",0.299455375966268
+"California","Wisconsin",0.105140374869278
+"Colorado","Wisconsin",0.220412074748443
+"Connecticut","Wisconsin",0.432705248990579
+"Delaware","Wisconsin",0.291750716636586
+"Florida","Wisconsin",0.150045745654163
+"Georgia","Wisconsin",0.272364157057804
+"Hawaii","Wisconsin",0.0313576843556168
+"Idaho","Wisconsin",0.164396609200876
+"Illinois","Wisconsin",0.49600072714052
+"Indiana","Wisconsin",0.436502627806976
+"Iowa","Wisconsin",0.400954653937947
+"Kansas","Wisconsin",0.307408578353883
+"Kentucky","Wisconsin",0.367204453250307
+"Louisiana","Wisconsin",0.212962186635365
+"Maine","Wisconsin",0.426229508196721
+"Maryland","Wisconsin",0.397682780663204
+"Massachusetts","Wisconsin",0.441181190820093
+"Michigan","Wisconsin",0.577128166063607
+"Minnesota","Wisconsin",0.573010664479081
+"Mississippi","Wisconsin",0.221090473337328
+"Missouri","Wisconsin",0.391875410451262
+"Montana","Wisconsin",0.181485510829789
+"Nebraska","Wisconsin",0.319128484460109
+"Nevada","Wisconsin",0.090420769919427
+"New Hampshire","Wisconsin",0.414597762386787
+"New Jersey","Wisconsin",0.394051419929424
+"New Mexico","Wisconsin",0.132614555256065
+"New York","Wisconsin",0.452763176587583
+"North Carolina","Wisconsin",0.323362974939369
+"North Dakota","Wisconsin",0.170976317061382
+"Ohio","Wisconsin",0.479657209418421
+"Oklahoma","Wisconsin",0.268137978972978
+"Oregon","Wisconsin",0.166125846501129
+"Pennsylvania","Wisconsin",0.459949141767324
+"Rhode Island","Wisconsin",0.316916250693289
+"South Carolina","Wisconsin",0.243661401377076
+"South Dakota","Wisconsin",0.235673187571922
+"Tennessee","Wisconsin",0.359737889847379
+"Texas","Wisconsin",0.18145708196086
+"Utah","Wisconsin",0.145807480943095
+"Vermont","Wisconsin",0.494520820880654
+"Virginia","Wisconsin",0.367930904994367
+"Washington","Wisconsin",0.186001849349171
+"West Virginia","Wisconsin",0.398389531957725
+"Wyoming","Wisconsin",0.127962577962578
+"Alabama","Wyoming",0.0541270881100557
+"Alaska","Wyoming",0.132533825338253
+"Arizona","Wyoming",0.129959476015456
+"Arkansas","Wyoming",0.0802536628034113
+"California","Wyoming",0.090263348634936
+"Colorado","Wyoming",0.310044219835755
+"Connecticut","Wyoming",0.0950345281157514
+"Delaware","Wyoming",0.0947781466948385
+"Florida","Wyoming",0.0381830601092896
+"Georgia","Wyoming",0.0577942735949099
+"Hawaii","Wyoming",0.0240824024372552
+"Idaho","Wyoming",0.360372093023256
+"Illinois","Wyoming",0.103507598203192
+"Indiana","Wyoming",0.0967811856508074
+"Iowa","Wyoming",0.143782783091638
+"Kansas","Wyoming",0.136853284782279
+"Kentucky","Wyoming",0.0849569551427277
+"Louisiana","Wyoming",0.0600244091867303
+"Maine","Wyoming",0.123058103975535
+"Maryland","Wyoming",0.0763241208180029
+"Massachusetts","Wyoming",0.0865256495669554
+"Michigan","Wyoming",0.120515533326921
+"Minnesota","Wyoming",0.150502041266689
+"Mississippi","Wyoming",0.0612731192556451
+"Missouri","Wyoming",0.098041385415514
+"Montana","Wyoming",0.422532362459547
+"Nebraska","Wyoming",0.198710717163578
+"Nevada","Wyoming",0.24031404676566
+"New Hampshire","Wyoming",0.124210243312273
+"New Jersey","Wyoming",0.0843004363568842
+"New Mexico","Wyoming",0.208240809277079
+"New York","Wyoming",0.0841414916625968
+"North Carolina","Wyoming",0.0608526573527294
+"North Dakota","Wyoming",0.26636628677445
+"Ohio","Wyoming",0.0880885958238228
+"Oklahoma","Wyoming",0.105503539620918
+"Oregon","Wyoming",0.190978985135828
+"Pennsylvania","Wyoming",0.0848782847009512
+"Rhode Island","Wyoming",0.113796414852753
+"South Carolina","Wyoming",0.0594682362492389
+"South Dakota","Wyoming",0.291287962757703
+"Tennessee","Wyoming",0.075712143928036
+"Texas","Wyoming",0.0602612955906369
+"Utah","Wyoming",0.32331571994716
+"Vermont","Wyoming",0.111980601785517
+"Virginia","Wyoming",0.0711927196585327
+"Washington","Wyoming",0.189782498735458
+"West Virginia","Wyoming",0.0959238467171101
+"Wisconsin","Wyoming",0.127962577962578

@@ -1,0 +1,2797 @@
+"year","season","stateProvince","specRichness"
+2010,"fall","Alabama",160
+2010,"fall","Alaska",76
+2010,"fall","Arizona",225
+2010,"fall","Arkansas",38
+2010,"fall","California",704
+2010,"fall","Colorado",72
+2010,"fall","Connecticut",35
+2010,"fall","Delaware",54
+2010,"fall","Florida",327
+2010,"fall","Georgia",71
+2010,"fall","Hawaii",110
+2010,"fall","Idaho",16
+2010,"fall","Illinois",92
+2010,"fall","Indiana",30
+2010,"fall","Iowa",76
+2010,"fall","Kansas",24
+2010,"fall","Kentucky",9
+2010,"fall","Louisiana",141
+2010,"fall","Maine",95
+2010,"fall","Maryland",150
+2010,"fall","Massachusetts",138
+2010,"fall","Michigan",93
+2010,"fall","Minnesota",41
+2010,"fall","Mississippi",32
+2010,"fall","Missouri",71
+2010,"fall","Montana",32
+2010,"fall","Nebraska",8
+2010,"fall","Nevada",37
+2010,"fall","New Hampshire",12
+2010,"fall","New Jersey",244
+2010,"fall","New Mexico",171
+2010,"fall","New York",287
+2010,"fall","North Carolina",90
+2010,"fall","North Dakota",2
+2010,"fall","Ohio",147
+2010,"fall","Oklahoma",111
+2010,"fall","Oregon",131
+2010,"fall","Pennsylvania",215
+2010,"fall","Rhode Island",13
+2010,"fall","South Carolina",44
+2010,"fall","South Dakota",18
+2010,"fall","Tennessee",48
+2010,"fall","Texas",783
+2010,"fall","Utah",72
+2010,"fall","Vermont",138
+2010,"fall","Virginia",158
+2010,"fall","Washington",124
+2010,"fall","West Virginia",13
+2010,"fall","Wisconsin",91
+2010,"fall","Wyoming",28
+2010,"spring","Alabama",247
+2010,"spring","Alaska",98
+2010,"spring","Arizona",260
+2010,"spring","Arkansas",92
+2010,"spring","California",1413
+2010,"spring","Colorado",151
+2010,"spring","Connecticut",18
+2010,"spring","Delaware",35
+2010,"spring","Florida",590
+2010,"spring","Georgia",199
+2010,"spring","Hawaii",114
+2010,"spring","Idaho",49
+2010,"spring","Illinois",155
+2010,"spring","Indiana",53
+2010,"spring","Iowa",37
+2010,"spring","Kansas",29
+2010,"spring","Kentucky",38
+2010,"spring","Louisiana",145
+2010,"spring","Maine",45
+2010,"spring","Maryland",237
+2010,"spring","Massachusetts",148
+2010,"spring","Michigan",210
+2010,"spring","Minnesota",51
+2010,"spring","Mississippi",22
+2010,"spring","Missouri",103
+2010,"spring","Montana",27
+2010,"spring","Nebraska",27
+2010,"spring","Nevada",206
+2010,"spring","New Hampshire",31
+2010,"spring","New Jersey",173
+2010,"spring","New Mexico",197
+2010,"spring","New York",251
+2010,"spring","North Carolina",297
+2010,"spring","North Dakota",5
+2010,"spring","Ohio",292
+2010,"spring","Oklahoma",119
+2010,"spring","Oregon",113
+2010,"spring","Pennsylvania",268
+2010,"spring","Rhode Island",15
+2010,"spring","South Carolina",97
+2010,"spring","South Dakota",21
+2010,"spring","Tennessee",125
+2010,"spring","Texas",1114
+2010,"spring","Utah",179
+2010,"spring","Vermont",179
+2010,"spring","Virginia",333
+2010,"spring","Washington",153
+2010,"spring","West Virginia",24
+2010,"spring","Wisconsin",75
+2010,"spring","Wyoming",51
+2010,"summer","Alabama",156
+2010,"summer","Alaska",317
+2010,"summer","Arizona",444
+2010,"summer","Arkansas",49
+2010,"summer","California",1288
+2010,"summer","Colorado",324
+2010,"summer","Connecticut",77
+2010,"summer","Delaware",20
+2010,"summer","Florida",372
+2010,"summer","Georgia",114
+2010,"summer","Hawaii",94
+2010,"summer","Idaho",92
+2010,"summer","Illinois",213
+2010,"summer","Indiana",86
+2010,"summer","Iowa",172
+2010,"summer","Kansas",43
+2010,"summer","Kentucky",113
+2010,"summer","Louisiana",155
+2010,"summer","Maine",240
+2010,"summer","Maryland",212
+2010,"summer","Massachusetts",219
+2010,"summer","Michigan",316
+2010,"summer","Minnesota",111
+2010,"summer","Mississippi",11
+2010,"summer","Missouri",183
+2010,"summer","Montana",86
+2010,"summer","Nebraska",58
+2010,"summer","Nevada",171
+2010,"summer","New Hampshire",97
+2010,"summer","New Jersey",349
+2010,"summer","New Mexico",386
+2010,"summer","New York",663
+2010,"summer","North Carolina",364
+2010,"summer","North Dakota",77
+2010,"summer","Ohio",343
+2010,"summer","Oklahoma",249
+2010,"summer","Oregon",389
+2010,"summer","Pennsylvania",460
+2010,"summer","Rhode Island",39
+2010,"summer","South Carolina",118
+2010,"summer","South Dakota",86
+2010,"summer","Tennessee",125
+2010,"summer","Texas",961
+2010,"summer","Utah",260
+2010,"summer","Vermont",203
+2010,"summer","Virginia",257
+2010,"summer","Washington",454
+2010,"summer","West Virginia",59
+2010,"summer","Wisconsin",221
+2010,"summer","Wyoming",153
+2010,"winter","Alabama",24
+2010,"winter","Alaska",12
+2010,"winter","Arizona",118
+2010,"winter","Arkansas",9
+2010,"winter","California",582
+2010,"winter","Colorado",28
+2010,"winter","Connecticut",15
+2010,"winter","Delaware",18
+2010,"winter","Florida",369
+2010,"winter","Georgia",32
+2010,"winter","Hawaii",61
+2010,"winter","Illinois",17
+2010,"winter","Indiana",4
+2010,"winter","Iowa",8
+2010,"winter","Kansas",2
+2010,"winter","Kentucky",7
+2010,"winter","Louisiana",51
+2010,"winter","Maine",23
+2010,"winter","Maryland",69
+2010,"winter","Massachusetts",74
+2010,"winter","Michigan",33
+2010,"winter","Minnesota",8
+2010,"winter","Mississippi",4
+2010,"winter","Missouri",12
+2010,"winter","Montana",2
+2010,"winter","Nebraska",3
+2010,"winter","Nevada",35
+2010,"winter","New Hampshire",13
+2010,"winter","New Jersey",53
+2010,"winter","New Mexico",70
+2010,"winter","New York",72
+2010,"winter","North Carolina",35
+2010,"winter","Ohio",25
+2010,"winter","Oklahoma",32
+2010,"winter","Oregon",37
+2010,"winter","Pennsylvania",44
+2010,"winter","Rhode Island",3
+2010,"winter","South Carolina",11
+2010,"winter","Tennessee",8
+2010,"winter","Texas",479
+2010,"winter","Utah",26
+2010,"winter","Vermont",33
+2010,"winter","Virginia",47
+2010,"winter","Washington",48
+2010,"winter","West Virginia",2
+2010,"winter","Wisconsin",9
+2010,"winter","Wyoming",5
+2011,"fall","Alabama",119
+2011,"fall","Alaska",44
+2011,"fall","Arizona",201
+2011,"fall","Arkansas",136
+2011,"fall","California",979
+2011,"fall","Colorado",130
+2011,"fall","Connecticut",52
+2011,"fall","Delaware",16
+2011,"fall","Florida",526
+2011,"fall","Georgia",142
+2011,"fall","Hawaii",144
+2011,"fall","Idaho",29
+2011,"fall","Illinois",178
+2011,"fall","Indiana",49
+2011,"fall","Iowa",76
+2011,"fall","Kansas",21
+2011,"fall","Kentucky",31
+2011,"fall","Louisiana",94
+2011,"fall","Maine",70
+2011,"fall","Maryland",170
+2011,"fall","Massachusetts",168
+2011,"fall","Michigan",198
+2011,"fall","Minnesota",54
+2011,"fall","Mississippi",32
+2011,"fall","Missouri",112
+2011,"fall","Montana",60
+2011,"fall","Nebraska",22
+2011,"fall","Nevada",68
+2011,"fall","New Hampshire",12
+2011,"fall","New Jersey",236
+2011,"fall","New Mexico",132
+2011,"fall","New York",260
+2011,"fall","North Carolina",165
+2011,"fall","North Dakota",9
+2011,"fall","Ohio",241
+2011,"fall","Oklahoma",140
+2011,"fall","Oregon",144
+2011,"fall","Pennsylvania",286
+2011,"fall","Rhode Island",36
+2011,"fall","South Carolina",98
+2011,"fall","South Dakota",16
+2011,"fall","Tennessee",56
+2011,"fall","Texas",727
+2011,"fall","Utah",93
+2011,"fall","Vermont",205
+2011,"fall","Virginia",186
+2011,"fall","Washington",219
+2011,"fall","West Virginia",11
+2011,"fall","Wisconsin",149
+2011,"fall","Wyoming",42
+2011,"spring","Alabama",261
+2011,"spring","Alaska",82
+2011,"spring","Arizona",324
+2011,"spring","Arkansas",121
+2011,"spring","California",1483
+2011,"spring","Colorado",184
+2011,"spring","Connecticut",53
+2011,"spring","Delaware",42
+2011,"spring","Florida",596
+2011,"spring","Georgia",269
+2011,"spring","Hawaii",131
+2011,"spring","Idaho",27
+2011,"spring","Illinois",139
+2011,"spring","Indiana",39
+2011,"spring","Iowa",55
+2011,"spring","Kansas",29
+2011,"spring","Kentucky",60
+2011,"spring","Louisiana",180
+2011,"spring","Maine",44
+2011,"spring","Maryland",265
+2011,"spring","Massachusetts",139
+2011,"spring","Michigan",175
+2011,"spring","Minnesota",129
+2011,"spring","Mississippi",48
+2011,"spring","Missouri",102
+2011,"spring","Montana",41
+2011,"spring","Nebraska",17
+2011,"spring","Nevada",155
+2011,"spring","New Hampshire",33
+2011,"spring","New Jersey",196
+2011,"spring","New Mexico",190
+2011,"spring","New York",346
+2011,"spring","North Carolina",407
+2011,"spring","North Dakota",8
+2011,"spring","Ohio",339
+2011,"spring","Oklahoma",165
+2011,"spring","Oregon",159
+2011,"spring","Pennsylvania",309
+2011,"spring","Rhode Island",35
+2011,"spring","South Carolina",124
+2011,"spring","South Dakota",16
+2011,"spring","Tennessee",177
+2011,"spring","Texas",1027
+2011,"spring","Utah",183
+2011,"spring","Vermont",153
+2011,"spring","Virginia",270
+2011,"spring","Washington",195
+2011,"spring","West Virginia",55
+2011,"spring","Wisconsin",152
+2011,"spring","Wyoming",27
+2011,"summer","Alabama",160
+2011,"summer","Alaska",255
+2011,"summer","Arizona",365
+2011,"summer","Arkansas",250
+2011,"summer","California",1564
+2011,"summer","Colorado",531
+2011,"summer","Connecticut",166
+2011,"summer","Delaware",18
+2011,"summer","Florida",466
+2011,"summer","Georgia",115
+2011,"summer","Hawaii",177
+2011,"summer","Idaho",130
+2011,"summer","Illinois",233
+2011,"summer","Indiana",85
+2011,"summer","Iowa",257
+2011,"summer","Kansas",74
+2011,"summer","Kentucky",71
+2011,"summer","Louisiana",110
+2011,"summer","Maine",303
+2011,"summer","Maryland",277
+2011,"summer","Massachusetts",307
+2011,"summer","Michigan",386
+2011,"summer","Minnesota",222
+2011,"summer","Mississippi",30
+2011,"summer","Missouri",170
+2011,"summer","Montana",228
+2011,"summer","Nebraska",77
+2011,"summer","Nevada",190
+2011,"summer","New Hampshire",108
+2011,"summer","New Jersey",356
+2011,"summer","New Mexico",343
+2011,"summer","New York",612
+2011,"summer","North Carolina",319
+2011,"summer","North Dakota",38
+2011,"summer","Ohio",412
+2011,"summer","Oklahoma",211
+2011,"summer","Oregon",310
+2011,"summer","Pennsylvania",592
+2011,"summer","Rhode Island",37
+2011,"summer","South Carolina",102
+2011,"summer","South Dakota",51
+2011,"summer","Tennessee",131
+2011,"summer","Texas",736
+2011,"summer","Utah",347
+2011,"summer","Vermont",366
+2011,"summer","Virginia",406
+2011,"summer","Washington",590
+2011,"summer","West Virginia",55
+2011,"summer","Wisconsin",400
+2011,"summer","Wyoming",242
+2011,"winter","Alabama",44
+2011,"winter","Alaska",36
+2011,"winter","Arizona",139
+2011,"winter","Arkansas",26
+2011,"winter","California",766
+2011,"winter","Colorado",70
+2011,"winter","Connecticut",42
+2011,"winter","Delaware",21
+2011,"winter","Florida",534
+2011,"winter","Georgia",37
+2011,"winter","Hawaii",106
+2011,"winter","Idaho",6
+2011,"winter","Illinois",57
+2011,"winter","Indiana",11
+2011,"winter","Iowa",7
+2011,"winter","Kansas",10
+2011,"winter","Kentucky",3
+2011,"winter","Louisiana",104
+2011,"winter","Maine",9
+2011,"winter","Maryland",57
+2011,"winter","Massachusetts",52
+2011,"winter","Michigan",60
+2011,"winter","Minnesota",14
+2011,"winter","Mississippi",15
+2011,"winter","Missouri",17
+2011,"winter","Montana",6
+2011,"winter","Nebraska",4
+2011,"winter","Nevada",58
+2011,"winter","New Hampshire",13
+2011,"winter","New Jersey",76
+2011,"winter","New Mexico",119
+2011,"winter","New York",93
+2011,"winter","North Carolina",46
+2011,"winter","North Dakota",2
+2011,"winter","Ohio",47
+2011,"winter","Oklahoma",31
+2011,"winter","Oregon",57
+2011,"winter","Pennsylvania",79
+2011,"winter","Rhode Island",15
+2011,"winter","South Carolina",25
+2011,"winter","South Dakota",15
+2011,"winter","Tennessee",13
+2011,"winter","Texas",415
+2011,"winter","Utah",26
+2011,"winter","Vermont",89
+2011,"winter","Virginia",66
+2011,"winter","Washington",56
+2011,"winter","West Virginia",2
+2011,"winter","Wisconsin",12
+2011,"winter","Wyoming",4
+2012,"fall","Alabama",110
+2012,"fall","Alaska",86
+2012,"fall","Arizona",387
+2012,"fall","Arkansas",160
+2012,"fall","California",1226
+2012,"fall","Colorado",175
+2012,"fall","Connecticut",45
+2012,"fall","Delaware",23
+2012,"fall","Florida",416
+2012,"fall","Georgia",158
+2012,"fall","Hawaii",134
+2012,"fall","Idaho",48
+2012,"fall","Illinois",328
+2012,"fall","Indiana",100
+2012,"fall","Iowa",32
+2012,"fall","Kansas",37
+2012,"fall","Kentucky",41
+2012,"fall","Louisiana",157
+2012,"fall","Maine",188
+2012,"fall","Maryland",327
+2012,"fall","Massachusetts",197
+2012,"fall","Michigan",134
+2012,"fall","Minnesota",81
+2012,"fall","Mississippi",34
+2012,"fall","Missouri",68
+2012,"fall","Montana",30
+2012,"fall","Nebraska",3
+2012,"fall","Nevada",45
+2012,"fall","New Hampshire",50
+2012,"fall","New Jersey",265
+2012,"fall","New Mexico",171
+2012,"fall","New York",321
+2012,"fall","North Carolina",263
+2012,"fall","North Dakota",1
+2012,"fall","Ohio",568
+2012,"fall","Oklahoma",276
+2012,"fall","Oregon",186
+2012,"fall","Pennsylvania",414
+2012,"fall","Rhode Island",32
+2012,"fall","South Carolina",97
+2012,"fall","South Dakota",29
+2012,"fall","Tennessee",72
+2012,"fall","Texas",1026
+2012,"fall","Utah",130
+2012,"fall","Vermont",295
+2012,"fall","Virginia",456
+2012,"fall","Washington",222
+2012,"fall","West Virginia",50
+2012,"fall","Wisconsin",90
+2012,"fall","Wyoming",39
+2012,"spring","Alabama",265
+2012,"spring","Alaska",170
+2012,"spring","Arizona",397
+2012,"spring","Arkansas",398
+2012,"spring","California",1774
+2012,"spring","Colorado",236
+2012,"spring","Connecticut",108
+2012,"spring","Delaware",60
+2012,"spring","Florida",774
+2012,"spring","Georgia",184
+2012,"spring","Hawaii",241
+2012,"spring","Idaho",74
+2012,"spring","Illinois",249
+2012,"spring","Indiana",33
+2012,"spring","Iowa",97
+2012,"spring","Kansas",68
+2012,"spring","Kentucky",120
+2012,"spring","Louisiana",226
+2012,"spring","Maine",143
+2012,"spring","Maryland",381
+2012,"spring","Massachusetts",266
+2012,"spring","Michigan",225
+2012,"spring","Minnesota",141
+2012,"spring","Mississippi",101
+2012,"spring","Missouri",116
+2012,"spring","Montana",78
+2012,"spring","Nebraska",35
+2012,"spring","Nevada",55
+2012,"spring","New Hampshire",82
+2012,"spring","New Jersey",208
+2012,"spring","New Mexico",322
+2012,"spring","New York",458
+2012,"spring","North Carolina",441
+2012,"spring","North Dakota",11
+2012,"spring","Ohio",756
+2012,"spring","Oklahoma",300
+2012,"spring","Oregon",242
+2012,"spring","Pennsylvania",495
+2012,"spring","Rhode Island",59
+2012,"spring","South Carolina",213
+2012,"spring","South Dakota",34
+2012,"spring","Tennessee",199
+2012,"spring","Texas",1498
+2012,"spring","Utah",204
+2012,"spring","Vermont",451
+2012,"spring","Virginia",502
+2012,"spring","Washington",559
+2012,"spring","West Virginia",67
+2012,"spring","Wisconsin",287
+2012,"spring","Wyoming",40
+2012,"summer","Alabama",136
+2012,"summer","Alaska",500
+2012,"summer","Arizona",512
+2012,"summer","Arkansas",196
+2012,"summer","California",1773
+2012,"summer","Colorado",514
+2012,"summer","Connecticut",175
+2012,"summer","Delaware",64
+2012,"summer","Florida",546
+2012,"summer","Georgia",175
+2012,"summer","Hawaii",216
+2012,"summer","Idaho",99
+2012,"summer","Illinois",399
+2012,"summer","Indiana",163
+2012,"summer","Iowa",146
+2012,"summer","Kansas",14
+2012,"summer","Kentucky",116
+2012,"summer","Louisiana",104
+2012,"summer","Maine",346
+2012,"summer","Maryland",465
+2012,"summer","Massachusetts",380
+2012,"summer","Michigan",368
+2012,"summer","Minnesota",419
+2012,"summer","Mississippi",33
+2012,"summer","Missouri",168
+2012,"summer","Montana",243
+2012,"summer","Nebraska",27
+2012,"summer","Nevada",103
+2012,"summer","New Hampshire",174
+2012,"summer","New Jersey",305
+2012,"summer","New Mexico",486
+2012,"summer","New York",804
+2012,"summer","North Carolina",696
+2012,"summer","North Dakota",65
+2012,"summer","Ohio",1351
+2012,"summer","Oklahoma",417
+2012,"summer","Oregon",475
+2012,"summer","Pennsylvania",849
+2012,"summer","Rhode Island",80
+2012,"summer","South Carolina",153
+2012,"summer","South Dakota",69
+2012,"summer","Tennessee",164
+2012,"summer","Texas",858
+2012,"summer","Utah",277
+2012,"summer","Vermont",678
+2012,"summer","Virginia",499
+2012,"summer","Washington",528
+2012,"summer","West Virginia",176
+2012,"summer","Wisconsin",466
+2012,"summer","Wyoming",165
+2012,"winter","Alabama",36
+2012,"winter","Alaska",30
+2012,"winter","Arizona",133
+2012,"winter","Arkansas",41
+2012,"winter","California",1135
+2012,"winter","Colorado",57
+2012,"winter","Connecticut",49
+2012,"winter","Delaware",24
+2012,"winter","Florida",558
+2012,"winter","Georgia",57
+2012,"winter","Hawaii",173
+2012,"winter","Idaho",27
+2012,"winter","Illinois",115
+2012,"winter","Indiana",10
+2012,"winter","Iowa",13
+2012,"winter","Kansas",11
+2012,"winter","Kentucky",7
+2012,"winter","Louisiana",117
+2012,"winter","Maine",21
+2012,"winter","Maryland",68
+2012,"winter","Massachusetts",73
+2012,"winter","Michigan",63
+2012,"winter","Minnesota",18
+2012,"winter","Mississippi",30
+2012,"winter","Missouri",21
+2012,"winter","Montana",20
+2012,"winter","Nevada",28
+2012,"winter","New Hampshire",22
+2012,"winter","New Jersey",97
+2012,"winter","New Mexico",120
+2012,"winter","New York",93
+2012,"winter","North Carolina",68
+2012,"winter","North Dakota",1
+2012,"winter","Ohio",131
+2012,"winter","Oklahoma",38
+2012,"winter","Oregon",119
+2012,"winter","Pennsylvania",116
+2012,"winter","Rhode Island",20
+2012,"winter","South Carolina",53
+2012,"winter","South Dakota",6
+2012,"winter","Tennessee",18
+2012,"winter","Texas",637
+2012,"winter","Utah",45
+2012,"winter","Vermont",122
+2012,"winter","Virginia",95
+2012,"winter","Washington",98
+2012,"winter","West Virginia",28
+2012,"winter","Wisconsin",26
+2012,"winter","Wyoming",11
+2013,"fall","Alabama",147
+2013,"fall","Alaska",104
+2013,"fall","Arizona",460
+2013,"fall","Arkansas",261
+2013,"fall","California",1520
+2013,"fall","Colorado",226
+2013,"fall","Connecticut",110
+2013,"fall","Delaware",54
+2013,"fall","Florida",516
+2013,"fall","Georgia",143
+2013,"fall","Hawaii",185
+2013,"fall","Idaho",29
+2013,"fall","Illinois",664
+2013,"fall","Indiana",28
+2013,"fall","Iowa",55
+2013,"fall","Kansas",186
+2013,"fall","Kentucky",85
+2013,"fall","Louisiana",272
+2013,"fall","Maine",205
+2013,"fall","Maryland",550
+2013,"fall","Massachusetts",394
+2013,"fall","Michigan",165
+2013,"fall","Minnesota",197
+2013,"fall","Mississippi",113
+2013,"fall","Missouri",144
+2013,"fall","Montana",45
+2013,"fall","Nebraska",30
+2013,"fall","Nevada",133
+2013,"fall","New Hampshire",97
+2013,"fall","New Jersey",287
+2013,"fall","New Mexico",241
+2013,"fall","New York",410
+2013,"fall","North Carolina",385
+2013,"fall","North Dakota",29
+2013,"fall","Ohio",617
+2013,"fall","Oklahoma",238
+2013,"fall","Oregon",280
+2013,"fall","Pennsylvania",749
+2013,"fall","Rhode Island",29
+2013,"fall","South Carolina",101
+2013,"fall","South Dakota",52
+2013,"fall","Tennessee",185
+2013,"fall","Texas",1603
+2013,"fall","Utah",101
+2013,"fall","Vermont",700
+2013,"fall","Virginia",335
+2013,"fall","Washington",379
+2013,"fall","West Virginia",54
+2013,"fall","Wisconsin",136
+2013,"fall","Wyoming",35
+2013,"spring","Alabama",284
+2013,"spring","Alaska",82
+2013,"spring","Arizona",488
+2013,"spring","Arkansas",402
+2013,"spring","California",2420
+2013,"spring","Colorado",234
+2013,"spring","Connecticut",105
+2013,"spring","Delaware",88
+2013,"spring","Florida",772
+2013,"spring","Georgia",256
+2013,"spring","Hawaii",305
+2013,"spring","Idaho",113
+2013,"spring","Illinois",529
+2013,"spring","Indiana",54
+2013,"spring","Iowa",77
+2013,"spring","Kansas",63
+2013,"spring","Kentucky",93
+2013,"spring","Louisiana",252
+2013,"spring","Maine",111
+2013,"spring","Maryland",580
+2013,"spring","Massachusetts",260
+2013,"spring","Michigan",285
+2013,"spring","Minnesota",83
+2013,"spring","Mississippi",92
+2013,"spring","Missouri",148
+2013,"spring","Montana",50
+2013,"spring","Nebraska",26
+2013,"spring","Nevada",147
+2013,"spring","New Hampshire",77
+2013,"spring","New Jersey",232
+2013,"spring","New Mexico",243
+2013,"spring","New York",420
+2013,"spring","North Carolina",508
+2013,"spring","North Dakota",5
+2013,"spring","Ohio",745
+2013,"spring","Oklahoma",355
+2013,"spring","Oregon",296
+2013,"spring","Pennsylvania",512
+2013,"spring","Rhode Island",69
+2013,"spring","South Carolina",255
+2013,"spring","South Dakota",97
+2013,"spring","Tennessee",212
+2013,"spring","Texas",1508
+2013,"spring","Utah",289
+2013,"spring","Vermont",651
+2013,"spring","Virginia",572
+2013,"spring","Washington",522
+2013,"spring","West Virginia",73
+2013,"spring","Wisconsin",212
+2013,"spring","Wyoming",46
+2013,"summer","Alabama",264
+2013,"summer","Alaska",397
+2013,"summer","Arizona",640
+2013,"summer","Arkansas",387
+2013,"summer","California",2344
+2013,"summer","Colorado",584
+2013,"summer","Connecticut",387
+2013,"summer","Delaware",148
+2013,"summer","Florida",614
+2013,"summer","Georgia",202
+2013,"summer","Hawaii",272
+2013,"summer","Idaho",250
+2013,"summer","Illinois",867
+2013,"summer","Indiana",143
+2013,"summer","Iowa",98
+2013,"summer","Kansas",87
+2013,"summer","Kentucky",136
+2013,"summer","Louisiana",403
+2013,"summer","Maine",670
+2013,"summer","Maryland",855
+2013,"summer","Massachusetts",574
+2013,"summer","Michigan",428
+2013,"summer","Minnesota",433
+2013,"summer","Mississippi",126
+2013,"summer","Missouri",490
+2013,"summer","Montana",194
+2013,"summer","Nebraska",69
+2013,"summer","Nevada",271
+2013,"summer","New Hampshire",245
+2013,"summer","New Jersey",530
+2013,"summer","New Mexico",447
+2013,"summer","New York",1204
+2013,"summer","North Carolina",715
+2013,"summer","North Dakota",121
+2013,"summer","Ohio",1382
+2013,"summer","Oklahoma",672
+2013,"summer","Oregon",485
+2013,"summer","Pennsylvania",1103
+2013,"summer","Rhode Island",88
+2013,"summer","South Carolina",133
+2013,"summer","South Dakota",197
+2013,"summer","Tennessee",266
+2013,"summer","Texas",1363
+2013,"summer","Utah",321
+2013,"summer","Vermont",1422
+2013,"summer","Virginia",925
+2013,"summer","Washington",690
+2013,"summer","West Virginia",229
+2013,"summer","Wisconsin",531
+2013,"summer","Wyoming",187
+2013,"winter","Alabama",48
+2013,"winter","Alaska",19
+2013,"winter","Arizona",194
+2013,"winter","Arkansas",45
+2013,"winter","California",1193
+2013,"winter","Colorado",72
+2013,"winter","Connecticut",51
+2013,"winter","Delaware",32
+2013,"winter","Florida",570
+2013,"winter","Georgia",67
+2013,"winter","Hawaii",212
+2013,"winter","Idaho",25
+2013,"winter","Illinois",89
+2013,"winter","Indiana",16
+2013,"winter","Iowa",18
+2013,"winter","Kansas",14
+2013,"winter","Kentucky",16
+2013,"winter","Louisiana",117
+2013,"winter","Maine",37
+2013,"winter","Maryland",180
+2013,"winter","Massachusetts",98
+2013,"winter","Michigan",56
+2013,"winter","Minnesota",25
+2013,"winter","Mississippi",22
+2013,"winter","Missouri",23
+2013,"winter","Montana",21
+2013,"winter","Nebraska",2
+2013,"winter","Nevada",40
+2013,"winter","New Hampshire",16
+2013,"winter","New Jersey",117
+2013,"winter","New Mexico",105
+2013,"winter","New York",121
+2013,"winter","North Carolina",95
+2013,"winter","North Dakota",2
+2013,"winter","Ohio",195
+2013,"winter","Oklahoma",32
+2013,"winter","Oregon",107
+2013,"winter","Pennsylvania",155
+2013,"winter","Rhode Island",11
+2013,"winter","South Carolina",74
+2013,"winter","South Dakota",17
+2013,"winter","Tennessee",53
+2013,"winter","Texas",723
+2013,"winter","Utah",52
+2013,"winter","Vermont",232
+2013,"winter","Virginia",171
+2013,"winter","Washington",125
+2013,"winter","West Virginia",10
+2013,"winter","Wisconsin",32
+2013,"winter","Wyoming",7
+2014,"fall","Alabama",244
+2014,"fall","Alaska",131
+2014,"fall","Arizona",523
+2014,"fall","Arkansas",409
+2014,"fall","California",1976
+2014,"fall","Colorado",268
+2014,"fall","Connecticut",235
+2014,"fall","Delaware",76
+2014,"fall","Florida",711
+2014,"fall","Georgia",269
+2014,"fall","Hawaii",263
+2014,"fall","Idaho",44
+2014,"fall","Illinois",510
+2014,"fall","Indiana",63
+2014,"fall","Iowa",31
+2014,"fall","Kansas",38
+2014,"fall","Kentucky",152
+2014,"fall","Louisiana",219
+2014,"fall","Maine",289
+2014,"fall","Maryland",515
+2014,"fall","Massachusetts",470
+2014,"fall","Michigan",339
+2014,"fall","Minnesota",218
+2014,"fall","Mississippi",62
+2014,"fall","Missouri",206
+2014,"fall","Montana",48
+2014,"fall","Nebraska",55
+2014,"fall","Nevada",259
+2014,"fall","New Hampshire",83
+2014,"fall","New Jersey",308
+2014,"fall","New Mexico",284
+2014,"fall","New York",542
+2014,"fall","North Carolina",561
+2014,"fall","North Dakota",10
+2014,"fall","Ohio",642
+2014,"fall","Oklahoma",232
+2014,"fall","Oregon",319
+2014,"fall","Pennsylvania",720
+2014,"fall","Rhode Island",22
+2014,"fall","South Carolina",213
+2014,"fall","South Dakota",63
+2014,"fall","Tennessee",324
+2014,"fall","Texas",2139
+2014,"fall","Utah",148
+2014,"fall","Vermont",702
+2014,"fall","Virginia",463
+2014,"fall","Washington",610
+2014,"fall","West Virginia",84
+2014,"fall","Wisconsin",74
+2014,"fall","Wyoming",70
+2014,"spring","Alabama",252
+2014,"spring","Alaska",153
+2014,"spring","Arizona",659
+2014,"spring","Arkansas",444
+2014,"spring","California",3187
+2014,"spring","Colorado",258
+2014,"spring","Connecticut",167
+2014,"spring","Delaware",133
+2014,"spring","Florida",818
+2014,"spring","Georgia",459
+2014,"spring","Hawaii",241
+2014,"spring","Idaho",116
+2014,"spring","Illinois",647
+2014,"spring","Indiana",115
+2014,"spring","Iowa",93
+2014,"spring","Kansas",73
+2014,"spring","Kentucky",229
+2014,"spring","Louisiana",470
+2014,"spring","Maine",105
+2014,"spring","Maryland",536
+2014,"spring","Massachusetts",308
+2014,"spring","Michigan",392
+2014,"spring","Minnesota",205
+2014,"spring","Mississippi",117
+2014,"spring","Missouri",304
+2014,"spring","Montana",70
+2014,"spring","Nebraska",25
+2014,"spring","Nevada",217
+2014,"spring","New Hampshire",103
+2014,"spring","New Jersey",403
+2014,"spring","New Mexico",312
+2014,"spring","New York",556
+2014,"spring","North Carolina",730
+2014,"spring","North Dakota",7
+2014,"spring","Ohio",827
+2014,"spring","Oklahoma",372
+2014,"spring","Oregon",475
+2014,"spring","Pennsylvania",720
+2014,"spring","Rhode Island",33
+2014,"spring","South Carolina",189
+2014,"spring","South Dakota",100
+2014,"spring","Tennessee",413
+2014,"spring","Texas",1878
+2014,"spring","Utah",282
+2014,"spring","Vermont",622
+2014,"spring","Virginia",561
+2014,"spring","Washington",490
+2014,"spring","West Virginia",132
+2014,"spring","Wisconsin",227
+2014,"spring","Wyoming",89
+2014,"summer","Alabama",321
+2014,"summer","Alaska",549
+2014,"summer","Arizona",1048
+2014,"summer","Arkansas",399
+2014,"summer","California",2859
+2014,"summer","Colorado",711
+2014,"summer","Connecticut",473
+2014,"summer","Delaware",131
+2014,"summer","Florida",710
+2014,"summer","Georgia",364
+2014,"summer","Hawaii",225
+2014,"summer","Idaho",334
+2014,"summer","Illinois",879
+2014,"summer","Indiana",279
+2014,"summer","Iowa",172
+2014,"summer","Kansas",166
+2014,"summer","Kentucky",199
+2014,"summer","Louisiana",272
+2014,"summer","Maine",597
+2014,"summer","Maryland",1242
+2014,"summer","Massachusetts",710
+2014,"summer","Michigan",973
+2014,"summer","Minnesota",596
+2014,"summer","Mississippi",79
+2014,"summer","Missouri",448
+2014,"summer","Montana",303
+2014,"summer","Nebraska",194
+2014,"summer","Nevada",327
+2014,"summer","New Hampshire",450
+2014,"summer","New Jersey",909
+2014,"summer","New Mexico",505
+2014,"summer","New York",1355
+2014,"summer","North Carolina",1228
+2014,"summer","North Dakota",65
+2014,"summer","Ohio",1474
+2014,"summer","Oklahoma",456
+2014,"summer","Oregon",655
+2014,"summer","Pennsylvania",1557
+2014,"summer","Rhode Island",57
+2014,"summer","South Carolina",307
+2014,"summer","South Dakota",179
+2014,"summer","Tennessee",553
+2014,"summer","Texas",1866
+2014,"summer","Utah",417
+2014,"summer","Vermont",1498
+2014,"summer","Virginia",871
+2014,"summer","Washington",1034
+2014,"summer","West Virginia",318
+2014,"summer","Wisconsin",608
+2014,"summer","Wyoming",299
+2014,"winter","Alabama",45
+2014,"winter","Alaska",52
+2014,"winter","Arizona",283
+2014,"winter","Arkansas",73
+2014,"winter","California",1554
+2014,"winter","Colorado",93
+2014,"winter","Connecticut",92
+2014,"winter","Delaware",58
+2014,"winter","Florida",693
+2014,"winter","Georgia",104
+2014,"winter","Hawaii",208
+2014,"winter","Idaho",33
+2014,"winter","Illinois",101
+2014,"winter","Indiana",10
+2014,"winter","Iowa",15
+2014,"winter","Kansas",20
+2014,"winter","Kentucky",46
+2014,"winter","Louisiana",128
+2014,"winter","Maine",46
+2014,"winter","Maryland",153
+2014,"winter","Massachusetts",97
+2014,"winter","Michigan",74
+2014,"winter","Minnesota",27
+2014,"winter","Mississippi",40
+2014,"winter","Missouri",27
+2014,"winter","Montana",18
+2014,"winter","Nebraska",2
+2014,"winter","Nevada",117
+2014,"winter","New Hampshire",14
+2014,"winter","New Jersey",115
+2014,"winter","New Mexico",49
+2014,"winter","New York",140
+2014,"winter","North Carolina",211
+2014,"winter","North Dakota",2
+2014,"winter","Ohio",185
+2014,"winter","Oklahoma",46
+2014,"winter","Oregon",154
+2014,"winter","Pennsylvania",182
+2014,"winter","Rhode Island",18
+2014,"winter","South Carolina",70
+2014,"winter","South Dakota",22
+2014,"winter","Tennessee",65
+2014,"winter","Texas",853
+2014,"winter","Utah",37
+2014,"winter","Vermont",204
+2014,"winter","Virginia",113
+2014,"winter","Washington",164
+2014,"winter","West Virginia",32
+2014,"winter","Wisconsin",22
+2014,"winter","Wyoming",16
+2015,"fall","Alabama",266
+2015,"fall","Alaska",210
+2015,"fall","Arizona",761
+2015,"fall","Arkansas",343
+2015,"fall","California",2492
+2015,"fall","Colorado",432
+2015,"fall","Connecticut",170
+2015,"fall","Delaware",74
+2015,"fall","Florida",923
+2015,"fall","Georgia",217
+2015,"fall","Hawaii",265
+2015,"fall","Idaho",107
+2015,"fall","Illinois",687
+2015,"fall","Indiana",275
+2015,"fall","Iowa",41
+2015,"fall","Kansas",179
+2015,"fall","Kentucky",195
+2015,"fall","Louisiana",258
+2015,"fall","Maine",357
+2015,"fall","Maryland",601
+2015,"fall","Massachusetts",594
+2015,"fall","Michigan",420
+2015,"fall","Minnesota",405
+2015,"fall","Mississippi",87
+2015,"fall","Missouri",342
+2015,"fall","Montana",84
+2015,"fall","Nebraska",98
+2015,"fall","Nevada",232
+2015,"fall","New Hampshire",142
+2015,"fall","New Jersey",634
+2015,"fall","New Mexico",243
+2015,"fall","New York",576
+2015,"fall","North Carolina",865
+2015,"fall","North Dakota",23
+2015,"fall","Ohio",1037
+2015,"fall","Oklahoma",307
+2015,"fall","Oregon",433
+2015,"fall","Pennsylvania",730
+2015,"fall","Rhode Island",42
+2015,"fall","South Carolina",376
+2015,"fall","South Dakota",69
+2015,"fall","Tennessee",416
+2015,"fall","Texas",2558
+2015,"fall","Utah",221
+2015,"fall","Vermont",906
+2015,"fall","Virginia",581
+2015,"fall","Washington",565
+2015,"fall","West Virginia",113
+2015,"fall","Wisconsin",304
+2015,"fall","Wyoming",119
+2015,"spring","Alabama",389
+2015,"spring","Alaska",405
+2015,"spring","Arizona",806
+2015,"spring","Arkansas",611
+2015,"spring","California",3555
+2015,"spring","Colorado",419
+2015,"spring","Connecticut",296
+2015,"spring","Delaware",97
+2015,"spring","Florida",1323
+2015,"spring","Georgia",555
+2015,"spring","Hawaii",468
+2015,"spring","Idaho",140
+2015,"spring","Illinois",671
+2015,"spring","Indiana",124
+2015,"spring","Iowa",96
+2015,"spring","Kansas",182
+2015,"spring","Kentucky",232
+2015,"spring","Louisiana",444
+2015,"spring","Maine",143
+2015,"spring","Maryland",863
+2015,"spring","Massachusetts",427
+2015,"spring","Michigan",436
+2015,"spring","Minnesota",436
+2015,"spring","Mississippi",152
+2015,"spring","Missouri",448
+2015,"spring","Montana",129
+2015,"spring","Nebraska",89
+2015,"spring","Nevada",363
+2015,"spring","New Hampshire",116
+2015,"spring","New Jersey",938
+2015,"spring","New Mexico",240
+2015,"spring","New York",711
+2015,"spring","North Carolina",1059
+2015,"spring","North Dakota",31
+2015,"spring","Ohio",891
+2015,"spring","Oklahoma",433
+2015,"spring","Oregon",618
+2015,"spring","Pennsylvania",910
+2015,"spring","Rhode Island",60
+2015,"spring","South Carolina",453
+2015,"spring","South Dakota",115
+2015,"spring","Tennessee",601
+2015,"spring","Texas",2741
+2015,"spring","Utah",255
+2015,"spring","Vermont",819
+2015,"spring","Virginia",724
+2015,"spring","Washington",552
+2015,"spring","West Virginia",184
+2015,"spring","Wisconsin",341
+2015,"spring","Wyoming",90
+2015,"summer","Alabama",363
+2015,"summer","Alaska",464
+2015,"summer","Arizona",1206
+2015,"summer","Arkansas",532
+2015,"summer","California",3434
+2015,"summer","Colorado",970
+2015,"summer","Connecticut",581
+2015,"summer","Delaware",129
+2015,"summer","Florida",1076
+2015,"summer","Georgia",511
+2015,"summer","Hawaii",223
+2015,"summer","Idaho",281
+2015,"summer","Illinois",1023
+2015,"summer","Indiana",362
+2015,"summer","Iowa",263
+2015,"summer","Kansas",416
+2015,"summer","Kentucky",235
+2015,"summer","Louisiana",291
+2015,"summer","Maine",766
+2015,"summer","Maryland",1171
+2015,"summer","Massachusetts",1079
+2015,"summer","Michigan",1131
+2015,"summer","Minnesota",986
+2015,"summer","Mississippi",169
+2015,"summer","Missouri",546
+2015,"summer","Montana",341
+2015,"summer","Nebraska",248
+2015,"summer","Nevada",359
+2015,"summer","New Hampshire",486
+2015,"summer","New Jersey",638
+2015,"summer","New Mexico",722
+2015,"summer","New York",1355
+2015,"summer","North Carolina",1439
+2015,"summer","North Dakota",100
+2015,"summer","Ohio",1759
+2015,"summer","Oklahoma",556
+2015,"summer","Oregon",716
+2015,"summer","Pennsylvania",1510
+2015,"summer","Rhode Island",81
+2015,"summer","South Carolina",478
+2015,"summer","South Dakota",185
+2015,"summer","Tennessee",930
+2015,"summer","Texas",2521
+2015,"summer","Utah",306
+2015,"summer","Vermont",1723
+2015,"summer","Virginia",962
+2015,"summer","Washington",820
+2015,"summer","West Virginia",290
+2015,"summer","Wisconsin",884
+2015,"summer","Wyoming",251
+2015,"winter","Alabama",87
+2015,"winter","Alaska",148
+2015,"winter","Arizona",367
+2015,"winter","Arkansas",125
+2015,"winter","California",2253
+2015,"winter","Colorado",114
+2015,"winter","Connecticut",115
+2015,"winter","Delaware",64
+2015,"winter","Florida",1086
+2015,"winter","Georgia",98
+2015,"winter","Hawaii",256
+2015,"winter","Idaho",52
+2015,"winter","Illinois",97
+2015,"winter","Indiana",48
+2015,"winter","Iowa",9
+2015,"winter","Kansas",34
+2015,"winter","Kentucky",37
+2015,"winter","Louisiana",164
+2015,"winter","Maine",58
+2015,"winter","Maryland",201
+2015,"winter","Massachusetts",106
+2015,"winter","Michigan",96
+2015,"winter","Minnesota",42
+2015,"winter","Mississippi",46
+2015,"winter","Missouri",40
+2015,"winter","Montana",31
+2015,"winter","Nebraska",9
+2015,"winter","Nevada",187
+2015,"winter","New Hampshire",44
+2015,"winter","New Jersey",224
+2015,"winter","New Mexico",139
+2015,"winter","New York",151
+2015,"winter","North Carolina",312
+2015,"winter","North Dakota",4
+2015,"winter","Ohio",262
+2015,"winter","Oklahoma",82
+2015,"winter","Oregon",239
+2015,"winter","Pennsylvania",233
+2015,"winter","Rhode Island",23
+2015,"winter","South Carolina",151
+2015,"winter","South Dakota",21
+2015,"winter","Tennessee",73
+2015,"winter","Texas",1339
+2015,"winter","Utah",55
+2015,"winter","Vermont",262
+2015,"winter","Virginia",137
+2015,"winter","Washington",270
+2015,"winter","West Virginia",55
+2015,"winter","Wisconsin",44
+2015,"winter","Wyoming",19
+2016,"fall","Alabama",661
+2016,"fall","Alaska",289
+2016,"fall","Arizona",887
+2016,"fall","Arkansas",479
+2016,"fall","California",3381
+2016,"fall","Colorado",486
+2016,"fall","Connecticut",251
+2016,"fall","Delaware",132
+2016,"fall","Florida",1189
+2016,"fall","Georgia",390
+2016,"fall","Hawaii",368
+2016,"fall","Idaho",269
+2016,"fall","Illinois",1023
+2016,"fall","Indiana",466
+2016,"fall","Iowa",136
+2016,"fall","Kansas",228
+2016,"fall","Kentucky",303
+2016,"fall","Louisiana",453
+2016,"fall","Maine",594
+2016,"fall","Maryland",940
+2016,"fall","Massachusetts",927
+2016,"fall","Michigan",745
+2016,"fall","Minnesota",708
+2016,"fall","Mississippi",187
+2016,"fall","Missouri",377
+2016,"fall","Montana",166
+2016,"fall","Nebraska",213
+2016,"fall","Nevada",212
+2016,"fall","New Hampshire",278
+2016,"fall","New Jersey",816
+2016,"fall","New Mexico",373
+2016,"fall","New York",1084
+2016,"fall","North Carolina",1392
+2016,"fall","North Dakota",5
+2016,"fall","Ohio",1268
+2016,"fall","Oklahoma",551
+2016,"fall","Oregon",804
+2016,"fall","Pennsylvania",1010
+2016,"fall","Rhode Island",101
+2016,"fall","South Carolina",527
+2016,"fall","South Dakota",184
+2016,"fall","Tennessee",439
+2016,"fall","Texas",3944
+2016,"fall","Utah",324
+2016,"fall","Vermont",993
+2016,"fall","Virginia",1007
+2016,"fall","Washington",830
+2016,"fall","West Virginia",274
+2016,"fall","Wisconsin",581
+2016,"fall","Wyoming",93
+2016,"spring","Alabama",1076
+2016,"spring","Alaska",352
+2016,"spring","Arizona",995
+2016,"spring","Arkansas",826
+2016,"spring","California",4717
+2016,"spring","Colorado",570
+2016,"spring","Connecticut",358
+2016,"spring","Delaware",262
+2016,"spring","Florida",1463
+2016,"spring","Georgia",568
+2016,"spring","Hawaii",432
+2016,"spring","Idaho",344
+2016,"spring","Illinois",1198
+2016,"spring","Indiana",278
+2016,"spring","Iowa",129
+2016,"spring","Kansas",367
+2016,"spring","Kentucky",273
+2016,"spring","Louisiana",612
+2016,"spring","Maine",269
+2016,"spring","Maryland",942
+2016,"spring","Massachusetts",676
+2016,"spring","Michigan",587
+2016,"spring","Minnesota",591
+2016,"spring","Mississippi",391
+2016,"spring","Missouri",431
+2016,"spring","Montana",239
+2016,"spring","Nebraska",188
+2016,"spring","Nevada",528
+2016,"spring","New Hampshire",286
+2016,"spring","New Jersey",962
+2016,"spring","New Mexico",555
+2016,"spring","New York",855
+2016,"spring","North Carolina",1361
+2016,"spring","North Dakota",72
+2016,"spring","Ohio",1389
+2016,"spring","Oklahoma",577
+2016,"spring","Oregon",1032
+2016,"spring","Pennsylvania",1070
+2016,"spring","Rhode Island",56
+2016,"spring","South Carolina",690
+2016,"spring","South Dakota",195
+2016,"spring","Tennessee",971
+2016,"spring","Texas",3697
+2016,"spring","Utah",438
+2016,"spring","Vermont",1008
+2016,"spring","Virginia",970
+2016,"spring","Washington",1049
+2016,"spring","West Virginia",348
+2016,"spring","Wisconsin",523
+2016,"spring","Wyoming",128
+2016,"summer","Alabama",1113
+2016,"summer","Alaska",868
+2016,"summer","Arizona",1486
+2016,"summer","Arkansas",636
+2016,"summer","California",4290
+2016,"summer","Colorado",1469
+2016,"summer","Connecticut",846
+2016,"summer","Delaware",182
+2016,"summer","Florida",1482
+2016,"summer","Georgia",610
+2016,"summer","Hawaii",447
+2016,"summer","Idaho",617
+2016,"summer","Illinois",1779
+2016,"summer","Indiana",667
+2016,"summer","Iowa",235
+2016,"summer","Kansas",347
+2016,"summer","Kentucky",346
+2016,"summer","Louisiana",497
+2016,"summer","Maine",1090
+2016,"summer","Maryland",1640
+2016,"summer","Massachusetts",1499
+2016,"summer","Michigan",1447
+2016,"summer","Minnesota",1260
+2016,"summer","Mississippi",361
+2016,"summer","Missouri",586
+2016,"summer","Montana",580
+2016,"summer","Nebraska",351
+2016,"summer","Nevada",511
+2016,"summer","New Hampshire",617
+2016,"summer","New Jersey",958
+2016,"summer","New Mexico",830
+2016,"summer","New York",2255
+2016,"summer","North Carolina",1995
+2016,"summer","North Dakota",157
+2016,"summer","Ohio",2001
+2016,"summer","Oklahoma",547
+2016,"summer","Oregon",1348
+2016,"summer","Pennsylvania",1715
+2016,"summer","Rhode Island",191
+2016,"summer","South Carolina",563
+2016,"summer","South Dakota",330
+2016,"summer","Tennessee",826
+2016,"summer","Texas",3642
+2016,"summer","Utah",683
+2016,"summer","Vermont",1949
+2016,"summer","Virginia",1255
+2016,"summer","Washington",1256
+2016,"summer","West Virginia",446
+2016,"summer","Wisconsin",1236
+2016,"summer","Wyoming",422
+2016,"winter","Alabama",188
+2016,"winter","Alaska",65
+2016,"winter","Arizona",534
+2016,"winter","Arkansas",142
+2016,"winter","California",2934
+2016,"winter","Colorado",164
+2016,"winter","Connecticut",69
+2016,"winter","Delaware",77
+2016,"winter","Florida",1276
+2016,"winter","Georgia",221
+2016,"winter","Hawaii",482
+2016,"winter","Idaho",60
+2016,"winter","Illinois",270
+2016,"winter","Indiana",49
+2016,"winter","Iowa",23
+2016,"winter","Kansas",68
+2016,"winter","Kentucky",66
+2016,"winter","Louisiana",263
+2016,"winter","Maine",62
+2016,"winter","Maryland",250
+2016,"winter","Massachusetts",177
+2016,"winter","Michigan",118
+2016,"winter","Minnesota",146
+2016,"winter","Mississippi",70
+2016,"winter","Missouri",86
+2016,"winter","Montana",30
+2016,"winter","Nebraska",43
+2016,"winter","Nevada",242
+2016,"winter","New Hampshire",53
+2016,"winter","New Jersey",301
+2016,"winter","New Mexico",151
+2016,"winter","New York",232
+2016,"winter","North Carolina",266
+2016,"winter","North Dakota",3
+2016,"winter","Ohio",314
+2016,"winter","Oklahoma",87
+2016,"winter","Oregon",331
+2016,"winter","Pennsylvania",173
+2016,"winter","Rhode Island",45
+2016,"winter","South Carolina",200
+2016,"winter","South Dakota",41
+2016,"winter","Tennessee",329
+2016,"winter","Texas",1794
+2016,"winter","Utah",84
+2016,"winter","Vermont",261
+2016,"winter","Virginia",278
+2016,"winter","Washington",334
+2016,"winter","West Virginia",86
+2016,"winter","Wisconsin",82
+2016,"winter","Wyoming",24
+2017,"fall","Alabama",957
+2017,"fall","Alaska",496
+2017,"fall","Arizona",1294
+2017,"fall","Arkansas",710
+2017,"fall","California",3950
+2017,"fall","Colorado",778
+2017,"fall","Connecticut",561
+2017,"fall","Delaware",419
+2017,"fall","Florida",1749
+2017,"fall","Georgia",728
+2017,"fall","Hawaii",430
+2017,"fall","Idaho",352
+2017,"fall","Illinois",1235
+2017,"fall","Indiana",599
+2017,"fall","Iowa",270
+2017,"fall","Kansas",343
+2017,"fall","Kentucky",542
+2017,"fall","Louisiana",649
+2017,"fall","Maine",561
+2017,"fall","Maryland",1330
+2017,"fall","Massachusetts",1072
+2017,"fall","Michigan",1039
+2017,"fall","Minnesota",938
+2017,"fall","Mississippi",578
+2017,"fall","Missouri",561
+2017,"fall","Montana",144
+2017,"fall","Nebraska",239
+2017,"fall","Nevada",478
+2017,"fall","New Hampshire",343
+2017,"fall","New Jersey",1154
+2017,"fall","New Mexico",913
+2017,"fall","New York",1600
+2017,"fall","North Carolina",1609
+2017,"fall","North Dakota",20
+2017,"fall","Ohio",1579
+2017,"fall","Oklahoma",706
+2017,"fall","Oregon",970
+2017,"fall","Pennsylvania",1316
+2017,"fall","Rhode Island",207
+2017,"fall","South Carolina",620
+2017,"fall","South Dakota",113
+2017,"fall","Tennessee",704
+2017,"fall","Texas",4073
+2017,"fall","Utah",484
+2017,"fall","Vermont",1193
+2017,"fall","Virginia",1178
+2017,"fall","Washington",1030
+2017,"fall","West Virginia",352
+2017,"fall","Wisconsin",953
+2017,"fall","Wyoming",108
+2017,"spring","Alabama",1474
+2017,"spring","Alaska",681
+2017,"spring","Arizona",1486
+2017,"spring","Arkansas",650
+2017,"spring","California",5516
+2017,"spring","Colorado",711
+2017,"spring","Connecticut",399
+2017,"spring","Delaware",279
+2017,"spring","Florida",2014
+2017,"spring","Georgia",815
+2017,"spring","Hawaii",387
+2017,"spring","Idaho",490
+2017,"spring","Illinois",1421
+2017,"spring","Indiana",454
+2017,"spring","Iowa",294
+2017,"spring","Kansas",272
+2017,"spring","Kentucky",387
+2017,"spring","Louisiana",896
+2017,"spring","Maine",378
+2017,"spring","Maryland",1226
+2017,"spring","Massachusetts",982
+2017,"spring","Michigan",844
+2017,"spring","Minnesota",946
+2017,"spring","Mississippi",305
+2017,"spring","Missouri",667
+2017,"spring","Montana",282
+2017,"spring","Nebraska",205
+2017,"spring","Nevada",669
+2017,"spring","New Hampshire",249
+2017,"spring","New Jersey",1204
+2017,"spring","New Mexico",487
+2017,"spring","New York",1392
+2017,"spring","North Carolina",1910
+2017,"spring","North Dakota",114
+2017,"spring","Ohio",1386
+2017,"spring","Oklahoma",1029
+2017,"spring","Oregon",1212
+2017,"spring","Pennsylvania",1182
+2017,"spring","Rhode Island",95
+2017,"spring","South Carolina",945
+2017,"spring","South Dakota",225
+2017,"spring","Tennessee",1041
+2017,"spring","Texas",5185
+2017,"spring","Utah",765
+2017,"spring","Vermont",1070
+2017,"spring","Virginia",1479
+2017,"spring","Washington",1147
+2017,"spring","West Virginia",584
+2017,"spring","Wisconsin",961
+2017,"spring","Wyoming",198
+2017,"summer","Alabama",1162
+2017,"summer","Alaska",1301
+2017,"summer","Arizona",2743
+2017,"summer","Arkansas",891
+2017,"summer","California",4988
+2017,"summer","Colorado",1808
+2017,"summer","Connecticut",884
+2017,"summer","Delaware",457
+2017,"summer","Florida",1824
+2017,"summer","Georgia",834
+2017,"summer","Hawaii",419
+2017,"summer","Idaho",832
+2017,"summer","Illinois",1956
+2017,"summer","Indiana",918
+2017,"summer","Iowa",511
+2017,"summer","Kansas",455
+2017,"summer","Kentucky",719
+2017,"summer","Louisiana",606
+2017,"summer","Maine",1391
+2017,"summer","Maryland",1941
+2017,"summer","Massachusetts",1765
+2017,"summer","Michigan",1850
+2017,"summer","Minnesota",1767
+2017,"summer","Mississippi",333
+2017,"summer","Missouri",992
+2017,"summer","Montana",860
+2017,"summer","Nebraska",608
+2017,"summer","Nevada",766
+2017,"summer","New Hampshire",1069
+2017,"summer","New Jersey",1408
+2017,"summer","New Mexico",952
+2017,"summer","New York",2750
+2017,"summer","North Carolina",2327
+2017,"summer","North Dakota",171
+2017,"summer","Ohio",2334
+2017,"summer","Oklahoma",761
+2017,"summer","Oregon",1843
+2017,"summer","Pennsylvania",2259
+2017,"summer","Rhode Island",208
+2017,"summer","South Carolina",920
+2017,"summer","South Dakota",361
+2017,"summer","Tennessee",1205
+2017,"summer","Texas",4221
+2017,"summer","Utah",943
+2017,"summer","Vermont",2202
+2017,"summer","Virginia",1889
+2017,"summer","Washington",1494
+2017,"summer","West Virginia",1047
+2017,"summer","Wisconsin",1885
+2017,"summer","Wyoming",608
+2017,"winter","Alabama",413
+2017,"winter","Alaska",376
+2017,"winter","Arizona",698
+2017,"winter","Arkansas",216
+2017,"winter","California",3372
+2017,"winter","Colorado",234
+2017,"winter","Connecticut",119
+2017,"winter","Delaware",136
+2017,"winter","Florida",1585
+2017,"winter","Georgia",367
+2017,"winter","Hawaii",498
+2017,"winter","Idaho",82
+2017,"winter","Illinois",406
+2017,"winter","Indiana",107
+2017,"winter","Iowa",54
+2017,"winter","Kansas",32
+2017,"winter","Kentucky",152
+2017,"winter","Louisiana",495
+2017,"winter","Maine",86
+2017,"winter","Maryland",311
+2017,"winter","Massachusetts",285
+2017,"winter","Michigan",207
+2017,"winter","Minnesota",284
+2017,"winter","Mississippi",204
+2017,"winter","Missouri",146
+2017,"winter","Montana",59
+2017,"winter","Nebraska",78
+2017,"winter","Nevada",276
+2017,"winter","New Hampshire",59
+2017,"winter","New Jersey",420
+2017,"winter","New Mexico",330
+2017,"winter","New York",383
+2017,"winter","North Carolina",561
+2017,"winter","North Dakota",5
+2017,"winter","Ohio",446
+2017,"winter","Oklahoma",136
+2017,"winter","Oregon",478
+2017,"winter","Pennsylvania",325
+2017,"winter","Rhode Island",38
+2017,"winter","South Carolina",381
+2017,"winter","South Dakota",41
+2017,"winter","Tennessee",383
+2017,"winter","Texas",2380
+2017,"winter","Utah",111
+2017,"winter","Vermont",252
+2017,"winter","Virginia",434
+2017,"winter","Washington",493
+2017,"winter","West Virginia",248
+2017,"winter","Wisconsin",135
+2017,"winter","Wyoming",29
+2018,"fall","Alabama",1972
+2018,"fall","Alaska",473
+2018,"fall","Arizona",1760
+2018,"fall","Arkansas",1189
+2018,"fall","California",4179
+2018,"fall","Colorado",1000
+2018,"fall","Connecticut",795
+2018,"fall","Delaware",437
+2018,"fall","Florida",2662
+2018,"fall","Georgia",1383
+2018,"fall","Hawaii",830
+2018,"fall","Idaho",452
+2018,"fall","Illinois",1508
+2018,"fall","Indiana",945
+2018,"fall","Iowa",416
+2018,"fall","Kansas",515
+2018,"fall","Kentucky",753
+2018,"fall","Louisiana",970
+2018,"fall","Maine",787
+2018,"fall","Maryland",1444
+2018,"fall","Massachusetts",1357
+2018,"fall","Michigan",1472
+2018,"fall","Minnesota",1127
+2018,"fall","Mississippi",1220
+2018,"fall","Missouri",788
+2018,"fall","Montana",335
+2018,"fall","Nebraska",243
+2018,"fall","Nevada",530
+2018,"fall","New Hampshire",478
+2018,"fall","New Jersey",1330
+2018,"fall","New Mexico",1209
+2018,"fall","New York",2151
+2018,"fall","North Carolina",1849
+2018,"fall","North Dakota",152
+2018,"fall","Ohio",1842
+2018,"fall","Oklahoma",888
+2018,"fall","Oregon",1256
+2018,"fall","Pennsylvania",1735
+2018,"fall","Rhode Island",218
+2018,"fall","South Carolina",919
+2018,"fall","South Dakota",199
+2018,"fall","Tennessee",1140
+2018,"fall","Texas",4761
+2018,"fall","Utah",567
+2018,"fall","Vermont",1239
+2018,"fall","Virginia",1639
+2018,"fall","Washington",1287
+2018,"fall","West Virginia",410
+2018,"fall","Wisconsin",1099
+2018,"fall","Wyoming",178
+2018,"spring","Alabama",1909
+2018,"spring","Alaska",509
+2018,"spring","Arizona",1661
+2018,"spring","Arkansas",1163
+2018,"spring","California",6030
+2018,"spring","Colorado",1194
+2018,"spring","Connecticut",642
+2018,"spring","Delaware",512
+2018,"spring","Florida",2683
+2018,"spring","Georgia",1211
+2018,"spring","Hawaii",616
+2018,"spring","Idaho",744
+2018,"spring","Illinois",1559
+2018,"spring","Indiana",820
+2018,"spring","Iowa",459
+2018,"spring","Kansas",498
+2018,"spring","Kentucky",673
+2018,"spring","Louisiana",1342
+2018,"spring","Maine",485
+2018,"spring","Maryland",1469
+2018,"spring","Massachusetts",1222
+2018,"spring","Michigan",1321
+2018,"spring","Minnesota",1018
+2018,"spring","Mississippi",835
+2018,"spring","Missouri",904
+2018,"spring","Montana",464
+2018,"spring","Nebraska",303
+2018,"spring","Nevada",824
+2018,"spring","New Hampshire",323
+2018,"spring","New Jersey",1038
+2018,"spring","New Mexico",1071
+2018,"spring","New York",1736
+2018,"spring","North Carolina",2222
+2018,"spring","North Dakota",106
+2018,"spring","Ohio",1731
+2018,"spring","Oklahoma",1408
+2018,"spring","Oregon",1550
+2018,"spring","Pennsylvania",1527
+2018,"spring","Rhode Island",102
+2018,"spring","South Carolina",1052
+2018,"spring","South Dakota",176
+2018,"spring","Tennessee",1234
+2018,"spring","Texas",5684
+2018,"spring","Utah",934
+2018,"spring","Vermont",961
+2018,"spring","Virginia",1636
+2018,"spring","Washington",1664
+2018,"spring","West Virginia",686
+2018,"spring","Wisconsin",932
+2018,"spring","Wyoming",272
+2018,"summer","Alabama",2212
+2018,"summer","Alaska",1321
+2018,"summer","Arizona",2477
+2018,"summer","Arkansas",1373
+2018,"summer","California",5752
+2018,"summer","Colorado",2055
+2018,"summer","Connecticut",1344
+2018,"summer","Delaware",603
+2018,"summer","Florida",2665
+2018,"summer","Georgia",1469
+2018,"summer","Hawaii",653
+2018,"summer","Idaho",1105
+2018,"summer","Illinois",2558
+2018,"summer","Indiana",1589
+2018,"summer","Iowa",780
+2018,"summer","Kansas",779
+2018,"summer","Kentucky",1131
+2018,"summer","Louisiana",1260
+2018,"summer","Maine",1602
+2018,"summer","Maryland",2281
+2018,"summer","Massachusetts",2347
+2018,"summer","Michigan",3128
+2018,"summer","Minnesota",2195
+2018,"summer","Mississippi",1351
+2018,"summer","Missouri",1192
+2018,"summer","Montana",970
+2018,"summer","Nebraska",593
+2018,"summer","Nevada",957
+2018,"summer","New Hampshire",1203
+2018,"summer","New Jersey",1887
+2018,"summer","New Mexico",1520
+2018,"summer","New York",3490
+2018,"summer","North Carolina",2802
+2018,"summer","North Dakota",366
+2018,"summer","Ohio",2935
+2018,"summer","Oklahoma",1386
+2018,"summer","Oregon",1958
+2018,"summer","Pennsylvania",2698
+2018,"summer","Rhode Island",415
+2018,"summer","South Carolina",1341
+2018,"summer","South Dakota",419
+2018,"summer","Tennessee",1683
+2018,"summer","Texas",4685
+2018,"summer","Utah",1287
+2018,"summer","Vermont",2440
+2018,"summer","Virginia",2319
+2018,"summer","Washington",1973
+2018,"summer","West Virginia",1015
+2018,"summer","Wisconsin",2236
+2018,"summer","Wyoming",709
+2018,"winter","Alabama",688
+2018,"winter","Alaska",307
+2018,"winter","Arizona",859
+2018,"winter","Arkansas",296
+2018,"winter","California",3709
+2018,"winter","Colorado",256
+2018,"winter","Connecticut",209
+2018,"winter","Delaware",147
+2018,"winter","Florida",2428
+2018,"winter","Georgia",512
+2018,"winter","Hawaii",522
+2018,"winter","Idaho",83
+2018,"winter","Illinois",537
+2018,"winter","Indiana",127
+2018,"winter","Iowa",80
+2018,"winter","Kansas",93
+2018,"winter","Kentucky",202
+2018,"winter","Louisiana",512
+2018,"winter","Maine",106
+2018,"winter","Maryland",449
+2018,"winter","Massachusetts",419
+2018,"winter","Michigan",326
+2018,"winter","Minnesota",257
+2018,"winter","Mississippi",447
+2018,"winter","Missouri",168
+2018,"winter","Montana",114
+2018,"winter","Nebraska",43
+2018,"winter","Nevada",302
+2018,"winter","New Hampshire",68
+2018,"winter","New Jersey",515
+2018,"winter","New Mexico",445
+2018,"winter","New York",629
+2018,"winter","North Carolina",641
+2018,"winter","North Dakota",40
+2018,"winter","Ohio",587
+2018,"winter","Oklahoma",186
+2018,"winter","Oregon",655
+2018,"winter","Pennsylvania",482
+2018,"winter","Rhode Island",69
+2018,"winter","South Carolina",478
+2018,"winter","South Dakota",52
+2018,"winter","Tennessee",312
+2018,"winter","Texas",2531
+2018,"winter","Utah",194
+2018,"winter","Vermont",241
+2018,"winter","Virginia",538
+2018,"winter","Washington",618
+2018,"winter","West Virginia",326
+2018,"winter","Wisconsin",214
+2018,"winter","Wyoming",48
+2019,"fall","Alabama",2043
+2019,"fall","Alaska",575
+2019,"fall","Arizona",2311
+2019,"fall","Arkansas",1377
+2019,"fall","California",4867
+2019,"fall","Colorado",1193
+2019,"fall","Connecticut",1215
+2019,"fall","Delaware",595
+2019,"fall","Florida",3299
+2019,"fall","Georgia",1340
+2019,"fall","Hawaii",907
+2019,"fall","Idaho",683
+2019,"fall","Illinois",2192
+2019,"fall","Indiana",1129
+2019,"fall","Iowa",644
+2019,"fall","Kansas",851
+2019,"fall","Kentucky",1080
+2019,"fall","Louisiana",1330
+2019,"fall","Maine",1135
+2019,"fall","Maryland",1744
+2019,"fall","Massachusetts",2018
+2019,"fall","Michigan",1839
+2019,"fall","Minnesota",1681
+2019,"fall","Mississippi",1292
+2019,"fall","Missouri",1247
+2019,"fall","Montana",466
+2019,"fall","Nebraska",533
+2019,"fall","Nevada",663
+2019,"fall","New Hampshire",794
+2019,"fall","New Jersey",1927
+2019,"fall","New Mexico",1199
+2019,"fall","New York",2945
+2019,"fall","North Carolina",2265
+2019,"fall","North Dakota",260
+2019,"fall","Ohio",1976
+2019,"fall","Oklahoma",1173
+2019,"fall","Oregon",1764
+2019,"fall","Pennsylvania",2208
+2019,"fall","Rhode Island",377
+2019,"fall","South Carolina",1293
+2019,"fall","South Dakota",279
+2019,"fall","Tennessee",1508
+2019,"fall","Texas",5060
+2019,"fall","Utah",724
+2019,"fall","Vermont",1519
+2019,"fall","Virginia",2108
+2019,"fall","Washington",1631
+2019,"fall","West Virginia",632
+2019,"fall","Wisconsin",1418
+2019,"fall","Wyoming",296
+2019,"spring","Alabama",2504
+2019,"spring","Alaska",553
+2019,"spring","Arizona",1977
+2019,"spring","Arkansas",1486
+2019,"spring","California",6762
+2019,"spring","Colorado",1253
+2019,"spring","Connecticut",828
+2019,"spring","Delaware",578
+2019,"spring","Florida",3860
+2019,"spring","Georgia",2008
+2019,"spring","Hawaii",730
+2019,"spring","Idaho",629
+2019,"spring","Illinois",1852
+2019,"spring","Indiana",989
+2019,"spring","Iowa",523
+2019,"spring","Kansas",843
+2019,"spring","Kentucky",1401
+2019,"spring","Louisiana",1511
+2019,"spring","Maine",546
+2019,"spring","Maryland",1979
+2019,"spring","Massachusetts",1453
+2019,"spring","Michigan",1368
+2019,"spring","Minnesota",1122
+2019,"spring","Mississippi",1496
+2019,"spring","Missouri",1224
+2019,"spring","Montana",470
+2019,"spring","Nebraska",504
+2019,"spring","Nevada",947
+2019,"spring","New Hampshire",502
+2019,"spring","New Jersey",1484
+2019,"spring","New Mexico",1289
+2019,"spring","New York",2298
+2019,"spring","North Carolina",2537
+2019,"spring","North Dakota",214
+2019,"spring","Ohio",1947
+2019,"spring","Oklahoma",1377
+2019,"spring","Oregon",1912
+2019,"spring","Pennsylvania",2122
+2019,"spring","Rhode Island",242
+2019,"spring","South Carolina",1476
+2019,"spring","South Dakota",199
+2019,"spring","Tennessee",1890
+2019,"spring","Texas",6143
+2019,"spring","Utah",1006
+2019,"spring","Vermont",1014
+2019,"spring","Virginia",2348
+2019,"spring","Washington",1750
+2019,"spring","West Virginia",637
+2019,"spring","Wisconsin",1090
+2019,"spring","Wyoming",278
+2019,"summer","Alabama",2477
+2019,"summer","Alaska",1527
+2019,"summer","Arizona",3018
+2019,"summer","Arkansas",1668
+2019,"summer","California",6964
+2019,"summer","Colorado",2748
+2019,"summer","Connecticut",1842
+2019,"summer","Delaware",681
+2019,"summer","Florida",3433
+2019,"summer","Georgia",1729
+2019,"summer","Hawaii",678
+2019,"summer","Idaho",1200
+2019,"summer","Illinois",2973
+2019,"summer","Indiana",1930
+2019,"summer","Iowa",914
+2019,"summer","Kansas",1184
+2019,"summer","Kentucky",1943
+2019,"summer","Louisiana",1518
+2019,"summer","Maine",1922
+2019,"summer","Maryland",2560
+2019,"summer","Massachusetts",3040
+2019,"summer","Michigan",3339
+2019,"summer","Minnesota",2752
+2019,"summer","Mississippi",1676
+2019,"summer","Missouri",1583
+2019,"summer","Montana",1253
+2019,"summer","Nebraska",1178
+2019,"summer","Nevada",1283
+2019,"summer","New Hampshire",1518
+2019,"summer","New Jersey",2259
+2019,"summer","New Mexico",1875
+2019,"summer","New York",4419
+2019,"summer","North Carolina",3131
+2019,"summer","North Dakota",603
+2019,"summer","Ohio",3428
+2019,"summer","Oklahoma",1553
+2019,"summer","Oregon",2883
+2019,"summer","Pennsylvania",3289
+2019,"summer","Rhode Island",664
+2019,"summer","South Carolina",1543
+2019,"summer","South Dakota",615
+2019,"summer","Tennessee",2302
+2019,"summer","Texas",5357
+2019,"summer","Utah",1506
+2019,"summer","Vermont",2665
+2019,"summer","Virginia",3063
+2019,"summer","Washington",2585
+2019,"summer","West Virginia",1329
+2019,"summer","Wisconsin",2707
+2019,"summer","Wyoming",839
+2019,"winter","Alabama",1057
+2019,"winter","Alaska",180
+2019,"winter","Arizona",1020
+2019,"winter","Arkansas",383
+2019,"winter","California",3885
+2019,"winter","Colorado",262
+2019,"winter","Connecticut",257
+2019,"winter","Delaware",178
+2019,"winter","Florida",2922
+2019,"winter","Georgia",669
+2019,"winter","Hawaii",630
+2019,"winter","Idaho",126
+2019,"winter","Illinois",654
+2019,"winter","Indiana",267
+2019,"winter","Iowa",103
+2019,"winter","Kansas",204
+2019,"winter","Kentucky",375
+2019,"winter","Louisiana",651
+2019,"winter","Maine",128
+2019,"winter","Maryland",475
+2019,"winter","Massachusetts",571
+2019,"winter","Michigan",264
+2019,"winter","Minnesota",257
+2019,"winter","Mississippi",721
+2019,"winter","Missouri",259
+2019,"winter","Montana",123
+2019,"winter","Nebraska",79
+2019,"winter","Nevada",305
+2019,"winter","New Hampshire",117
+2019,"winter","New Jersey",603
+2019,"winter","New Mexico",462
+2019,"winter","New York",896
+2019,"winter","North Carolina",837
+2019,"winter","North Dakota",51
+2019,"winter","Ohio",580
+2019,"winter","Oklahoma",264
+2019,"winter","Oregon",718
+2019,"winter","Pennsylvania",536
+2019,"winter","Rhode Island",87
+2019,"winter","South Carolina",611
+2019,"winter","South Dakota",24
+2019,"winter","Tennessee",508
+2019,"winter","Texas",2917
+2019,"winter","Utah",191
+2019,"winter","Vermont",290
+2019,"winter","Virginia",759
+2019,"winter","Washington",703
+2019,"winter","West Virginia",184
+2019,"winter","Wisconsin",305
+2019,"winter","Wyoming",40
+2020,"fall","Alabama",2462
+2020,"fall","Alaska",754
+2020,"fall","Arizona",1908
+2020,"fall","Arkansas",1613
+2020,"fall","California",5217
+2020,"fall","Colorado",1253
+2020,"fall","Connecticut",1516
+2020,"fall","Delaware",944
+2020,"fall","Florida",3930
+2020,"fall","Georgia",2200
+2020,"fall","Hawaii",586
+2020,"fall","Idaho",860
+2020,"fall","Illinois",2407
+2020,"fall","Indiana",1694
+2020,"fall","Iowa",846
+2020,"fall","Kansas",1019
+2020,"fall","Kentucky",1576
+2020,"fall","Louisiana",1518
+2020,"fall","Maine",1197
+2020,"fall","Maryland",2747
+2020,"fall","Massachusetts",2582
+2020,"fall","Michigan",2262
+2020,"fall","Minnesota",1939
+2020,"fall","Mississippi",1648
+2020,"fall","Missouri",1601
+2020,"fall","Montana",526
+2020,"fall","Nebraska",621
+2020,"fall","Nevada",727
+2020,"fall","New Hampshire",1047
+2020,"fall","New Jersey",2446
+2020,"fall","New Mexico",1211
+2020,"fall","New York",3630
+2020,"fall","North Carolina",3336
+2020,"fall","North Dakota",309
+2020,"fall","Ohio",2795
+2020,"fall","Oklahoma",1612
+2020,"fall","Oregon",1984
+2020,"fall","Pennsylvania",2868
+2020,"fall","Rhode Island",841
+2020,"fall","South Carolina",1953
+2020,"fall","South Dakota",351
+2020,"fall","Tennessee",2123
+2020,"fall","Texas",5978
+2020,"fall","Utah",916
+2020,"fall","Vermont",1738
+2020,"fall","Virginia",3356
+2020,"fall","Washington",2206
+2020,"fall","West Virginia",981
+2020,"fall","Wisconsin",1923
+2020,"fall","Wyoming",368
+2020,"spring","Alabama",2924
+2020,"spring","Alaska",920
+2020,"spring","Arizona",2075
+2020,"spring","Arkansas",1918
+2020,"spring","California",6947
+2020,"spring","Colorado",1440
+2020,"spring","Connecticut",1350
+2020,"spring","Delaware",828
+2020,"spring","Florida",4228
+2020,"spring","Georgia",2363
+2020,"spring","Hawaii",609
+2020,"spring","Idaho",938
+2020,"spring","Illinois",2126
+2020,"spring","Indiana",1316
+2020,"spring","Iowa",736
+2020,"spring","Kansas",1016
+2020,"spring","Kentucky",1429
+2020,"spring","Louisiana",1994
+2020,"spring","Maine",768
+2020,"spring","Maryland",2306
+2020,"spring","Massachusetts",2253
+2020,"spring","Michigan",1686
+2020,"spring","Minnesota",1565
+2020,"spring","Mississippi",1866
+2020,"spring","Missouri",1399
+2020,"spring","Montana",685
+2020,"spring","Nebraska",743
+2020,"spring","Nevada",1146
+2020,"spring","New Hampshire",839
+2020,"spring","New Jersey",1976
+2020,"spring","New Mexico",1421
+2020,"spring","New York",2722
+2020,"spring","North Carolina",3194
+2020,"spring","North Dakota",250
+2020,"spring","Ohio",2197
+2020,"spring","Oklahoma",2094
+2020,"spring","Oregon",2282
+2020,"spring","Pennsylvania",2536
+2020,"spring","Rhode Island",462
+2020,"spring","South Carolina",1683
+2020,"spring","South Dakota",419
+2020,"spring","Tennessee",2206
+2020,"spring","Texas",6917
+2020,"spring","Utah",1239
+2020,"spring","Vermont",1364
+2020,"spring","Virginia",2752
+2020,"spring","Washington",2159
+2020,"spring","West Virginia",1001
+2020,"spring","Wisconsin",1619
+2020,"spring","Wyoming",422
+2020,"summer","Alabama",3131
+2020,"summer","Alaska",1528
+2020,"summer","Arizona",2422
+2020,"summer","Arkansas",2289
+2020,"summer","California",7117
+2020,"summer","Colorado",2952
+2020,"summer","Connecticut",2674
+2020,"summer","Delaware",1272
+2020,"summer","Florida",4293
+2020,"summer","Georgia",2590
+2020,"summer","Hawaii",465
+2020,"summer","Idaho",1540
+2020,"summer","Illinois",3538
+2020,"summer","Indiana",2651
+2020,"summer","Iowa",1445
+2020,"summer","Kansas",1655
+2020,"summer","Kentucky",1993
+2020,"summer","Louisiana",1986
+2020,"summer","Maine",2300
+2020,"summer","Maryland",3671
+2020,"summer","Massachusetts",4382
+2020,"summer","Michigan",3756
+2020,"summer","Minnesota",3450
+2020,"summer","Mississippi",1970
+2020,"summer","Missouri",2042
+2020,"summer","Montana",1507
+2020,"summer","Nebraska",1376
+2020,"summer","Nevada",1333
+2020,"summer","New Hampshire",1933
+2020,"summer","New Jersey",3185
+2020,"summer","New Mexico",1898
+2020,"summer","New York",5311
+2020,"summer","North Carolina",4248
+2020,"summer","North Dakota",667
+2020,"summer","Ohio",3870
+2020,"summer","Oklahoma",2083
+2020,"summer","Oregon",3102
+2020,"summer","Pennsylvania",4143
+2020,"summer","Rhode Island",1361
+2020,"summer","South Carolina",2117
+2020,"summer","South Dakota",1081
+2020,"summer","Tennessee",2815
+2020,"summer","Texas",6004
+2020,"summer","Utah",1669
+2020,"summer","Vermont",3021
+2020,"summer","Virginia",4108
+2020,"summer","Washington",3057
+2020,"summer","West Virginia",1844
+2020,"summer","Wisconsin",3201
+2020,"summer","Wyoming",1121
+2020,"winter","Alabama",1044
+2020,"winter","Alaska",374
+2020,"winter","Arizona",1182
+2020,"winter","Arkansas",508
+2020,"winter","California",4754
+2020,"winter","Colorado",326
+2020,"winter","Connecticut",402
+2020,"winter","Delaware",311
+2020,"winter","Florida",3391
+2020,"winter","Georgia",914
+2020,"winter","Hawaii",825
+2020,"winter","Idaho",180
+2020,"winter","Illinois",823
+2020,"winter","Indiana",351
+2020,"winter","Iowa",141
+2020,"winter","Kansas",227
+2020,"winter","Kentucky",460
+2020,"winter","Louisiana",906
+2020,"winter","Maine",258
+2020,"winter","Maryland",767
+2020,"winter","Massachusetts",820
+2020,"winter","Michigan",551
+2020,"winter","Minnesota",509
+2020,"winter","Mississippi",695
+2020,"winter","Missouri",345
+2020,"winter","Montana",157
+2020,"winter","Nebraska",130
+2020,"winter","Nevada",464
+2020,"winter","New Hampshire",258
+2020,"winter","New Jersey",915
+2020,"winter","New Mexico",530
+2020,"winter","New York",1133
+2020,"winter","North Carolina",1113
+2020,"winter","North Dakota",47
+2020,"winter","Ohio",724
+2020,"winter","Oklahoma",416
+2020,"winter","Oregon",1039
+2020,"winter","Pennsylvania",883
+2020,"winter","Rhode Island",192
+2020,"winter","South Carolina",832
+2020,"winter","South Dakota",89
+2020,"winter","Tennessee",588
+2020,"winter","Texas",3354
+2020,"winter","Utah",279
+2020,"winter","Vermont",383
+2020,"winter","Virginia",1061
+2020,"winter","Washington",985
+2020,"winter","West Virginia",238
+2020,"winter","Wisconsin",454
+2020,"winter","Wyoming",66
+2021,"fall","Alabama",2454
+2021,"fall","Alaska",889
+2021,"fall","Arizona",2586
+2021,"fall","Arkansas",1765
+2021,"fall","California",5965
+2021,"fall","Colorado",1542
+2021,"fall","Connecticut",1545
+2021,"fall","Delaware",1124
+2021,"fall","Florida",4321
+2021,"fall","Georgia",2245
+2021,"fall","Hawaii",1249
+2021,"fall","Idaho",895
+2021,"fall","Illinois",2466
+2021,"fall","Indiana",1990
+2021,"fall","Iowa",872
+2021,"fall","Kansas",1205
+2021,"fall","Kentucky",1731
+2021,"fall","Louisiana",1628
+2021,"fall","Maine",1332
+2021,"fall","Maryland",2990
+2021,"fall","Massachusetts",2849
+2021,"fall","Michigan",2333
+2021,"fall","Minnesota",2019
+2021,"fall","Mississippi",1813
+2021,"fall","Missouri",1873
+2021,"fall","Montana",636
+2021,"fall","Nebraska",767
+2021,"fall","Nevada",853
+2021,"fall","New Hampshire",1366
+2021,"fall","New Jersey",2613
+2021,"fall","New Mexico",1747
+2021,"fall","New York",3694
+2021,"fall","North Carolina",3431
+2021,"fall","North Dakota",353
+2021,"fall","Ohio",2789
+2021,"fall","Oklahoma",1677
+2021,"fall","Oregon",2332
+2021,"fall","Pennsylvania",3097
+2021,"fall","Rhode Island",809
+2021,"fall","South Carolina",1938
+2021,"fall","South Dakota",532
+2021,"fall","Tennessee",2303
+2021,"fall","Texas",6414
+2021,"fall","Utah",1118
+2021,"fall","Vermont",1881
+2021,"fall","Virginia",3118
+2021,"fall","Washington",2446
+2021,"fall","West Virginia",1330
+2021,"fall","Wisconsin",2224
+2021,"fall","Wyoming",383
+2021,"spring","Alabama",3086
+2021,"spring","Alaska",835
+2021,"spring","Arizona",2199
+2021,"spring","Arkansas",2008
+2021,"spring","California",7416
+2021,"spring","Colorado",1365
+2021,"spring","Connecticut",1409
+2021,"spring","Delaware",1034
+2021,"spring","Florida",5043
+2021,"spring","Georgia",2602
+2021,"spring","Hawaii",1109
+2021,"spring","Idaho",1107
+2021,"spring","Illinois",2508
+2021,"spring","Indiana",1479
+2021,"spring","Iowa",736
+2021,"spring","Kansas",1198
+2021,"spring","Kentucky",1847
+2021,"spring","Louisiana",2140
+2021,"spring","Maine",1024
+2021,"spring","Maryland",2897
+2021,"spring","Massachusetts",2380
+2021,"spring","Michigan",1966
+2021,"spring","Minnesota",1953
+2021,"spring","Mississippi",1900
+2021,"spring","Missouri",1917
+2021,"spring","Montana",787
+2021,"spring","Nebraska",814
+2021,"spring","Nevada",1208
+2021,"spring","New Hampshire",953
+2021,"spring","New Jersey",2311
+2021,"spring","New Mexico",1313
+2021,"spring","New York",3056
+2021,"spring","North Carolina",3666
+2021,"spring","North Dakota",299
+2021,"spring","Ohio",2566
+2021,"spring","Oklahoma",2055
+2021,"spring","Oregon",2821
+2021,"spring","Pennsylvania",2717
+2021,"spring","Rhode Island",640
+2021,"spring","South Carolina",2354
+2021,"spring","South Dakota",561
+2021,"spring","Tennessee",2566
+2021,"spring","Texas",7079
+2021,"spring","Utah",1313
+2021,"spring","Vermont",1570
+2021,"spring","Virginia",3513
+2021,"spring","Washington",2591
+2021,"spring","West Virginia",1062
+2021,"spring","Wisconsin",2044
+2021,"spring","Wyoming",398
+2021,"summer","Alabama",3492
+2021,"summer","Alaska",1763
+2021,"summer","Arizona",3148
+2021,"summer","Arkansas",2369
+2021,"summer","California",7198
+2021,"summer","Colorado",3292
+2021,"summer","Connecticut",2574
+2021,"summer","Delaware",1487
+2021,"summer","Florida",4488
+2021,"summer","Georgia",2700
+2021,"summer","Hawaii",1085
+2021,"summer","Idaho",1660
+2021,"summer","Illinois",3715
+2021,"summer","Indiana",2672
+2021,"summer","Iowa",1393
+2021,"summer","Kansas",1871
+2021,"summer","Kentucky",2316
+2021,"summer","Louisiana",1962
+2021,"summer","Maine",2600
+2021,"summer","Maryland",4136
+2021,"summer","Massachusetts",4607
+2021,"summer","Michigan",3911
+2021,"summer","Minnesota",3403
+2021,"summer","Mississippi",2068
+2021,"summer","Missouri",2565
+2021,"summer","Montana",1768
+2021,"summer","Nebraska",1333
+2021,"summer","Nevada",1454
+2021,"summer","New Hampshire",2173
+2021,"summer","New Jersey",3443
+2021,"summer","New Mexico",2628
+2021,"summer","New York",5565
+2021,"summer","North Carolina",4373
+2021,"summer","North Dakota",809
+2021,"summer","Ohio",4123
+2021,"summer","Oklahoma",2345
+2021,"summer","Oregon",3405
+2021,"summer","Pennsylvania",4257
+2021,"summer","Rhode Island",1168
+2021,"summer","South Carolina",2668
+2021,"summer","South Dakota",1154
+2021,"summer","Tennessee",3109
+2021,"summer","Texas",6500
+2021,"summer","Utah",1787
+2021,"summer","Vermont",3276
+2021,"summer","Virginia",4148
+2021,"summer","Washington",3322
+2021,"summer","West Virginia",2249
+2021,"summer","Wisconsin",3739
+2021,"summer","Wyoming",1289
+2021,"winter","Alabama",1235
+2021,"winter","Alaska",399
+2021,"winter","Arizona",1293
+2021,"winter","Arkansas",626
+2021,"winter","California",4866
+2021,"winter","Colorado",424
+2021,"winter","Connecticut",513
+2021,"winter","Delaware",374
+2021,"winter","Florida",3910
+2021,"winter","Georgia",1072
+2021,"winter","Hawaii",1133
+2021,"winter","Idaho",267
+2021,"winter","Illinois",903
+2021,"winter","Indiana",533
+2021,"winter","Iowa",147
+2021,"winter","Kansas",250
+2021,"winter","Kentucky",535
+2021,"winter","Louisiana",959
+2021,"winter","Maine",384
+2021,"winter","Maryland",979
+2021,"winter","Massachusetts",930
+2021,"winter","Michigan",566
+2021,"winter","Minnesota",483
+2021,"winter","Mississippi",869
+2021,"winter","Missouri",529
+2021,"winter","Montana",149
+2021,"winter","Nebraska",131
+2021,"winter","Nevada",453
+2021,"winter","New Hampshire",275
+2021,"winter","New Jersey",1059
+2021,"winter","New Mexico",627
+2021,"winter","New York",1289
+2021,"winter","North Carolina",1350
+2021,"winter","North Dakota",62
+2021,"winter","Ohio",815
+2021,"winter","Oklahoma",479
+2021,"winter","Oregon",1166
+2021,"winter","Pennsylvania",940
+2021,"winter","Rhode Island",236
+2021,"winter","South Carolina",947
+2021,"winter","South Dakota",59
+2021,"winter","Tennessee",795
+2021,"winter","Texas",3795
+2021,"winter","Utah",383
+2021,"winter","Vermont",401
+2021,"winter","Virginia",1232
+2021,"winter","Washington",1080
+2021,"winter","West Virginia",372
+2021,"winter","Wisconsin",483
+2021,"winter","Wyoming",64
+2022,"fall","Alabama",3082
+2022,"fall","Alaska",736
+2022,"fall","Arizona",2779
+2022,"fall","Arkansas",1932
+2022,"fall","California",6234
+2022,"fall","Colorado",1769
+2022,"fall","Connecticut",1757
+2022,"fall","Delaware",1046
+2022,"fall","Florida",4569
+2022,"fall","Georgia",2691
+2022,"fall","Hawaii",1470
+2022,"fall","Idaho",999
+2022,"fall","Illinois",2800
+2022,"fall","Indiana",2031
+2022,"fall","Iowa",905
+2022,"fall","Kansas",1223
+2022,"fall","Kentucky",1683
+2022,"fall","Louisiana",1799
+2022,"fall","Maine",1584
+2022,"fall","Maryland",3015
+2022,"fall","Massachusetts",2890
+2022,"fall","Michigan",2486
+2022,"fall","Minnesota",2312
+2022,"fall","Mississippi",1640
+2022,"fall","Missouri",2278
+2022,"fall","Montana",790
+2022,"fall","Nebraska",876
+2022,"fall","Nevada",1047
+2022,"fall","New Hampshire",1301
+2022,"fall","New Jersey",2544
+2022,"fall","New Mexico",2051
+2022,"fall","New York",3845
+2022,"fall","North Carolina",3539
+2022,"fall","North Dakota",299
+2022,"fall","Ohio",2874
+2022,"fall","Oklahoma",1748
+2022,"fall","Oregon",2315
+2022,"fall","Pennsylvania",3194
+2022,"fall","Rhode Island",898
+2022,"fall","South Carolina",1908
+2022,"fall","South Dakota",500
+2022,"fall","Tennessee",2455
+2022,"fall","Texas",6415
+2022,"fall","Utah",1227
+2022,"fall","Vermont",1815
+2022,"fall","Virginia",3057
+2022,"fall","Washington",2580
+2022,"fall","West Virginia",1300
+2022,"fall","Wisconsin",2229
+2022,"fall","Wyoming",470
+2022,"spring","Alabama",3192
+2022,"spring","Alaska",875
+2022,"spring","Arizona",2583
+2022,"spring","Arkansas",2122
+2022,"spring","California",8113
+2022,"spring","Colorado",1671
+2022,"spring","Connecticut",1606
+2022,"spring","Delaware",1153
+2022,"spring","Florida",5463
+2022,"spring","Georgia",3082
+2022,"spring","Hawaii",1316
+2022,"spring","Idaho",1093
+2022,"spring","Illinois",2480
+2022,"spring","Indiana",1685
+2022,"spring","Iowa",799
+2022,"spring","Kansas",1111
+2022,"spring","Kentucky",2050
+2022,"spring","Louisiana",2120
+2022,"spring","Maine",1204
+2022,"spring","Maryland",2896
+2022,"spring","Massachusetts",2665
+2022,"spring","Michigan",1801
+2022,"spring","Minnesota",1507
+2022,"spring","Mississippi",2117
+2022,"spring","Missouri",2190
+2022,"spring","Montana",692
+2022,"spring","Nebraska",863
+2022,"spring","Nevada",1375
+2022,"spring","New Hampshire",1012
+2022,"spring","New Jersey",2389
+2022,"spring","New Mexico",1673
+2022,"spring","New York",3099
+2022,"spring","North Carolina",4058
+2022,"spring","North Dakota",319
+2022,"spring","Ohio",2690
+2022,"spring","Oklahoma",2161
+2022,"spring","Oregon",2648
+2022,"spring","Pennsylvania",2904
+2022,"spring","Rhode Island",650
+2022,"spring","South Carolina",2371
+2022,"spring","South Dakota",551
+2022,"spring","Tennessee",2740
+2022,"spring","Texas",7219
+2022,"spring","Utah",1581
+2022,"spring","Vermont",1677
+2022,"spring","Virginia",3417
+2022,"spring","Washington",2613
+2022,"spring","West Virginia",1440
+2022,"spring","Wisconsin",1718
+2022,"spring","Wyoming",375
+2022,"summer","Alabama",3220
+2022,"summer","Alaska",1837
+2022,"summer","Arizona",3762
+2022,"summer","Arkansas",2564
+2022,"summer","California",7836
+2022,"summer","Colorado",3590
+2022,"summer","Connecticut",2945
+2022,"summer","Delaware",1592
+2022,"summer","Florida",4958
+2022,"summer","Georgia",3379
+2022,"summer","Hawaii",1341
+2022,"summer","Idaho",1819
+2022,"summer","Illinois",3937
+2022,"summer","Indiana",2821
+2022,"summer","Iowa",1479
+2022,"summer","Kansas",1860
+2022,"summer","Kentucky",2505
+2022,"summer","Louisiana",1924
+2022,"summer","Maine",2802
+2022,"summer","Maryland",4476
+2022,"summer","Massachusetts",4485
+2022,"summer","Michigan",3956
+2022,"summer","Minnesota",3760
+2022,"summer","Mississippi",2271
+2022,"summer","Missouri",3034
+2022,"summer","Montana",1703
+2022,"summer","Nebraska",1731
+2022,"summer","Nevada",1815
+2022,"summer","New Hampshire",2432
+2022,"summer","New Jersey",3337
+2022,"summer","New Mexico",2901
+2022,"summer","New York",5781
+2022,"summer","North Carolina",4884
+2022,"summer","North Dakota",715
+2022,"summer","Ohio",4149
+2022,"summer","Oklahoma",2388
+2022,"summer","Oregon",3607
+2022,"summer","Pennsylvania",4661
+2022,"summer","Rhode Island",1181
+2022,"summer","South Carolina",2414
+2022,"summer","South Dakota",1069
+2022,"summer","Tennessee",3385
+2022,"summer","Texas",6014
+2022,"summer","Utah",2216
+2022,"summer","Vermont",3327
+2022,"summer","Virginia",4327
+2022,"summer","Washington",3678
+2022,"summer","West Virginia",2439
+2022,"summer","Wisconsin",3837
+2022,"summer","Wyoming",1289
+2022,"winter","Alabama",1121
+2022,"winter","Alaska",370
+2022,"winter","Arizona",1437
+2022,"winter","Arkansas",568
+2022,"winter","California",5536
+2022,"winter","Colorado",418
+2022,"winter","Connecticut",505
+2022,"winter","Delaware",311
+2022,"winter","Florida",4008
+2022,"winter","Georgia",1293
+2022,"winter","Hawaii",1667
+2022,"winter","Idaho",259
+2022,"winter","Illinois",752
+2022,"winter","Indiana",458
+2022,"winter","Iowa",168
+2022,"winter","Kansas",249
+2022,"winter","Kentucky",493
+2022,"winter","Louisiana",990
+2022,"winter","Maine",302
+2022,"winter","Maryland",909
+2022,"winter","Massachusetts",903
+2022,"winter","Michigan",581
+2022,"winter","Minnesota",492
+2022,"winter","Mississippi",883
+2022,"winter","Missouri",526
+2022,"winter","Montana",167
+2022,"winter","Nebraska",124
+2022,"winter","Nevada",500
+2022,"winter","New Hampshire",291
+2022,"winter","New Jersey",946
+2022,"winter","New Mexico",694
+2022,"winter","New York",1223
+2022,"winter","North Carolina",1378
+2022,"winter","North Dakota",87
+2022,"winter","Ohio",711
+2022,"winter","Oklahoma",489
+2022,"winter","Oregon",1247
+2022,"winter","Pennsylvania",946
+2022,"winter","Rhode Island",217
+2022,"winter","South Carolina",971
+2022,"winter","South Dakota",82
+2022,"winter","Tennessee",776
+2022,"winter","Texas",3798
+2022,"winter","Utah",405
+2022,"winter","Vermont",417
+2022,"winter","Virginia",1155
+2022,"winter","Washington",1122
+2022,"winter","West Virginia",412
+2022,"winter","Wisconsin",480
+2022,"winter","Wyoming",58
+2023,"fall","Alabama",2898
+2023,"fall","Alaska",854
+2023,"fall","Arizona",2602
+2023,"fall","Arkansas",1789
+2023,"fall","California",6565
+2023,"fall","Colorado",1801
+2023,"fall","Connecticut",1647
+2023,"fall","Delaware",1047
+2023,"fall","Florida",4535
+2023,"fall","Georgia",2645
+2023,"fall","Hawaii",1280
+2023,"fall","Idaho",1082
+2023,"fall","Illinois",2704
+2023,"fall","Indiana",1823
+2023,"fall","Iowa",898
+2023,"fall","Kansas",1199
+2023,"fall","Kentucky",1743
+2023,"fall","Louisiana",1656
+2023,"fall","Maine",1473
+2023,"fall","Maryland",2859
+2023,"fall","Massachusetts",2947
+2023,"fall","Michigan",2432
+2023,"fall","Minnesota",2115
+2023,"fall","Mississippi",1477
+2023,"fall","Missouri",2074
+2023,"fall","Montana",733
+2023,"fall","Nebraska",851
+2023,"fall","Nevada",996
+2023,"fall","New Hampshire",1377
+2023,"fall","New Jersey",2398
+2023,"fall","New Mexico",1802
+2023,"fall","New York",3607
+2023,"fall","North Carolina",3750
+2023,"fall","North Dakota",311
+2023,"fall","Ohio",2981
+2023,"fall","Oklahoma",1842
+2023,"fall","Oregon",2556
+2023,"fall","Pennsylvania",3197
+2023,"fall","Rhode Island",884
+2023,"fall","South Carolina",1833
+2023,"fall","South Dakota",499
+2023,"fall","Tennessee",2556
+2023,"fall","Texas",5470
+2023,"fall","Utah",1388
+2023,"fall","Vermont",1733
+2023,"fall","Virginia",3083
+2023,"fall","Washington",2611
+2023,"fall","West Virginia",1444
+2023,"fall","Wisconsin",2171
+2023,"fall","Wyoming",623
+2023,"spring","Alabama",3221
+2023,"spring","Alaska",840
+2023,"spring","Arizona",2725
+2023,"spring","Arkansas",2248
+2023,"spring","California",7915
+2023,"spring","Colorado",1668
+2023,"spring","Connecticut",1538
+2023,"spring","Delaware",1196
+2023,"spring","Florida",5876
+2023,"spring","Georgia",3290
+2023,"spring","Hawaii",1633
+2023,"spring","Idaho",1089
+2023,"spring","Illinois",2707
+2023,"spring","Indiana",1748
+2023,"spring","Iowa",850
+2023,"spring","Kansas",1249
+2023,"spring","Kentucky",2201
+2023,"spring","Louisiana",2681
+2023,"spring","Maine",1215
+2023,"spring","Maryland",3168
+2023,"spring","Massachusetts",2552
+2023,"spring","Michigan",1964
+2023,"spring","Minnesota",1727
+2023,"spring","Mississippi",2022
+2023,"spring","Missouri",2344
+2023,"spring","Montana",744
+2023,"spring","Nebraska",831
+2023,"spring","Nevada",1376
+2023,"spring","New Hampshire",1105
+2023,"spring","New Jersey",2596
+2023,"spring","New Mexico",1834
+2023,"spring","New York",3241
+2023,"spring","North Carolina",4179
+2023,"spring","North Dakota",291
+2023,"spring","Ohio",2764
+2023,"spring","Oklahoma",2130
+2023,"spring","Oregon",2778
+2023,"spring","Pennsylvania",3036
+2023,"spring","Rhode Island",978
+2023,"spring","South Carolina",2217
+2023,"spring","South Dakota",508
+2023,"spring","Tennessee",3225
+2023,"spring","Texas",7526
+2023,"spring","Utah",1443
+2023,"spring","Vermont",1516
+2023,"spring","Virginia",3300
+2023,"spring","Washington",2764
+2023,"spring","West Virginia",1459
+2023,"spring","Wisconsin",1854
+2023,"spring","Wyoming",471
+2023,"summer","Alabama",2921
+2023,"summer","Alaska",1973
+2023,"summer","Arizona",3468
+2023,"summer","Arkansas",2377
+2023,"summer","California",8281
+2023,"summer","Colorado",3422
+2023,"summer","Connecticut",2767
+2023,"summer","Delaware",1538
+2023,"summer","Florida",4730
+2023,"summer","Georgia",3027
+2023,"summer","Hawaii",1508
+2023,"summer","Idaho",1889
+2023,"summer","Illinois",3793
+2023,"summer","Indiana",2668
+2023,"summer","Iowa",1481
+2023,"summer","Kansas",1617
+2023,"summer","Kentucky",2369
+2023,"summer","Louisiana",2334
+2023,"summer","Maine",2813
+2023,"summer","Maryland",4410
+2023,"summer","Massachusetts",4463
+2023,"summer","Michigan",3915
+2023,"summer","Minnesota",3572
+2023,"summer","Mississippi",1812
+2023,"summer","Missouri",3019
+2023,"summer","Montana",1804
+2023,"summer","Nebraska",1567
+2023,"summer","Nevada",1831
+2023,"summer","New Hampshire",2266
+2023,"summer","New Jersey",3398
+2023,"summer","New Mexico",2623
+2023,"summer","New York",5346
+2023,"summer","North Carolina",4905
+2023,"summer","North Dakota",742
+2023,"summer","Ohio",4306
+2023,"summer","Oklahoma",2574
+2023,"summer","Oregon",3716
+2023,"summer","Pennsylvania",4827
+2023,"summer","Rhode Island",1728
+2023,"summer","South Carolina",2247
+2023,"summer","South Dakota",1145
+2023,"summer","Tennessee",3526
+2023,"summer","Texas",5886
+2023,"summer","Utah",2167
+2023,"summer","Vermont",3085
+2023,"summer","Virginia",4127
+2023,"summer","Washington",3693
+2023,"summer","West Virginia",2463
+2023,"summer","Wisconsin",3542
+2023,"summer","Wyoming",1470
+2023,"winter","Alabama",1305
+2023,"winter","Alaska",339
+2023,"winter","Arizona",1410
+2023,"winter","Arkansas",789
+2023,"winter","California",5380
+2023,"winter","Colorado",427
+2023,"winter","Connecticut",562
+2023,"winter","Delaware",418
+2023,"winter","Florida",4324
+2023,"winter","Georgia",1458
+2023,"winter","Hawaii",1435
+2023,"winter","Idaho",288
+2023,"winter","Illinois",860
+2023,"winter","Indiana",600
+2023,"winter","Iowa",205
+2023,"winter","Kansas",349
+2023,"winter","Kentucky",832
+2023,"winter","Louisiana",1280
+2023,"winter","Maine",359
+2023,"winter","Maryland",1131
+2023,"winter","Massachusetts",1026
+2023,"winter","Michigan",733
+2023,"winter","Minnesota",590
+2023,"winter","Mississippi",988
+2023,"winter","Missouri",661
+2023,"winter","Montana",185
+2023,"winter","Nebraska",182
+2023,"winter","Nevada",485
+2023,"winter","New Hampshire",328
+2023,"winter","New Jersey",1053
+2023,"winter","New Mexico",606
+2023,"winter","New York",1394
+2023,"winter","North Carolina",1757
+2023,"winter","North Dakota",47
+2023,"winter","Ohio",1073
+2023,"winter","Oklahoma",563
+2023,"winter","Oregon",1302
+2023,"winter","Pennsylvania",1196
+2023,"winter","Rhode Island",331
+2023,"winter","South Carolina",1073
+2023,"winter","South Dakota",122
+2023,"winter","Tennessee",993
+2023,"winter","Texas",4052
+2023,"winter","Utah",399
+2023,"winter","Vermont",410
+2023,"winter","Virginia",1240
+2023,"winter","Washington",1313
+2023,"winter","West Virginia",579
+2023,"winter","Wisconsin",488
+2023,"winter","Wyoming",94
