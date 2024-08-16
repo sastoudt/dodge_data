@@ -33,6 +33,7 @@ write.csv(test4, "inatCleaned.csv", row.names = F)
 
 
 #### summarize data - start here ####
+setwd("~/Documents/Bucknell/dodge_data_processing")
 
 ptm <- proc.time()
 tryThis <- fread("inatCleaned.csv")
