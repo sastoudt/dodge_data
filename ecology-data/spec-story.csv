@@ -1,5 +1,5 @@
 "state","hometown_hero","underdog","urlH","urlU"
-"Alabama","Anolis carolinensis","Abacidus sculptus","https://www.inaturalist.org/taxa/36514",NA
+"Alabama","Anolis carolinensis","Abacidus sculptus","https://www.inaturalist.org/taxa/36514","https://www.inaturalist.org/taxa/790851-Pterostichus-sculptus"
 "Alaska","Alces alces","Abagrotis placida","https://www.inaturalist.org/taxa/522193","https://www.inaturalist.org/taxa/212181"
 "Alberta","Agelaius phoeniceus","Actaea rubra","https://www.inaturalist.org/taxa/9744","https://www.inaturalist.org/taxa/49870"
 "Arizona","Carnegiea gigantea","Abagrotis bimarginalis","https://www.inaturalist.org/taxa/54449","https://www.inaturalist.org/taxa/371192"
@@ -11,7 +11,7 @@
 "Coahuila","Echinocereus coccineus","Acmaeodera princeps","https://www.inaturalist.org/taxa/162177","https://www.inaturalist.org/taxa/708084"
 "Colorado","Odocoileus hemionus","Abagrotis discoidalis","https://www.inaturalist.org/taxa/42220","https://www.inaturalist.org/taxa/212172"
 "Connecticut","Bombus impatiens","Abelmoschus esculentus","https://www.inaturalist.org/taxa/118970","https://www.inaturalist.org/taxa/157765"
-"Delaware","Harmonia axyridis","Abacidus permundus","https://www.inaturalist.org/taxa/48484",NA
+"Delaware","Harmonia axyridis","Abacidus permundus","https://www.inaturalist.org/taxa/48484","https://www.inaturalist.org/taxa/229365-Pterostichus-permundus"
 "District of Columbia","Sciurus carolinensis","Acanthocinus obsoletus","https://www.inaturalist.org/taxa/46017","https://www.inaturalist.org/taxa/212208"
 "Florida","Anolis sagrei","Ablennes hians","https://www.inaturalist.org/taxa/116461","https://www.inaturalist.org/taxa/135196"
 "Georgia","Anolis carolinensis","Abablemma brimleyana","https://www.inaturalist.org/taxa/36514","https://www.inaturalist.org/taxa/417174"
@@ -51,10 +51,10 @@
 "Saskatchewan","Urocitellus richardsonii","Bouteloua dactyloides","https://www.inaturalist.org/taxa/180002","https://www.inaturalist.org/taxa/288038"
 "Sonora","Ferocactus wislizeni","Anisacanthus thurberi","https://www.inaturalist.org/taxa/162935","https://www.inaturalist.org/taxa/158387"
 "South Carolina","Anolis carolinensis","Abudefduf saxatilis","https://www.inaturalist.org/taxa/36514","https://www.inaturalist.org/taxa/49402"
-"South Dakota","Bison bison","Abacidus permundus","https://www.inaturalist.org/taxa/42408",NA
+"South Dakota","Bison bison","Abacidus permundus","https://www.inaturalist.org/taxa/42408", "https://www.inaturalist.org/taxa/229365-Pterostichus-permundus"
 "Tamaulipas","Apalone spinifera","Anas diazi","https://www.inaturalist.org/taxa/39556","https://www.inaturalist.org/taxa/827372"
 "Tennessee","Odocoileus virginianus","Acalymma vinctum","https://www.inaturalist.org/taxa/42223","https://www.inaturalist.org/taxa/484416"
-"Texas","Cardinalis cardinalis","Abacidus permundus","https://www.inaturalist.org/taxa/9083",NA
+"Texas","Cardinalis cardinalis","Abacidus permundus","https://www.inaturalist.org/taxa/9083", "https://www.inaturalist.org/taxa/229365-Pterostichus-permundus"
 "Utah","Columba livia","Abagrotis discoidalis","https://www.inaturalist.org/taxa/3017","https://www.inaturalist.org/taxa/212172"
 "Vermont","Bombus impatiens","Abagrotis alternata","https://www.inaturalist.org/taxa/118970","https://www.inaturalist.org/taxa/212165"
 "Virginia","Odocoileus virginianus","Aaroniella badonneli","https://www.inaturalist.org/taxa/42223","https://www.inaturalist.org/taxa/473200"
